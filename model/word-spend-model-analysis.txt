@@ -1,0 +1,27 @@
+Using top 25 nouns
+Mean Absolute Error	29662.518295
+Root Mean Squared Error	48228.573203
+Relative Absolute Error	0.262905
+Relative Squared Error	0.087411
+Coefficient of Determination	0.912589
+
+Using top 25 adj/adv
+Mean Absolute Error	26991.455182
+Root Mean Squared Error	49252.945849
+Relative Absolute Error	0.211938
+Relative Squared Error	0.086686
+Coefficient of Determination	0.913314
+
+Using top 25 verb
+Mean Absolute Error	26108.176253
+Root Mean Squared Error	35984.622833
+Relative Absolute Error	0.197861
+Relative Squared Error	0.043683
+Coefficient of Determination	0.956317
+
+Using top 25 all
+Mean Absolute Error	53922.236519
+Root Mean Squared Error	162365.933941
+Relative Absolute Error	0.38254
+Relative Squared Error	0.634122
+Coefficient of Determination	0.365878

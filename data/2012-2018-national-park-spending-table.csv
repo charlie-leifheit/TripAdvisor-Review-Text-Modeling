@@ -1,0 +1,428 @@
+park,year,total_visitors,visitor_spending,average_spending
+Acadia National Park,2012,"2,431,052","200,920.00",0.08
+Acadia National Park,2013,"2,254,922","190,953.90",0.08
+Acadia National Park,2014,"2,563,128","221,130.50",0.09
+Acadia National Park,2015,"2,811,184","247,910.80",0.09
+Acadia National Park,2016,"3,303,394","274,208.80",0.08
+Acadia National Park,2017,"3,509,271","284,459.80",0.08
+Acadia National Park,2018,"3,537,575","387,654.00",0.11
+American Samoa National Park,2012,"10,440",561.80,0.05
+American Samoa National Park,2013,"17,919",987.70,0.06
+American Samoa National Park,2014,"13,952",782.50,0.06
+American Samoa National Park,2015,"13,893",795.50,0.06
+American Samoa National Park,2016,"28,893","1,689.30",0.06
+American Samoa National Park,2017,"69,468","3,971.70",0.06
+American Samoa National Park,2018,"28,625","1,690.00",0.06
+Arches National Park,2012,"1,070,577","115,859.90",0.11
+Arches National Park,2013,"1,082,866","120,171.70",0.11
+Arches National Park,2014,"1,284,768","146,081.20",0.11
+Arches National Park,2015,"1,399,247","162,718.20",0.12
+Arches National Park,2016,"1,585,719","188,802.50",0.12
+Arches National Park,2017,"1,539,028","182,505.50",0.12
+Arches National Park,2018,"1,663,556","200,337.00",0.12
+Badlands National Park,2012,"883,406","52,145.40",0.06
+Badlands National Park,2013,"892,373","53,653.60",0.06
+Badlands National Park,2014,"868,094","53,312.90",0.06
+Badlands National Park,2015,"989,354","62,209.20",0.06
+Badlands National Park,2016,"996,263","63,746.60",0.06
+Badlands National Park,2017,"1,054,325","66,005.90",0.06
+Badlands National Park,2018,"1,008,942","65,840.00",0.07
+Big Bend National Park,2012,"292,055","24,230.10",0.08
+Big Bend National Park,2013,"316,952","26,801.90",0.08
+Big Bend National Park,2014,"314,102","27,185.40",0.09
+Big Bend National Park,2015,"381,747","33,426.30",0.09
+Big Bend National Park,2016,"388,290","34,197.40",0.09
+Big Bend National Park,2017,"440,275","37,305.30",0.08
+Big Bend National Park,2018,"440,091","38,865.00",0.09
+Biscayne National Park,2012,"495,613","29,193.60",0.06
+Biscayne National Park,2013,"486,848","29,412.30",0.06
+Biscayne National Park,2014,"525,745","32,351.30",0.06
+Biscayne National Park,2015,"508,164","31,927.30",0.06
+Biscayne National Park,2016,"514,709","33,004.10",0.06
+Biscayne National Park,2017,"446,961","27,986.70",0.06
+Biscayne National Park,2018,"469,254","30,309.00",0.06
+Black Canyon Of The Gunnison National Park,2012,"192,570","11,027.60",0.06
+Black Canyon Of The Gunnison National Park,2013,"175,852","10,297.10",0.06
+Black Canyon Of The Gunnison National Park,2014,"183,046","10,948.40",0.06
+Black Canyon Of The Gunnison National Park,2015,"209,165","12,723.90",0.06
+Black Canyon Of The Gunnison National Park,2016,"238,017","14,616.10",0.06
+Black Canyon Of The Gunnison National Park,2017,"307,142","18,656.50",0.06
+Black Canyon Of The Gunnison National Park,2018,"308,962","19,315.00",0.06
+Bryce Canyon National Park,2012,"1,385,352","108,946.20",0.08
+Bryce Canyon National Park,2013,"1,311,875","105,745.80",0.08
+Bryce Canyon National Park,2014,"1,435,741","117,882.80",0.08
+Bryce Canyon National Park,2015,"1,745,804","145,879.80",0.08
+Bryce Canyon National Park,2016,"2,365,111","200,974.10",0.08
+Bryce Canyon National Park,2017,"2,571,684","212,958.50",0.08
+Bryce Canyon National Park,2018,"2,679,478","227,305.00",0.08
+Canyonlands National Park,2012,"452,952","25,208.90",0.06
+Canyonlands National Park,2013,"462,242","26,316.30",0.06
+Canyonlands National Park,2014,"542,431","31,282.70",0.06
+Canyonlands National Park,2015,"634,607","37,958.80",0.06
+Canyonlands National Park,2016,"776,217","47,639.70",0.06
+Canyonlands National Park,2017,"742,272","44,541.80",0.06
+Canyonlands National Park,2018,"739,450","45,776.00",0.06
+Capitol Reef National Park,2012,"673,345","44,636.70",0.07
+Capitol Reef National Park,2013,"663,670","45,086.00",0.07
+Capitol Reef National Park,2014,"786,515","54,427.50",0.07
+Capitol Reef National Park,2015,"941,029","66,601.60",0.07
+Capitol Reef National Park,2016,"1,064,904","77,047.50",0.07
+Capitol Reef National Park,2017,"1,150,165","81,284.40",0.07
+Capitol Reef National Park,2018,"1,227,626","89,216.00",0.07
+Carlsbad Caverns National Park,2012,"381,058","22,584.70",0.06
+Carlsbad Caverns National Park,2013,"388,565","23,589.70",0.06
+Carlsbad Caverns National Park,2014,"397,309","24,544.80",0.06
+Carlsbad Caverns National Park,2015,"445,721","28,116.10",0.06
+Carlsbad Caverns National Park,2016,"466,772","30,064.00",0.06
+Carlsbad Caverns National Park,2017,"520,026","32,750.00",0.06
+Carlsbad Caverns National Park,2018,"465,912","30,238.00",0.06
+Channel Islands National Park,2012,"249,594","13,997.10",0.06
+Channel Islands National Park,2013,"212,028","11,907.90",0.06
+Channel Islands National Park,2014,"342,161","20,248.60",0.06
+Channel Islands National Park,2015,"324,815","19,286.20",0.06
+Channel Islands National Park,2016,"364,808","22,436.00",0.06
+Channel Islands National Park,2017,"383,687","23,095.10",0.06
+Channel Islands National Park,2018,"366,249","22,907.00",0.06
+Congaree National Park,2012,"109,685","5,144.00",0.05
+Congaree National Park,2013,"120,341","5,822.70",0.05
+Congaree National Park,2014,"120,123","5,945.60",0.05
+Congaree National Park,2015,"87,513","4,370.20",0.05
+Congaree National Park,2016,"143,843","7,307.30",0.05
+Congaree National Park,2017,"159,595","7,827.50",0.05
+Congaree National Park,2018,"145,928","7,415.00",0.05
+Crater Lake National Park,2012,"447,251","36,097.00",0.08
+Crater Lake National Park,2013,"523,027","43,652.10",0.08
+Crater Lake National Park,2014,"535,508","44,787.60",0.08
+Crater Lake National Park,2015,"614,712","52,185.00",0.08
+Crater Lake National Park,2016,"756,343","65,300.70",0.09
+Crater Lake National Park,2017,"711,749","59,899.50",0.08
+Crater Lake National Park,2018,"720,658","62,399.00",0.09
+Cuyahoga Valley National Park,2012,"2,299,722","136,751.80",0.06
+Cuyahoga Valley National Park,2013,"2,103,010","128,157.00",0.06
+Cuyahoga Valley National Park,2014,"2,189,849","135,805.00",0.06
+Cuyahoga Valley National Park,2015,"2,284,612","144,710.30",0.06
+Cuyahoga Valley National Park,2016,"2,423,391","69,728.20",0.03
+Cuyahoga Valley National Park,2017,"2,226,879","63,098.60",0.03
+Cuyahoga Valley National Park,2018,"2,096,053","36,811.00",0.02
+Death Valley National Park,2012,"984,568","77,966.60",0.08
+Death Valley National Park,2013,"951,973","75,255.10",0.08
+Death Valley National Park,2014,"1,101,312","89,177.40",0.08
+Death Valley National Park,2015,"1,154,843","95,036.90",0.08
+Death Valley National Park,2016,"1,296,283","108,077.80",0.08
+Death Valley National Park,2017,"1,294,827","106,839.20",0.08
+Death Valley National Park,2018,"1,678,659","141,260.00",0.08
+Denali National Park,2012,"388,433","371,501.10",0.96
+Denali National Park,2013,"530,921","513,335.20",0.97
+Denali National Park,2014,"531,315","524,279.20",0.99
+Denali National Park,2015,"560,757","567,166.40",1.01
+Denali National Park,2016,"587,412","604,881.90",1.03
+Denali National Park,2017,"642,809","632,370.40",0.98
+Denali National Park,2018,"594,661","602,445.00",1.01
+Dry Tortugas National Park,2012,"60,550","3,210.60",0.05
+Dry Tortugas National Park,2013,"58,400","3,389.70",0.06
+Dry Tortugas National Park,2014,"64,865","3,783.60",0.06
+Dry Tortugas National Park,2015,"70,862","4,235.90",0.06
+Dry Tortugas National Park,2016,"73,661","4,410.00",0.06
+Dry Tortugas National Park,2017,"54,280","3,190.30",0.06
+Dry Tortugas National Park,2018,"56,810","3,426.00",0.06
+Everglades National Park,2012,"1,141,906","102,764.60",0.09
+Everglades National Park,2013,"1,047,116","96,627.00",0.09
+Everglades National Park,2014,"1,110,900","104,476.50",0.09
+Everglades National Park,2015,"1,077,427","103,392.60",0.10
+Everglades National Park,2016,"930,907","91,321.40",0.10
+Everglades National Park,2017,"1,018,557","97,398.30",0.10
+Everglades National Park,2018,"597,124","58,664.00",0.10
+Gates Of The Arctic National Park,2012,"10,899","15,742.50",1.44
+Gates Of The Arctic National Park,2013,"11,012","16,291.90",1.48
+Gates Of The Arctic National Park,2014,"12,669","19,119.20",1.51
+Gates Of The Arctic National Park,2015,"10,745","16,576.90",1.54
+Gates Of The Arctic National Park,2016,"10,047","15,844.80",1.58
+Gates Of The Arctic National Park,2017,"11,177","17,161.40",1.54
+Gates Of The Arctic National Park,2018,"9,591","14,567.00",1.52
+Glacier Bay National Park,2012,"454,337","92,676.30",0.20
+Glacier Bay National Park,2013,"500,590","96,283.00",0.19
+Glacier Bay National Park,2014,"500,727","111,595.90",0.22
+Glacier Bay National Park,2015,"551,353","112,754.20",0.20
+Glacier Bay National Park,2016,"520,171","112,054.60",0.22
+Glacier Bay National Park,2017,"547,057","113,804.70",0.21
+Glacier Bay National Park,2018,"597,916","217,161.00",0.36
+Glacier National Park,2012,"2,162,035","172,420.90",0.08
+Glacier National Park,2013,"2,190,374","178,840.20",0.08
+Glacier National Park,2014,"2,338,528","193,345.60",0.08
+Glacier National Park,2015,"2,366,057","198,966.00",0.08
+Glacier National Park,2016,"2,946,681","250,815.50",0.09
+Glacier National Park,2017,"3,305,513","275,137.30",0.08
+Glacier National Park,2018,"2,965,310","344,287.00",0.12
+Grand Canyon National Park,2012,"4,421,352","453,641.30",0.10
+Grand Canyon National Park,2013,"4,564,841","476,194.80",0.10
+Grand Canyon National Park,2014,"4,756,771","509,528.00",0.11
+Grand Canyon National Park,2015,"5,520,736","584,890.90",0.11
+Grand Canyon National Park,2016,"5,969,811","648,170.90",0.11
+Grand Canyon National Park,2017,"6,254,238","666,912.80",0.11
+Grand Canyon National Park,2018,"6,380,494","947,119.00",0.15
+Grand Teton National Park,2012,"2,705,256","454,093.60",0.17
+Grand Teton National Park,2013,"2,688,795","462,609.00",0.17
+Grand Teton National Park,2014,"2,791,393","489,710.10",0.18
+Grand Teton National Park,2015,"3,149,920","560,394.40",0.18
+Grand Teton National Park,2016,"3,270,075","597,290.50",0.18
+Grand Teton National Park,2017,"3,316,999","589,903.90",0.18
+Grand Teton National Park,2018,"3,491,151","628,933.00",0.18
+Great Basin National Park,2012,"94,850","4,912.60",0.05
+Great Basin National Park,2013,"92,893","4,927.30",0.05
+Great Basin National Park,2014,"107,525","5,846.30",0.05
+Great Basin National Park,2015,"116,124","6,461.20",0.06
+Great Basin National Park,2016,"144,847","8,362.40",0.06
+Great Basin National Park,2017,"168,027","9,694.10",0.06
+Great Basin National Park,2018,"153,094","8,795.00",0.06
+Great Sand Dunes National Park,2012,"254,674","14,323.00",0.06
+Great Sand Dunes National Park,2013,"242,841","14,077.50",0.06
+Great Sand Dunes National Park,2014,"271,774","15,754.90",0.06
+Great Sand Dunes National Park,2015,"299,513","17,752.70",0.06
+Great Sand Dunes National Park,2016,"388,307","23,701.00",0.06
+Great Sand Dunes National Park,2017,"486,935","29,582.60",0.06
+Great Sand Dunes National Park,2018,"442,906","27,414.00",0.06
+Great Smoky Mountains National Park,2012,"9,685,829","741,499.10",0.08
+Great Smoky Mountains National Park,2013,"9,354,695","734,086.60",0.08
+Great Smoky Mountains National Park,2014,"10,099,276","806,719.90",0.08
+Great Smoky Mountains National Park,2015,"10,712,673","873,886.50",0.08
+Great Smoky Mountains National Park,2016,"11,312,786","942,731.80",0.08
+Great Smoky Mountains National Park,2017,"11,338,893","922,947.10",0.08
+Great Smoky Mountains National Park,2018,"11,421,201","953,130.00",0.08
+Guadalupe Mountains National Park,2012,"159,360","9,111.50",0.06
+Guadalupe Mountains National Park,2013,"145,670","8,500.50",0.06
+Guadalupe Mountains National Park,2014,"166,868","9,949.40",0.06
+Guadalupe Mountains National Park,2015,"169,535","10,305.20",0.06
+Guadalupe Mountains National Park,2016,"181,838","11,240.20",0.06
+Guadalupe Mountains National Park,2017,"225,257","13,646.20",0.06
+Guadalupe Mountains National Park,2018,"172,347","10,710.00",0.06
+Haleakala National Park,2012,"1,094,668","64,461.30",0.06
+Haleakala National Park,2013,"785,300","47,445.40",0.06
+Haleakala National Park,2014,"1,142,040","70,290.10",0.06
+Haleakala National Park,2015,"1,216,772","76,462.50",0.06
+Haleakala National Park,2016,"1,263,559","81,087.90",0.06
+Haleakala National Park,2017,"1,112,390","69,751.10",0.06
+Haleakala National Park,2018,"1,044,083","67,459.00",0.06
+Hawaii Volcanoes National Park,2012,"1,483,928","113,376.40",0.08
+Hawaii Volcanoes National Park,2013,"1,583,209","124,937.40",0.08
+Hawaii Volcanoes National Park,2014,"1,693,005","136,839.70",0.08
+Hawaii Volcanoes National Park,2015,"1,832,660","151,246.20",0.08
+Hawaii Volcanoes National Park,2016,"1,887,580","159,195.50",0.08
+Hawaii Volcanoes National Park,2017,"2,016,702","166,177.30",0.08
+Hawaii Volcanoes National Park,2018,"1,116,890","94,118.00",0.08
+Hot Springs National Park,2012,"1,302,505","77,011.20",0.06
+Hot Springs National Park,2013,"1,325,719","80,191.00",0.06
+Hot Springs National Park,2014,"1,424,485","87,606.10",0.06
+Hot Springs National Park,2015,"1,418,163","88,953.70",0.06
+Hot Springs National Park,2016,"1,544,301","98,960.20",0.06
+Hot Springs National Park,2017,"1,561,615","97,854.30",0.06
+Hot Springs National Park,2018,"1,506,887","97,291.00",0.06
+Indiana Dunes National Park,2012,"1,889,381","75,915.50",0.04
+Indiana Dunes National Park,2013,"1,681,694","69,156.90",0.04
+Indiana Dunes National Park,2014,"1,553,372","64,905.30",0.04
+Indiana Dunes National Park,2015,"1,640,195","69,879.40",0.04
+Indiana Dunes National Park,2016,"1,698,222","73,788.00",0.04
+Indiana Dunes National Park,2017,"2,158,471","92,046.00",0.04
+Indiana Dunes National Park,2018,"1,756,080","77,852.00",0.04
+Isle Royale National Park,2012,"16,663","3,477.10",0.21
+Isle Royale National Park,2013,"16,274","3,527.70",0.22
+Isle Royale National Park,2014,"14,560","3,426.30",0.24
+Isle Royale National Park,2015,"18,684","4,084.50",0.22
+Isle Royale National Park,2016,"24,966","5,600.70",0.22
+Isle Royale National Park,2017,"28,196","6,156.90",0.22
+Isle Royale National Park,2018,"25,798","5,655.00",0.22
+Jean Lafitte National Park,2012,"419,694","22,584.20",0.05
+Jean Lafitte National Park,2013,"400,128","22,054.90",0.06
+Jean Lafitte National Park,2014,"445,524","24,986.30",0.06
+Jean Lafitte National Park,2015,"405,618","23,226.30",0.06
+Jean Lafitte National Park,2016,"438,420","25,633.80",0.06
+Jean Lafitte National Park,2017,"456,667","26,109.30",0.06
+Jean Lafitte National Park,2018,"529,878","31,291.00",0.06
+Joshua Tree National Park,2012,"1,396,117","62,175.80",0.04
+Joshua Tree National Park,2013,"1,383,341","62,929.90",0.05
+Joshua Tree National Park,2014,"1,589,904","73,769.20",0.05
+Joshua Tree National Park,2015,"2,025,755","96,741.30",0.05
+Joshua Tree National Park,2016,"2,505,286","123,304.50",0.05
+Joshua Tree National Park,2017,"2,853,619","137,625.40",0.05
+Joshua Tree National Park,2018,"2,942,381","146,479.00",0.05
+Katmai National Park,2012,"39,818","57,513.10",1.44
+Katmai National Park,2013,"28,966","42,854.60",1.48
+Katmai National Park,2014,"30,896","46,627.20",1.51
+Katmai National Park,2015,"37,818","58,343.10",1.54
+Katmai National Park,2016,"37,818","59,643.20",1.58
+Katmai National Park,2017,"37,818","58,068.20",1.54
+Katmai National Park,2018,"37,818","57,441.00",1.52
+Kenai Fjords National Park,2012,"281,279","52,487.90",0.19
+Kenai Fjords National Park,2013,"283,502","53,975.70",0.19
+Kenai Fjords National Park,2014,"270,666","52,777.20",0.19
+Kenai Fjords National Park,2015,"296,697","59,320.60",0.20
+Kenai Fjords National Park,2016,"346,534","62,784.50",0.18
+Kenai Fjords National Park,2017,"303,598","53,511.20",0.18
+Kenai Fjords National Park,2018,"321,596","58,752.00",0.18
+Kings Canyon National Park,2012,"591,033","45,904.30",0.08
+Kings Canyon National Park,2013,"567,544","46,383.60",0.08
+Kings Canyon National Park,2014,"502,267","42,507.70",0.08
+Kings Canyon National Park,2015,"468,105","40,667.50",0.09
+Kings Canyon National Park,2016,"607,479","52,945.10",0.09
+Kings Canyon National Park,2017,"692,932","58,740.90",0.08
+Kings Canyon National Park,2018,"699,023","61,146.00",0.09
+Kobuk Valley National Park,2012,"29,550","42,682.00",1.44
+Kobuk Valley National Park,2013,"16,875","24,966.50",1.48
+Kobuk Valley National Park,2014,-,-,
+Kobuk Valley National Park,2015,0,0.00,
+Kobuk Valley National Park,2016,"15,500","24,445.40",1.58
+Kobuk Valley National Park,2017,"15,500","23,799.90",1.54
+Kobuk Valley National Park,2018,"14,937","22,686.00",1.52
+Lake Clark National Park,2012,"11,639","16,811.40",1.44
+Lake Clark National Park,2013,"13,000","19,232.60",1.48
+Lake Clark National Park,2014,"16,100","24,298.10",1.51
+Lake Clark National Park,2015,"17,818","27,488.60",1.54
+Lake Clark National Park,2016,"21,102","33,280.30",1.58
+Lake Clark National Park,2017,"22,755","34,939.20",1.54
+Lake Clark National Park,2018,"14,479","21,992.00",1.52
+Lassen Volcanic National Park,2012,"407,653","22,918.10",0.06
+Lassen Volcanic National Park,2013,"427,408","24,319.40",0.06
+Lassen Volcanic National Park,2014,"432,977","25,148.90",0.06
+Lassen Volcanic National Park,2015,"468,092","27,361.50",0.06
+Lassen Volcanic National Park,2016,"536,068","32,639.40",0.06
+Lassen Volcanic National Park,2017,"507,256","30,096.80",0.06
+Lassen Volcanic National Park,2018,"499,435","30,328.00",0.06
+Mammoth Cave National Park,2012,"508,054","40,429.60",0.08
+Mammoth Cave National Park,2013,"494,541","40,333.90",0.08
+Mammoth Cave National Park,2014,"522,628","43,642.10",0.08
+Mammoth Cave National Park,2015,"566,895","48,102.80",0.08
+Mammoth Cave National Park,2016,"586,515","49,629.70",0.08
+Mammoth Cave National Park,2017,"587,854","48,145.50",0.08
+Mammoth Cave National Park,2018,"533,206","45,094.00",0.08
+Mesa Verde National Park,2012,"488,860","46,696.10",0.10
+Mesa Verde National Park,2013,"460,237","45,089.80",0.10
+Mesa Verde National Park,2014,"501,563","49,982.20",0.10
+Mesa Verde National Park,2015,"547,325","55,447.00",0.10
+Mesa Verde National Park,2016,"583,527","60,591.00",0.10
+Mesa Verde National Park,2017,"613,789","62,294.40",0.10
+Mesa Verde National Park,2018,"563,421","58,513.00",0.10
+Mount Rainier National Park,2012,"1,049,178","36,843.80",0.04
+Mount Rainier National Park,2013,"1,148,553","40,856.20",0.04
+Mount Rainier National Park,2014,"1,264,259","45,531.70",0.04
+Mount Rainier National Park,2015,"1,237,232","45,741.30",0.04
+Mount Rainier National Park,2016,"1,356,913","50,720.60",0.04
+Mount Rainier National Park,2017,"1,415,867","50,573.20",0.04
+Mount Rainier National Park,2018,"1,518,491","54,896.00",0.04
+North Cascades National Park,2012,"26,935","1,216.10",0.05
+North Cascades National Park,2013,"21,623",902.90,0.04
+North Cascades National Park,2014,"23,865","1,028.40",0.04
+North Cascades National Park,2015,"20,677",800.50,0.04
+North Cascades National Park,2016,"28,646","1,289.00",0.04
+North Cascades National Park,2017,"30,326","1,361.50",0.04
+North Cascades National Park,2018,"30,085","1,375.00",0.05
+Olympic National Park,2012,"2,824,908","220,037.30",0.08
+Olympic National Park,2013,"3,085,340","245,894.10",0.08
+Olympic National Park,2014,"3,243,873","263,953.30",0.08
+Olympic National Park,2015,"3,263,761","270,618.60",0.08
+Olympic National Park,2016,"3,390,221","286,786.30",0.08
+Olympic National Park,2017,"3,401,997","279,392.00",0.08
+Olympic National Park,2018,"3,104,455","261,607.00",0.08
+Petrified Forest National Park,2012,"664,857","39,405.10",0.06
+Petrified Forest National Park,2013,"644,648","39,137.00",0.06
+Petrified Forest National Park,2014,"836,800","51,696.50",0.06
+Petrified Forest National Park,2015,"793,226","50,032.40",0.06
+Petrified Forest National Park,2016,"643,273","41,429.10",0.06
+Petrified Forest National Park,2017,"627,756","39,510.10",0.06
+Petrified Forest National Park,2018,"644,921","41,835.00",0.06
+Pinnacles National Park,2012,"224,476","12,079.30",0.05
+Pinnacles National Park,2013,"237,677","13,100.70",0.06
+Pinnacles National Park,2014,"196,636","11,028.00",0.06
+Pinnacles National Park,2015,"206,532","11,826.30",0.06
+Pinnacles National Park,2016,"215,555","12,603.20",0.06
+Pinnacles National Park,2017,"233,334","13,340.60",0.06
+Pinnacles National Park,2018,"222,152","13,119.00",0.06
+Redwood National Park,2012,"352,517","20,833.30",0.06
+Redwood National Park,2013,"393,364","23,684.50",0.06
+Redwood National Park,2014,"429,166","26,322.40",0.06
+Redwood National Park,2015,"527,143","33,012.80",0.06
+Redwood National Park,2016,"536,297","34,282.70",0.06
+Redwood National Park,2017,"445,000","27,810.70",0.06
+Redwood National Park,2018,"482,535","31,071.00",0.06
+Rocky Mountain National Park,2012,"3,229,617","196,144.00",0.06
+Rocky Mountain National Park,2013,"2,991,141","186,128.10",0.06
+Rocky Mountain National Park,2014,"3,434,750","217,019.50",0.06
+Rocky Mountain National Park,2015,"4,155,917","268,391.40",0.06
+Rocky Mountain National Park,2016,"4,517,586","298,746.70",0.07
+Rocky Mountain National Park,2017,"4,437,215","286,151.80",0.06
+Rocky Mountain National Park,2018,"4,590,493","305,593.00",0.07
+Saguaro National Park,2012,"634,286","37,567.70",0.06
+Saguaro National Park,2013,"678,261","41,150.70",0.06
+Saguaro National Park,2014,"673,572","41,588.20",0.06
+Saguaro National Park,2015,"753,446","47,493.00",0.06
+Saguaro National Park,2016,"820,427","52,811.20",0.06
+Saguaro National Park,2017,"964,759","60,716.80",0.06
+Saguaro National Park,2018,"957,405","62,099.00",0.06
+Sequoia National Park,2012,"1,106,584","77,187.10",0.07
+Sequoia National Park,2013,"909,275","65,340.10",0.07
+Sequoia National Park,2014,"1,039,137","76,741.70",0.07
+Sequoia National Park,2015,"1,097,464","82,611.70",0.08
+Sequoia National Park,2016,"1,254,688","95,203.60",0.08
+Sequoia National Park,2017,"1,291,256","95,882.40",0.07
+Sequoia National Park,2018,"1,229,594","94,431.00",0.08
+Shenandoah National Park,2012,"1,210,200","76,019.20",0.06
+Shenandoah National Park,2013,"1,136,505","72,402.60",0.06
+Shenandoah National Park,2014,"1,255,320","80,394.00",0.06
+Shenandoah National Park,2015,"1,321,873","87,870.20",0.07
+Shenandoah National Park,2016,"1,437,341","96,204.10",0.07
+Shenandoah National Park,2017,"1,458,874","95,825.50",0.07
+Shenandoah National Park,2018,"1,264,880","86,905.00",0.07
+Theodore Roosevelt National Park,2012,"640,555","37,439.00",0.06
+Theodore Roosevelt National Park,2013,"545,091","32,505.60",0.06
+Theodore Roosevelt National Park,2014,"559,580","33,959.90",0.06
+Theodore Roosevelt National Park,2015,"580,033","35,903.70",0.06
+Theodore Roosevelt National Park,2016,"753,880","47,793.70",0.06
+Theodore Roosevelt National Park,2017,"708,003","43,856.60",0.06
+Theodore Roosevelt National Park,2018,"749,389","47,862.00",0.06
+Virgin Islands National Park,2012,"483,341","69,936.80",0.14
+Virgin Islands National Park,2013,"438,601","64,671.50",0.15
+Virgin Islands National Park,2014,"426,931","59,773.80",0.14
+Virgin Islands National Park,2015,"438,371","62,133.50",0.14
+Virgin Islands National Park,2016,"411,343","59,829.10",0.15
+Virgin Islands National Park,2017,"304,408","42,473.90",0.14
+Virgin Islands National Park,2018,"112,287","16,322.00",0.15
+Voyageurs National Park,2012,"214,841","16,158.90",0.08
+Voyageurs National Park,2013,"233,389","18,137.40",0.08
+Voyageurs National Park,2014,"239,159","18,825.00",0.08
+Voyageurs National Park,2015,"238,313","18,992.10",0.08
+Voyageurs National Park,2016,"241,911","19,780.20",0.08
+Voyageurs National Park,2017,"237,249","18,886.20",0.08
+Voyageurs National Park,2018,"239,657","19,541.00",0.08
+Wind Cave National Park,2012,"529,083","48,978.50",0.09
+Wind Cave National Park,2013,"516,142","48,723.90",0.09
+Wind Cave National Park,2014,"547,022","52,761.40",0.10
+Wind Cave National Park,2015,"612,199","60,578.60",0.10
+Wind Cave National Park,2016,"617,377","62,282.90",0.10
+Wind Cave National Park,2017,"619,924","60,741.20",0.10
+Wind Cave National Park,2018,"656,398","66,631.00",0.10
+Wrangell - St Elias National Park,2012,"87,158","125,890.90",1.44
+Wrangell - St Elias National Park,2013,"69,984","103,538.90",1.48
+Wrangell - St Elias National Park,2014,"74,722","112,768.00",1.51
+Wrangell - St Elias National Park,2015,"80,366","123,983.80",1.54
+Wrangell - St Elias National Park,2016,"79,047","124,665.50",1.58
+Wrangell - St Elias National Park,2017,"68,292","104,859.20",1.54
+Wrangell - St Elias National Park,2018,"79,450","120,679.00",1.52
+Yellowstone National Park,2012,"3,447,729","400,346.50",0.12
+Yellowstone National Park,2013,"3,188,030","381,762.70",0.12
+Yellowstone National Park,2014,"3,513,483","421,003.80",0.12
+Yellowstone National Park,2015,"4,097,709","493,620.90",0.12
+Yellowstone National Park,2016,"4,257,177","524,319.80",0.12
+Yellowstone National Park,2017,"4,116,523","498,822.70",0.12
+Yellowstone National Park,2018,"4,115,001","512,566.00",0.12
+Yosemite National Park,2012,"3,853,404","378,757.70",0.10
+Yosemite National Park,2013,"3,691,192","373,269.80",0.10
+Yosemite National Park,2014,"3,882,642","405,223.40",0.10
+Yosemite National Park,2015,"4,150,218","449,080.80",0.11
+Yosemite National Park,2016,"5,028,868","520,629.10",0.10
+Yosemite National Park,2017,"4,336,889","451,782.00",0.10
+Yosemite National Park,2018,"4,009,438","495,245.00",0.12
+Zion National Park,2012,"2,973,607","152,859.40",0.05
+Zion National Park,2013,"2,807,387","147,051.90",0.05
+Zion National Park,2014,"3,189,696","172,231.90",0.05
+Zion National Park,2015,"3,648,846","202,198.40",0.06
+Zion National Park,2016,"4,295,127","244,531.70",0.06
+Zion National Park,2017,"4,504,812","250,884.60",0.06
+Zion National Park,2018,"4,320,032","246,236.00",0.06

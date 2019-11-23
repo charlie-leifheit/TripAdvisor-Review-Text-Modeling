@@ -1,0 +1,1501 @@
+park,word,pos,tfidf
+Acadia National Park,cadillac,NOUN,0.147282962509
+Acadia National Park,jordan,NOUN,0.133266955156
+Acadia National Park,schoodic,ADJ,0.0402098571593
+Acadia National Park,popovers,NOUN,0.0356144449125
+Acadia National Park,carriage,NOUN,0.0311466830059
+Acadia National Park,gorham,NOUN,0.0287213265423
+Acadia National Park,harbor,VERB,0.0266263591945
+Acadia National Park,beautiful,ADJ,0.0201049285796
+Acadia National Park,pond,NOUN,0.0187033278444
+Acadia National Park,jordon,NOUN,0.0172327959254
+Acadia National Park,hulls,NOUN,0.0160839428637
+Acadia National Park,mountain,NOUN,0.0158361510269
+Acadia National Park,oli,X,0.014935089802
+Acadia National Park,beehive,VERB,0.0144755485773
+Acadia National Park,views,NOUN,0.0140393738556
+Acadia National Park,popover,ADV,0.0126373836786
+Acadia National Park,great,ADJ,0.0123501704132
+Acadia National Park,lobster,NOUN,0.0122544326581
+Acadia National Park,beach,NOUN,0.0116526524829
+Acadia National Park,trails,NOUN,0.0109846476951
+Acadia National Park,day,NOUN,0.0109043680432
+Acadia National Park,mdi,NOUN,0.0103396775552
+Acadia National Park,cadilac,NOUN,0.0103396775552
+Acadia National Park,blackwoods,NOUN,0.0103396775552
+Acadia National Park,maine,NOUN,0.00959630204473
+American Samoa National Park,pago,ADJ,1.03753690426
+American Samoa National Park,ofu,INTJ,0.253057781527
+American Samoa National Park,vatia,NOUN,0.126528890763
+American Samoa National Park,pola,NOUN,0.126528890763
+American Samoa National Park,tutuila,VERB,0.101223112611
+American Samoa National Park,samoan,ADJ,0.075917334458
+American Samoa National Park,alava,ADV,0.075917334458
+American Samoa National Park,pai,X,0.0506115563054
+American Samoa National Park,dengue,NOUN,0.037958667229
+American Samoa National Park,island,NOUN,0.0316322226908
+American Samoa National Park,zika,X,0.0253057781527
+American Samoa National Park,youtip,NOUN,0.0253057781527
+American Samoa National Park,wobbles,NOUN,0.0253057781527
+American Samoa National Park,vaoto,NOUN,0.0253057781527
+American Samoa National Park,unforgettablerm,X,0.0253057781527
+American Samoa National Park,tutulia,NOUN,0.0253057781527
+American Samoa National Park,tumu,NOUN,0.0253057781527
+American Samoa National Park,to.-,NOUN,0.0253057781527
+American Samoa National Park,thenational,ADJ,0.0253057781527
+American Samoa National Park,regret-,NOUN,0.0253057781527
+American Samoa National Park,polu,NOUN,0.0253057781527
+American Samoa National Park,passersby,X,0.0253057781527
+American Samoa National Park,paleotropical,ADJ,0.0253057781527
+American Samoa National Park,outiftter,NOUN,0.0253057781527
+American Samoa National Park,onebut,NOUN,0.0253057781527
+Arches National Park,delicate,ADJ,0.0424732385961
+Arches National Park,furnace,VERB,0.0321592712775
+Arches National Park,turret,NOUN,0.0271033033705
+Arches National Park,moab,X,0.0256113784143
+Arches National Park,hike,INTJ,0.0172814640757
+Arches National Park,fiery,ADV,0.0134273246056
+Arches National Park,beautiful,ADJ,0.0130543433665
+Arches National Park,day,NOUN,0.0116909599673
+Arches National Park,amazing,ADJ,0.0114212334216
+Arches National Park,great,ADJ,0.0113448460209
+Arches National Park,time,NOUN,0.0110393872476
+Arches National Park,hikes,VERB,0.00974816398834
+Arches National Park,hiking,VERB,0.00869401507199
+Arches National Park,water,NOUN,0.0086000042014
+Arches National Park,early,ADV,0.00840189317425
+Arches National Park,visit,VERB,0.00836306822656
+Arches National Park,rock,NOUN,0.00829644166334
+Arches National Park,gossips,NOUN,0.00820558725896
+Arches National Park,place,NOUN,0.00794850414504
+Arches National Park,worth,ADJ,0.00790120027078
+Arches National Park,dune,NOUN,0.00735305871258
+Arches National Park,partition,NOUN,0.00683798938247
+Arches National Park,canyonlands,NOUN,0.00678147707352
+Arches National Park,balanced,VERB,0.00673626722636
+Arches National Park,trails,NOUN,0.00672238701013
+Badlands National Park,reifel,NOUN,0.0587504236809
+Badlands National Park,minuteman,NOUN,0.0225963168004
+Badlands National Park,prairie,NOUN,0.0217489549203
+Badlands National Park,dakota,VERB,0.0195834745603
+Badlands National Park,bison,NOUN,0.0165126930464
+Badlands National Park,drive,VERB,0.0143648013945
+Badlands National Park,sheep,NOUN,0.0131681984112
+Badlands National Park,fossil,NOUN,0.0128045795202
+Badlands National Park,sage,NOUN,0.0124279742402
+Badlands National Park,beautiful,ADJ,0.0120513689602
+Badlands National Park,amazing,ADJ,0.0118726410307
+Badlands National Park,road,NOUN,0.0115806123602
+Badlands National Park,time,NOUN,0.0113371175671
+Badlands National Park,i-90,PROPN,0.0108462320642
+Badlands National Park,great,ADJ,0.0101683425602
+Badlands National Park,loop,NOUN,0.0100191216002
+Badlands National Park,bighorn,VERB,0.00936133124586
+Badlands National Park,kadoka,NOUN,0.00903852672014
+Badlands National Park,views,NOUN,0.00888533135201
+Badlands National Park,day,NOUN,0.0087704348259
+Badlands National Park,saw,VERB,0.00831084872149
+Badlands National Park,horn,NOUN,0.00795783330795
+Badlands National Park,pinnacles,NOUN,0.00790871088013
+Badlands National Park,place,NOUN,0.00785126261707
+Badlands National Park,dogs,NOUN,0.00757918126012
+Big Bend National Park,chisos,NOUN,1.25079365079
+Big Bend National Park,emory,NOUN,0.126984126984
+Big Bend National Park,terlingua,NOUN,0.0444444444444
+Big Bend National Park,elena,NOUN,0.0349206349206
+Big Bend National Park,mountains,NOUN,0.0261437908497
+Big Bend National Park,tm1,NOUN,0.0253968253968
+Big Bend National Park,basin,NOUN,0.0222222222222
+Big Bend National Park,ringtail,NOUN,0.0190476190476
+Big Bend National Park,rio,NOUN,0.018253968254
+Big Bend National Park,chihuahuan,NOUN,0.0169312169312
+Big Bend National Park,panther,NOUN,0.015873015873
+Big Bend National Park,laguna,NOUN,0.015873015873
+Big Bend National Park,beautiful,ADJ,0.0151322751323
+Big Bend National Park,desert,NOUN,0.0148148148148
+Big Bend National Park,great,ADJ,0.0142857142857
+Big Bend National Park,lodge,NOUN,0.0131216931217
+Big Bend National Park,mountain,NOUN,0.0126984126984
+Big Bend National Park,sotols,VERB,0.0126984126984
+Big Bend National Park,pulliam,NOUN,0.0126984126984
+Big Bend National Park,boquillos,VERB,0.0126984126984
+Big Bend National Park,boquillas,NOUN,0.0126984126984
+Big Bend National Park,views,NOUN,0.0125907990315
+Big Bend National Park,trail,NOUN,0.0125889436234
+Big Bend National Park,texas,NOUN,0.0123015873016
+Big Bend National Park,grande,NOUN,0.00997732426304
+Biscayne National Park,chita,X,0.340413151004
+Biscayne National Park,boca,NOUN,0.174570846669
+Biscayne National Park,fascell,INTJ,0.100378236834
+Biscayne National Park,mangroves,NOUN,0.0523712540006
+Biscayne National Park,boat,NOUN,0.0385510619727
+Biscayne National Park,miami,NOUN,0.0340413151004
+Biscayne National Park,elliott,NOUN,0.030549898167
+Biscayne National Park,snorkeling,NOUN,0.0285661385458
+Biscayne National Park,snorkel,NOUN,0.0261856270003
+Biscayne National Park,bayfront,NOUN,0.0261856270003
+Biscayne National Park,manatees,NOUN,0.0232761128891
+Biscayne National Park,mangrove,NOUN,0.0226942100669
+Biscayne National Park,lighthouse,NOUN,0.0214246039093
+Biscayne National Park,dante,NOUN,0.0209485016002
+Biscayne National Park,manatee,NOUN,0.0174570846669
+Biscayne National Park,elliot,VERB,0.0174570846669
+Biscayne National Park,keys,NOUN,0.0168751818446
+Biscayne National Park,water,NOUN,0.0166293780663
+Biscayne National Park,jetty,INTJ,0.0165842304335
+Biscayne National Park,center,NOUN,0.0152379637346
+Biscayne National Park,bay,NOUN,0.0144020948502
+Biscayne National Park,great,ADJ,0.013638347396
+Biscayne National Park,seahorse,NOUN,0.0130928135001
+Biscayne National Park,paddleboarding,VERB,0.0130928135001
+Biscayne National Park,matanzas,NOUN,0.0130928135001
+Black Canyon Of The Gunnison National Park,montrose,NOUN,0.0688876667921
+Black Canyon Of The Gunnison National Park,rim,NOUN,0.0374281006187
+Black Canyon Of The Gunnison National Park,crawford,NOUN,0.0312599496367
+Black Canyon Of The Gunnison National Park,tomichi,INTJ,0.029523285768
+Black Canyon Of The Gunnison National Park,warner,NOUN,0.0283655098556
+Black Canyon Of The Gunnison National Park,morrow,VERB,0.0225766302932
+Black Canyon Of The Gunnison National Park,portal,ADJ,0.0195994922326
+Black Canyon Of The Gunnison National Park,curecanti,X,0.0191033025558
+Black Canyon Of The Gunnison National Park,views,NOUN,0.0159831945883
+Black Canyon Of The Gunnison National Park,drive,VERB,0.0128389078865
+Black Canyon Of The Gunnison National Park,south,ADV,0.0119395640974
+Black Canyon Of The Gunnison National Park,river,NOUN,0.011878780862
+Black Canyon Of The Gunnison National Park,road,NOUN,0.0110402203082
+Black Canyon Of The Gunnison National Park,center,NOUN,0.00956636876831
+Black Canyon Of The Gunnison National Park,time,NOUN,0.00940193887542
+Black Canyon Of The Gunnison National Park,pulpit,NOUN,0.00926220729978
+Black Canyon Of The Gunnison National Park,beautiful,ADJ,0.00920431850415
+Black Canyon Of The Gunnison National Park,great,ADJ,0.00877635490794
+Black Canyon Of The Gunnison National Park,worth,ADJ,0.00853360694107
+Black Canyon Of The Gunnison National Park,visit,VERB,0.00819126458074
+Black Canyon Of The Gunnison National Park,amazing,ADJ,0.00815348968868
+Black Canyon Of The Gunnison National Park,visitor,NOUN,0.00791800984208
+Black Canyon Of The Gunnison National Park,view,NOUN,0.0077251599677
+Black Canyon Of The Gunnison National Park,grand,ADJ,0.00759364789651
+Black Canyon Of The Gunnison National Park,overlooks,NOUN,0.00757816960891
+Bryce Canyon National Park,hoodoos,NOUN,0.0426313390403
+Bryce Canyon National Park,navajo,NOUN,0.0323522592238
+Bryce Canyon National Park,queens,VERB,0.0307219662058
+Bryce Canyon National Park,hoodoo,ADJ,0.0195152112377
+Bryce Canyon National Park,peekaboo,VERB,0.0184041967365
+Bryce Canyon National Park,thor,NOUN,0.0176796220618
+Bryce Canyon National Park,point,NOUN,0.012788107416
+Bryce Canyon National Park,beautiful,ADJ,0.011926499145
+Bryce Canyon National Park,rim,NOUN,0.0117331126629
+Bryce Canyon National Park,yovimpa,INTJ,0.0113033649248
+Bryce Canyon National Park,bristlecone,ADV,0.0111584499899
+Bryce Canyon National Park,zion,NOUN,0.010854596094
+Bryce Canyon National Park,views,NOUN,0.0104338753152
+Bryce Canyon National Park,amazing,ADJ,0.0101587825574
+Bryce Canyon National Park,hike,INTJ,0.0101240571784
+Bryce Canyon National Park,trail,NOUN,0.00992917157628
+Bryce Canyon National Park,fairyland,NOUN,0.00956438570559
+Bryce Canyon National Park,day,NOUN,0.00952999911086
+Bryce Canyon National Park,time,NOUN,0.00942446783738
+Bryce Canyon National Park,shuttle,NOUN,0.00925699038907
+Bryce Canyon National Park,great,ADJ,0.00849305029376
+Bryce Canyon National Park,place,NOUN,0.00832646829531
+Bryce Canyon National Park,ruby,VERB,0.00757698088365
+Bryce Canyon National Park,trails,NOUN,0.0074643903327
+Bryce Canyon National Park,sunset,NOUN,0.00745197184637
+Canyonlands National Park,upheaval,NOUN,0.0669144981413
+Canyonlands National Park,moab,X,0.0433085501859
+Canyonlands National Park,shafer,VERB,0.039405204461
+Canyonlands National Park,arch,NOUN,0.0349907063197
+Canyonlands National Park,arches,NOUN,0.0293680297398
+Canyonlands National Park,mesa,NOUN,0.0287338727312
+Canyonlands National Park,needles,NOUN,0.0268071045023
+Canyonlands National Park,island,NOUN,0.0188661710037
+Canyonlands National Park,districts,NOUN,0.0188351920694
+Canyonlands National Park,chesler,NOUN,0.0185873605948
+Canyonlands National Park,views,NOUN,0.0185747589944
+Canyonlands National Park,potash,VERB,0.0163568773234
+Canyonlands National Park,grandview,NOUN,0.0163568773234
+Canyonlands National Park,schafer,VERB,0.014126394052
+Canyonlands National Park,sky,NOUN,0.0139691163855
+Canyonlands National Park,beautiful,ADJ,0.0127137546468
+Canyonlands National Park,drive,VERB,0.011643653744
+Canyonlands National Park,great,ADJ,0.0114577801381
+Canyonlands National Park,grand,ADJ,0.0111378380348
+Canyonlands National Park,day,NOUN,0.0111020099553
+Canyonlands National Park,canyons,NOUN,0.0108013217679
+Canyonlands National Park,time,NOUN,0.0104601974106
+Canyonlands National Park,navtec,ADJ,0.0104089219331
+Canyonlands National Park,aztec,NOUN,0.0104089219331
+Canyonlands National Park,druid,NOUN,0.00966542750929
+Capitol Reef National Park,gifford,NOUN,0.15547579445
+Capitol Reef National Park,fruita,NOUN,0.116606845837
+Capitol Reef National Park,hickman,NOUN,0.0950713472818
+Capitol Reef National Park,waterpocket,NOUN,0.0787884093496
+Capitol Reef National Park,orchards,NOUN,0.0477983016721
+Capitol Reef National Park,cohab,NOUN,0.0315153637398
+Capitol Reef National Park,torrey,X,0.0297645101987
+Capitol Reef National Park,notom,NOUN,0.0283638273658
+Capitol Reef National Park,cassidy,NOUN,0.0220607546179
+Capitol Reef National Park,apricots,NOUN,0.0220607546179
+Capitol Reef National Park,petroglyphs,NOUN,0.0199597303686
+Capitol Reef National Park,hanksville,VERB,0.0189092182439
+Capitol Reef National Park,goosenecks,NOUN,0.0189092182439
+Capitol Reef National Park,drive,VERB,0.0178962244094
+Capitol Reef National Park,pies,NOUN,0.0169582671552
+Capitol Reef National Park,bullfrog,NOUN,0.0168081939946
+Capitol Reef National Park,burr,NOUN,0.0165455659634
+Capitol Reef National Park,utah,ADJ,0.0160975534397
+Capitol Reef National Park,orchard,VERB,0.0159677842948
+Capitol Reef National Park,mormon,VERB,0.0157576818699
+Capitol Reef National Park,apricot,NOUN,0.0136566576206
+Capitol Reef National Park,bryce,NOUN,0.0129563162041
+Capitol Reef National Park,scenic,ADJ,0.0118803371189
+Capitol Reef National Park,beautiful,ADJ,0.011117919986
+Capitol Reef National Park,fold,VERB,0.0109253260965
+Carlsbad Caverns National Park,elevator,NOUN,0.0819070770781
+Carlsbad Caverns National Park,room,NOUN,0.0329767797985
+Carlsbad Caverns National Park,big,ADJ,0.0296370624546
+Carlsbad Caverns National Park,elevators,NOUN,0.0201044643737
+Carlsbad Caverns National Park,tour,NOUN,0.0171615187774
+Carlsbad Caverns National Park,guadalupe,NOUN,0.0137971814329
+Carlsbad Caverns National Park,walk,VERB,0.0127597993703
+Carlsbad Caverns National Park,palace,NOUN,0.0126145658815
+Carlsbad Caverns National Park,caves,NOUN,0.0123893057765
+Carlsbad Caverns National Park,natural,ADJ,0.011860734916
+Carlsbad Caverns National Park,time,NOUN,0.0115203066644
+Carlsbad Caverns National Park,formations,NOUN,0.0114155251142
+Carlsbad Caverns National Park,audio,NOUN,0.0111691468743
+Carlsbad Caverns National Park,entrance,NOUN,0.0110377451463
+Carlsbad Caverns National Park,stalagmites,NOUN,0.0109814301201
+Carlsbad Caverns National Park,amazing,ADJ,0.0106903100691
+Carlsbad Caverns National Park,guided,VERB,0.0106435399626
+Carlsbad Caverns National Park,self,NOUN,0.00903386879537
+Carlsbad Caverns National Park,wand,INTJ,0.00886961663546
+Carlsbad Caverns National Park,bats,NOUN,0.00830646637289
+Carlsbad Caverns National Park,stalactites,NOUN,0.00813048191584
+Carlsbad Caverns National Park,roswell,NOUN,0.00788410367596
+Carlsbad Caverns National Park,lunchroom,NOUN,0.00788410367596
+Carlsbad Caverns National Park,took,VERB,0.00757288905718
+Carlsbad Caverns National Park,great,ADJ,0.00703937828211
+Channel Islands National Park,ventura,NOUN,0.253769219286
+Channel Islands National Park,scorpion,NOUN,0.0955366472608
+Channel Islands National Park,cruz,NOUN,0.081888554795
+Channel Islands National Park,packers,NOUN,0.0631935114694
+Channel Islands National Park,anacapa,NOUN,0.059710404538
+Channel Islands National Park,dolphins,NOUN,0.0391849529781
+Channel Islands National Park,smugglers,NOUN,0.0343334826093
+Channel Islands National Park,kelp,NOUN,0.0328407224959
+Channel Islands National Park,santa,PROPN,0.0317033814571
+Channel Islands National Park,smuggler,NOUN,0.029855202269
+Channel Islands National Park,aquasports,NOUN,0.029855202269
+Channel Islands National Park,harbor,VERB,0.0245866371627
+Channel Islands National Park,boat,NOUN,0.0241329551674
+Channel Islands National Park,prisoner,NOUN,0.0238841618152
+Channel Islands National Park,prisoners,NOUN,0.0208986415883
+Channel Islands National Park,yellowbank,INTJ,0.0179131213614
+Channel Islands National Park,whales,NOUN,0.0179131213614
+Channel Islands National Park,foxes,NOUN,0.0168594083401
+Channel Islands National Park,rosa,NOUN,0.0164203612479
+Channel Islands National Park,day,NOUN,0.0154336215119
+Channel Islands National Park,potato,NOUN,0.0153869119386
+Channel Islands National Park,trip,NOUN,0.0153256704981
+Channel Islands National Park,galapagos,NOUN,0.013434841021
+Channel Islands National Park,kayak,NOUN,0.0130616509927
+Channel Islands National Park,anchorage,NOUN,0.0126055298469
+Congaree National Park,weston,VERB,0.121552900318
+Congaree National Park,loblolly,ADV,0.0793814859222
+Congaree National Park,boardwalk,NOUN,0.052817629305
+Congaree National Park,tupelo,INTJ,0.0520941001364
+Congaree National Park,cypress,NOUN,0.0461404886923
+Congaree National Park,swamp,NOUN,0.0429983048745
+Congaree National Park,sims,NOUN,0.0421714143962
+Congaree National Park,bottomland,NOUN,0.0285277215033
+Congaree National Park,oakridge,VERB,0.0260470500682
+Congaree National Park,pileated,VERB,0.0210857071981
+Congaree National Park,fireflies,NOUN,0.0206722619589
+Congaree National Park,charleston,INTJ,0.0206722619589
+Congaree National Park,cyprus,ADJ,0.0198453714805
+Congaree National Park,synchronous,ADJ,0.0173647000455
+Congaree National Park,trail,NOUN,0.0147984882161
+Congaree National Park,trees,NOUN,0.0142976880894
+Congaree National Park,spiders,NOUN,0.0136436928929
+Congaree National Park,hardwood,NOUN,0.0136436928929
+Congaree National Park,floodplain,NOUN,0.0132302476537
+Congaree National Park,canoe,NOUN,0.0131583441338
+Congaree National Park,longleaf,NOUN,0.0124033571753
+Congaree National Park,firefly,NOUN,0.0124033571753
+Congaree National Park,bates,NOUN,0.0124033571753
+Congaree National Park,columbia,NOUN,0.0112359823824
+Congaree National Park,center,NOUN,0.0111840440971
+Crater Lake National Park,wizard,ADJ,0.0728293853888
+Crater Lake National Park,cleetwood,NOUN,0.0722858825128
+Crater Lake National Park,mazama,NOUN,0.0565242991077
+Crater Lake National Park,rim,NOUN,0.0312982690683
+Crater Lake National Park,klamath,X,0.0263598894877
+Crater Lake National Park,phantom,NOUN,0.0175732596585
+Crater Lake National Park,garfield,NOUN,0.0168485891571
+Crater Lake National Park,beautiful,ADJ,0.0154083065356
+Crater Lake National Park,roseburg,NOUN,0.015218080529
+Crater Lake National Park,drive,VERB,0.0147619263295
+Crater Lake National Park,medford,INTJ,0.014674577653
+Crater Lake National Park,watchman,NOUN,0.014402826215
+Crater Lake National Park,blue,ADJ,0.0121092440781
+Crater Lake National Park,snow,NOUN,0.0116908577825
+Crater Lake National Park,boat,NOUN,0.0112474900735
+Crater Lake National Park,oregon,NOUN,0.0110182855778
+Crater Lake National Park,vidae,VERB,0.0108700575207
+Crater Lake National Park,water,NOUN,0.0101485105991
+Crater Lake National Park,caldera,NOUN,0.0101091534943
+Crater Lake National Park,time,NOUN,0.0100266909889
+Crater Lake National Park,cloudcap,X,0.00978305176865
+Crater Lake National Park,lodge,NOUN,0.0097226625602
+Crater Lake National Park,sinnott,NOUN,0.00923954889261
+Crater Lake National Park,day,NOUN,0.00916585358739
+Crater Lake National Park,plaikni,NOUN,0.00869604601658
+Cuyahoga Valley National Park,brandywine,NOUN,0.509123389052
+Cuyahoga Valley National Park,towpath,NOUN,0.344519586576
+Cuyahoga Valley National Park,akron,NOUN,0.158861809366
+Cuyahoga Valley National Park,cleveland,VERB,0.0646931223683
+Cuyahoga Valley National Park,cvnp,NOUN,0.0574199310961
+Cuyahoga Valley National Park,canal,NOUN,0.048998341202
+Cuyahoga Valley National Park,brecksville,VERB,0.0363659563609
+Cuyahoga Valley National Park,rockside,NOUN,0.0344519586576
+Cuyahoga Valley National Park,kendall,NOUN,0.0267959678448
+Cuyahoga Valley National Park,locks,NOUN,0.025519969376
+Cuyahoga Valley National Park,winking,VERB,0.0229679724384
+Cuyahoga Valley National Park,ledges,NOUN,0.0221173067926
+Cuyahoga Valley National Park,boston,NOUN,0.0220979734824
+Cuyahoga Valley National Park,stanford,NOUN,0.0210539747352
+Cuyahoga Valley National Park,hen,INTJ,0.0200969758836
+Cuyahoga Valley National Park,ohio,NOUN,0.0188209774148
+Cuyahoga Valley National Park,erie,NOUN,0.0183196923021
+Cuyahoga Valley National Park,falls,VERB,0.0179681417035
+Cuyahoga Valley National Park,metroparks,NOUN,0.0172259793288
+Cuyahoga Valley National Park,marsh,VERB,0.0157904810514
+Cuyahoga Valley National Park,train,NOUN,0.0155854098689
+Cuyahoga Valley National Park,bike,NOUN,0.0138512991679
+Cuyahoga Valley National Park,great,ADJ,0.0135688765745
+Cuyahoga Valley National Park,hocking,VERB,0.0133979839224
+Cuyahoga Valley National Park,hale,NOUN,0.0124409850708
+Death Valley National Park,badwater,NOUN,0.532258064516
+Death Valley National Park,dante,NOUN,0.181720430108
+Death Valley National Park,dantes,NOUN,0.0824372759857
+Death Valley National Park,view,NOUN,0.057903843777
+Death Valley National Park,furnace,VERB,0.0555555555556
+Death Valley National Park,panamint,NOUN,0.0394265232975
+Death Valley National Park,dvnp,NOUN,0.0376344086022
+Death Valley National Park,zabriskie,NOUN,0.0268817204301
+Death Valley National Park,drive,VERB,0.0229134664619
+Death Valley National Park,eisley,VERB,0.0179211469534
+Death Valley National Park,views,NOUN,0.0176173987
+Death Valley National Park,worth,ADJ,0.0170250896057
+Death Valley National Park,pahrump,VERB,0.0161290322581
+Death Valley National Park,great,ADJ,0.0134728622632
+Death Valley National Park,road,NOUN,0.0129928315412
+Death Valley National Park,salt,NOUN,0.0117234169654
+Death Valley National Park,amazing,ADJ,0.0113298098536
+Death Valley National Park,zabriski,VERB,0.010752688172
+Death Valley National Park,flats,NOUN,0.010553564317
+Death Valley National Park,basin,NOUN,0.0101553166069
+Death Valley National Park,point,NOUN,0.00911777652015
+Death Valley National Park,stovepipe,VERB,0.0089605734767
+Death Valley National Park,parking,NOUN,0.00866188769415
+Death Valley National Park,vegas,PROPN,0.00818139317438
+Death Valley National Park,sunset,NOUN,0.00813344361731
+Denali National Park,eielson,NOUN,0.121743364987
+Denali National Park,talkeetna,NOUN,0.0966990156179
+Denali National Park,mckinley,NOUN,0.0723503426206
+Denali National Park,caribou,NOUN,0.0663211474022
+Denali National Park,kantishna,NOUN,0.0333924658249
+Denali National Park,bus,NOUN,0.0319679856359
+Denali National Park,dall,NOUN,0.0265516481733
+Denali National Park,moose,VERB,0.0229241928084
+Denali National Park,ptarmigan,NOUN,0.0212181293262
+Denali National Park,toklat,NOUN,0.0208702911406
+Denali National Park,polychrome,NOUN,0.0194789383979
+Denali National Park,tour,NOUN,0.0177877251503
+Denali National Park,mountain,NOUN,0.0174601128496
+Denali National Park,tundra,NOUN,0.0173223416467
+Denali National Park,grizzly,ADJ,0.0152469071388
+Denali National Park,healy,VERB,0.0146092037984
+Denali National Park,eilson,NOUN,0.0146092037984
+Denali National Park,day,NOUN,0.0140432298014
+Denali National Park,saw,VERB,0.0133121800552
+Denali National Park,alaska,NOUN,0.0130787157814
+Denali National Park,grizzlies,NOUN,0.0126381207462
+Denali National Park,savage,NOUN,0.0122439041358
+Denali National Park,dahl,NOUN,0.0115946061892
+Denali National Park,anchorage,NOUN,0.0113627140654
+Denali National Park,great,ADJ,0.0108450977177
+Dry Tortugas National Park,yankee,NOUN,0.312290694167
+Dry Tortugas National Park,jefferson,NOUN,0.105835254899
+Dry Tortugas National Park,snorkeling,NOUN,0.083190135801
+Dry Tortugas National Park,fort,NOUN,0.072309801484
+Dry Tortugas National Park,moat,INTJ,0.0567522381344
+Dry Tortugas National Park,seaplane,NOUN,0.0562409567098
+Dry Tortugas National Park,snorkel,NOUN,0.0496527303524
+Dry Tortugas National Park,pilings,NOUN,0.0371190314285
+Dry Tortugas National Park,mudd,VERB,0.0368122625737
+Dry Tortugas National Park,ferry,NOUN,0.0288496101257
+Dry Tortugas National Park,iii,PUNCT,0.0262287370838
+Dry Tortugas National Park,boat,NOUN,0.0247971490948
+Dry Tortugas National Park,trip,NOUN,0.0215300607914
+Dry Tortugas National Park,island,NOUN,0.0187800058286
+Dry Tortugas National Park,day,NOUN,0.0180785645436
+Dry Tortugas National Park,snorkeled,VERB,0.0157065653648
+Dry Tortugas National Park,great,ADJ,0.0153713108306
+Dry Tortugas National Park,loggerhead,VERB,0.0144181361747
+Dry Tortugas National Park,coaling,VERB,0.0138045984651
+Dry Tortugas National Park,freedom,NOUN,0.0128587278296
+Dry Tortugas National Park,conch,VERB,0.0122707541912
+Dry Tortugas National Park,key,ADJ,0.0122503029342
+Dry Tortugas National Park,time,NOUN,0.0120697677002
+Dry Tortugas National Park,water,NOUN,0.0119957200456
+Dry Tortugas National Park,barracuda,INTJ,0.0114527039118
+Everglades National Park,flamingo,NOUN,0.307090039147
+Everglades National Park,alligators,NOUN,0.156937799043
+Everglades National Park,coe,NOUN,0.130491518051
+Everglades National Park,anhinga,NOUN,0.119472234305
+Everglades National Park,ernest,X,0.093953892997
+Everglades National Park,gators,NOUN,0.077859939104
+Everglades National Park,airboat,NOUN,0.0713353632014
+Everglades National Park,manatees,NOUN,0.0481368711034
+Everglades National Park,crocodiles,NOUN,0.0361026533275
+Everglades National Park,anhingas,PUNCT,0.034797738147
+Everglades National Park,shark,VERB,0.0299647189599
+Everglades National Park,gumbo,NOUN,0.0287081339713
+Everglades National Park,okee,NOUN,0.0260983036103
+Everglades National Park,mahogany,NOUN,0.0252283601566
+Everglades National Park,garl,NOUN,0.0243584167029
+Everglades National Park,mangroves,NOUN,0.0214586051907
+Everglades National Park,aligators,NOUN,0.0191387559809
+Everglades National Park,limbo,NOUN,0.0185587936784
+Everglades National Park,sawgrass,NOUN,0.0173988690735
+Everglades National Park,manatee,NOUN,0.0173988690735
+Everglades National Park,airboats,NOUN,0.0173988690735
+Everglades National Park,alligator,NOUN,0.0170122275385
+Everglades National Park,gator,NOUN,0.0167029143106
+Everglades National Park,tram,NOUN,0.0149897948941
+Everglades National Park,florida,X,0.0145517814069
+Gates Of The Arctic National Park,wiseman,NOUN,1.12676056338
+Gates Of The Arctic National Park,koyukuk,VERB,1.12676056338
+Gates Of The Arctic National Park,reakoff,VERB,0.845070422535
+Gates Of The Arctic National Park,coldfoot,NOUN,0.56338028169
+Gates Of The Arctic National Park,yup’ik,INTJ,0.281690140845
+Gates Of The Arctic National Park,muskox,NOUN,0.281690140845
+Gates Of The Arctic National Park,kuik,NOUN,0.281690140845
+Gates Of The Arctic National Park,dalton,NOUN,0.281690140845
+Gates Of The Arctic National Park,chena,INTJ,0.281690140845
+Gates Of The Arctic National Park,bridgewater,VERB,0.281690140845
+Gates Of The Arctic National Park,yukon,INTJ,0.18779342723
+Gates Of The Arctic National Park,tributary,NOUN,0.140845070423
+Gates Of The Arctic National Park,skins,VERB,0.140845070423
+Gates Of The Arctic National Park,fairbanks,NOUN,0.093896713615
+Gates Of The Arctic National Park,boreal,ADJ,0.093896713615
+Gates Of The Arctic National Park,river,NOUN,0.0732394366197
+Gates Of The Arctic National Park,wolverine,NOUN,0.0704225352113
+Gates Of The Arctic National Park,titan,ADP,0.0704225352113
+Gates Of The Arctic National Park,alaska,NOUN,0.0676056338028
+Gates Of The Arctic National Park,aircraft,NOUN,0.0625978090767
+Gates Of The Arctic National Park,yuk,INTJ,0.056338028169
+Gates Of The Arctic National Park,marshall,NOUN,0.056338028169
+Gates Of The Arctic National Park,derived,VERB,0.056338028169
+Gates Of The Arctic National Park,1980s,NOUN,0.056338028169
+Gates Of The Arctic National Park,seater,NOUN,0.0469483568075
+Glacier Bay National Park,margerie,NOUN,0.235928143713
+Glacier Bay National Park,calving,VERB,0.121756487026
+Glacier Bay National Park,hopkins,NOUN,0.0814371257485
+Glacier Bay National Park,glaciers,NOUN,0.070028364324
+Glacier Bay National Park,ship,NOUN,0.0606996533249
+Glacier Bay National Park,lamplugh,VERB,0.0574850299401
+Glacier Bay National Park,cruise,NOUN,0.038622754491
+Glacier Bay National Park,marjorie,NOUN,0.0341317365269
+Glacier Bay National Park,seals,NOUN,0.0303393213573
+Glacier Bay National Park,whales,NOUN,0.0252694610778
+Glacier Bay National Park,holland,NOUN,0.0244011976048
+Glacier Bay National Park,gustavus,NOUN,0.0221556886228
+Glacier Bay National Park,otters,NOUN,0.0219161676647
+Glacier Bay National Park,stateroom,NOUN,0.0215568862275
+Glacier Bay National Park,princess,NOUN,0.0211213935765
+Glacier Bay National Park,calve,NOUN,0.0209580838323
+Glacier Bay National Park,uncruise,ADJ,0.0203592814371
+Glacier Bay National Park,alaska,NOUN,0.0196886227545
+Glacier Bay National Park,icebergs,NOUN,0.0196407185629
+Glacier Bay National Park,volendam,X,0.0191616766467
+Glacier Bay National Park,westerdam,ADJ,0.0179640718563
+Glacier Bay National Park,orcas,NOUN,0.0179640718563
+Glacier Bay National Park,bartlett,NOUN,0.0179640718563
+Glacier Bay National Park,humpback,VERB,0.0173652694611
+Glacier Bay National Park,tlingit,ADJ,0.0167664670659
+Glacier National Park,logan,VERB,0.118349220717
+Glacier National Park,apgar,NOUN,0.0616637909088
+Glacier National Park,jammer,NOUN,0.0503493338613
+Glacier National Park,road,NOUN,0.0434798420825
+Glacier National Park,logans,NOUN,0.0265889740616
+Glacier National Park,drive,VERB,0.0236189290866
+Glacier National Park,gtts,NOUN,0.0220631912426
+Glacier National Park,jammers,NOUN,0.0214974683902
+Glacier National Park,gttsr,X,0.0214974683902
+Glacier National Park,highline,NOUN,0.0169716855712
+Glacier National Park,gnp,VERB,0.0145673634486
+Glacier National Park,views,NOUN,0.0144594925658
+Glacier National Park,mcdonald,ADJ,0.0132237716743
+Glacier National Park,pass,VERB,0.0130013397346
+Glacier National Park,mary,NOUN,0.01270990675
+Glacier National Park,avalanche,NOUN,0.0125267203026
+Glacier National Park,beautiful,ADJ,0.0123987591812
+Glacier National Park,going,VERB,0.0114457855668
+Glacier National Park,marys,NOUN,0.0107487341951
+Glacier National Park,sun,NOUN,0.00992586459166
+Glacier National Park,time,NOUN,0.00958802696352
+Glacier National Park,way,NOUN,0.00957827312124
+Glacier National Park,kalispell,NOUN,0.00933442706418
+Glacier National Park,weeping,NOUN,0.00905156563799
+Glacier National Park,whitefish,NOUN,0.00820298135943
+Grand Canyon National Park,skywalk,NOUN,0.048218516711
+Grand Canyon National Park,yavapai,NOUN,0.0424914131936
+Grand Canyon National Park,rim,NOUN,0.0371656528593
+Grand Canyon National Park,tusayan,NOUN,0.0362100738519
+Grand Canyon National Park,tovar,NOUN,0.026557133246
+Grand Canyon National Park,hermits,NOUN,0.018982576981
+Grand Canyon National Park,watchtower,NOUN,0.0181512232447
+Grand Canyon National Park,hermit,NOUN,0.0177663372556
+Grand Canyon National Park,mather,ADP,0.0176893600578
+Grand Canyon National Park,yaki,VERB,0.0170889379148
+Grand Canyon National Park,kaibab,VERB,0.0158880936289
+Grand Canyon National Park,maswik,VERB,0.0151491125299
+Grand Canyon National Park,time,NOUN,0.0114749112466
+Grand Canyon National Park,south,ADV,0.0113288441698
+Grand Canyon National Park,angel,NOUN,0.0112055114726
+Grand Canyon National Park,vegas,PROPN,0.0102694275554
+Grand Canyon National Park,hopi,INTJ,0.0102071764302
+Grand Canyon National Park,day,NOUN,0.00956135078752
+Grand Canyon National Park,views,NOUN,0.00917776949671
+Grand Canyon National Park,bus,NOUN,0.00916688458545
+Grand Canyon National Park,amazing,ADJ,0.00915898184165
+Grand Canyon National Park,phantom,NOUN,0.00859065527609
+Grand Canyon National Park,shuttle,NOUN,0.00847588927208
+Grand Canyon National Park,hoover,INTJ,0.00843670088047
+Grand Canyon National Park,lipan,INTJ,0.00840591000134
+Grand Teton National Park,jenny,NOUN,0.0800161976109
+Grand Teton National Park,jackson,NOUN,0.0525072551799
+Grand Teton National Park,taggart,NOUN,0.0307754606196
+Grand Teton National Park,gtnp,NOUN,0.0307754606196
+Grand Teton National Park,transfiguration,NOUN,0.0275359384491
+Grand Teton National Park,tetons,NOUN,0.0258323966181
+Grand Teton National Park,leigh,VERB,0.0218667746507
+Grand Teton National Park,yellowstone,NOUN,0.0212409578678
+Grand Teton National Park,lake,NOUN,0.0190900413618
+Grand Teton National Park,beautiful,ADJ,0.018532766417
+Grand Teton National Park,moose,VERB,0.0180487663784
+Grand Teton National Park,mountains,NOUN,0.0160864507779
+Grand Teton National Park,colter,NOUN,0.0151852601741
+Grand Teton National Park,schwabacher,NOUN,0.0121482081393
+Grand Teton National Park,oxbow,VERB,0.0118782479584
+Grand Teton National Park,rockefeller,NOUN,0.0110683674158
+Grand Teton National Park,great,ADJ,0.0106152199693
+Grand Teton National Park,views,NOUN,0.0105559006318
+Grand Teton National Park,mormon,VERB,0.0103664709455
+Grand Teton National Park,phelps,NOUN,0.0101235067827
+Grand Teton National Park,time,NOUN,0.00964874922328
+Grand Teton National Park,moran,NOUN,0.00917864614969
+Grand Teton National Park,bison,NOUN,0.00853489494915
+Grand Teton National Park,chapel,VERB,0.00836876560707
+Grand Teton National Park,mountain,NOUN,0.00827348554324
+Great Basin National Park,bristlecone,ADV,0.228338051701
+Great Basin National Park,lehman,NOUN,0.191441964079
+Great Basin National Park,wheeler,NOUN,0.128648999861
+Great Basin National Park,stella,ADP,0.0612614285051
+Great Basin National Park,ely,ADV,0.0501229869587
+Great Basin National Park,baker,NOUN,0.0473383765721
+Great Basin National Park,gbnp,VERB,0.0361999350258
+Great Basin National Park,bristle,INTJ,0.0320230194459
+Great Basin National Park,cave,NOUN,0.0276720657168
+Great Basin National Park,caves,NOUN,0.0265532490436
+Great Basin National Park,bristlecones,NOUN,0.0222768830928
+Great Basin National Park,lehmann,VERB,0.0167076623196
+Great Basin National Park,loneliest,ADJ,0.0153153571263
+Great Basin National Park,tour,NOUN,0.0141150940286
+Great Basin National Park,peak,NOUN,0.0128433050484
+Great Basin National Park,drive,VERB,0.0122821208123
+Great Basin National Park,kerouac,NOUN,0.0111384415464
+Great Basin National Park,nevada,ADJ,0.00996033715206
+Great Basin National Park,beautiful,ADJ,0.00993177704553
+Great Basin National Park,teresa,NOUN,0.00974613635309
+Great Basin National Park,pines,NOUN,0.00865218227264
+Great Basin National Park,leman,NOUN,0.00835383115979
+Great Basin National Park,lectrolux,NOUN,0.00835383115979
+Great Basin National Park,electrolux,NOUN,0.00835383115979
+Great Basin National Park,hike,INTJ,0.00811377854026
+Great Sand Dunes National Park,medano,NOUN,0.160475482912
+Great Sand Dunes National Park,alamosa,NOUN,0.108766716196
+Great Sand Dunes National Park,zapata,X,0.0713224368499
+Great Sand Dunes National Park,sleds,NOUN,0.0588410104012
+Great Sand Dunes National Park,sangre,NOUN,0.0534918276374
+Great Sand Dunes National Park,mosca,VERB,0.0303120356612
+Great Sand Dunes National Park,sandboards,NOUN,0.0249628528975
+Great Sand Dunes National Park,sandboarding,VERB,0.021396731055
+Great Sand Dunes National Park,cristo,NOUN,0.021396731055
+Great Sand Dunes National Park,sled,VERB,0.0193164933135
+Great Sand Dunes National Park,sledding,VERB,0.0137550413925
+Great Sand Dunes National Park,kristi,NOUN,0.0133729569094
+Great Sand Dunes National Park,water,NOUN,0.0119895475739
+Great Sand Dunes National Park,garland,NOUN,0.0106983655275
+Great Sand Dunes National Park,time,NOUN,0.0104831685198
+Great Sand Dunes National Park,creek,NOUN,0.0101293035313
+Great Sand Dunes National Park,place,NOUN,0.0100032739819
+Great Sand Dunes National Park,hot,ADJ,0.00987541433307
+Great Sand Dunes National Park,day,NOUN,0.00903619009243
+Great Sand Dunes National Park,sandboard,NOUN,0.00891530460624
+Great Sand Dunes National Park,fun,NOUN,0.00872761398295
+Great Sand Dunes National Park,mountains,NOUN,0.00807621711389
+Great Sand Dunes National Park,center,NOUN,0.00803888483139
+Great Sand Dunes National Park,amazing,ADJ,0.00755534288664
+Great Sand Dunes National Park,sledded,VERB,0.00713224368499
+Great Smoky Mountains National Park,clingman,NOUN,0.153356810178
+Great Smoky Mountains National Park,cade,NOUN,0.153356810178
+Great Smoky Mountains National Park,clingmans,NOUN,0.139725093718
+Great Smoky Mountains National Park,cades,NOUN,0.127229353629
+Great Smoky Mountains National Park,sugarlands,NOUN,0.0954220152221
+Great Smoky Mountains National Park,gatlinburg,NOUN,0.0872429853459
+Great Smoky Mountains National Park,laurel,NOUN,0.0437350903101
+Great Smoky Mountains National Park,cherokee,NOUN,0.0437350903101
+Great Smoky Mountains National Park,newfound,NOUN,0.0301033738498
+Great Smoky Mountains National Park,alum,NOUN,0.0298193797569
+Great Smoky Mountains National Park,cove,VERB,0.0286983504427
+Great Smoky Mountains National Park,elkmont,NOUN,0.0272634329206
+Great Smoky Mountains National Park,beautiful,ADJ,0.0250766784051
+Great Smoky Mountains National Park,oconaluftee,NOUN,0.0238555038055
+Great Smoky Mountains National Park,greenbrier,NOUN,0.0170396455754
+Great Smoky Mountains National Park,smokies,NOUN,0.0161876632966
+Great Smoky Mountains National Park,pigeon,NOUN,0.0156764739293
+Great Smoky Mountains National Park,gsm,NOUN,0.0153356810178
+Great Smoky Mountains National Park,dome,NOUN,0.0149484163457
+Great Smoky Mountains National Park,gsmnp,NOUN,0.014767692832
+Great Smoky Mountains National Park,smokys,VERB,0.0136317164603
+Great Smoky Mountains National Park,smokeys,NOUN,0.0136317164603
+Great Smoky Mountains National Park,drive,VERB,0.0124754547963
+Great Smoky Mountains National Park,trails,NOUN,0.0120473283629
+Great Smoky Mountains National Park,views,NOUN,0.0120143941684
+Guadalupe Mountains National Park,mckittrick,VERB,0.0361830436325
+Guadalupe Mountains National Park,hike,INTJ,0.0325867573485
+Guadalupe Mountains National Park,tejas,NOUN,0.0297978006385
+Guadalupe Mountains National Park,butterfield,NOUN,0.0297978006385
+Guadalupe Mountains National Park,carlsbad,NOUN,0.0243247352151
+Guadalupe Mountains National Park,logbook,NOUN,0.0212841433132
+Guadalupe Mountains National Park,ladybugs,NOUN,0.0212841433132
+Guadalupe Mountains National Park,frijole,INTJ,0.0212841433132
+Guadalupe Mountains National Park,dell,INTJ,0.0212841433132
+Guadalupe Mountains National Park,trail,NOUN,0.0187153673961
+Guadalupe Mountains National Park,peak,NOUN,0.0185910476287
+Guadalupe Mountains National Park,capitan,NOUN,0.0177367860944
+Guadalupe Mountains National Park,texas,NOUN,0.015031926215
+Guadalupe Mountains National Park,scrawny,NOUN,0.0127704859879
+Guadalupe Mountains National Park,ledger,NOUN,0.0127704859879
+Guadalupe Mountains National Park,summit,NOUN,0.0125200843019
+Guadalupe Mountains National Park,hours,NOUN,0.0106781464758
+Guadalupe Mountains National Park,views,NOUN,0.0105338471991
+Guadalupe Mountains National Park,water,NOUN,0.0104218908637
+Guadalupe Mountains National Park,way,NOUN,0.00873383811819
+Guadalupe Mountains National Park,hiking,VERB,0.00858967212284
+Guadalupe Mountains National Park,texan,ADJ,0.00851365732529
+Guadalupe Mountains National Park,padlock,NOUN,0.00851365732529
+Guadalupe Mountains National Park,lanky,ADJ,0.00851365732529
+Guadalupe Mountains National Park,harney,NOUN,0.00851365732529
+Haleakala National Park,maui,NOUN,0.0999334676836
+Haleakala National Park,kihei,X,0.0457048086473
+Haleakala National Park,crater,NOUN,0.0447313889735
+Haleakala National Park,sunrise,NOUN,0.0304741579269
+Haleakala National Park,wailea,NOUN,0.0254558427909
+Haleakala National Park,lahaina,ADJ,0.0251665718501
+Haleakala National Park,kaanapali,INTJ,0.0221774387951
+Haleakala National Park,kula,INTJ,0.017838374683
+Haleakala National Park,paia,NOUN,0.0165848672728
+Haleakala National Park,hana,NOUN,0.0156592002623
+Haleakala National Park,drive,VERB,0.0156240745052
+Haleakala National Park,summit,NOUN,0.0153427038212
+Haleakala National Park,haleakalā,INTJ,0.0131136159832
+Haleakala National Park,silversword,NOUN,0.0125350741016
+Haleakala National Park,nettie,NOUN,0.0125350741016
+Haleakala National Park,leleiwi,ADJ,0.0125350741016
+Haleakala National Park,clouds,NOUN,0.0121657920495
+Haleakala National Park,silverswords,NOUN,0.0115708376322
+Haleakala National Park,time,NOUN,0.0107096747165
+Haleakala National Park,volcano,NOUN,0.0103448798355
+Haleakala National Park,makawao,X,0.0102209065751
+Haleakala National Park,kahului,NOUN,0.0102209065751
+Haleakala National Park,nene,INTJ,0.0101244829282
+Haleakala National Park,cold,ADJ,0.00976633795386
+Haleakala National Park,worth,ADJ,0.00958916544004
+Hawaii Volcanoes National Park,jagger,NOUN,0.205274023293
+Hawaii Volcanoes National Park,jaggar,NOUN,0.151131538971
+Hawaii Volcanoes National Park,kilauea,NOUN,0.137303782184
+Hawaii Volcanoes National Park,iki,INTJ,0.132629610875
+Hawaii Volcanoes National Park,lava,NOUN,0.111833876489
+Hawaii Volcanoes National Park,thurston,NOUN,0.0577130318493
+Hawaii Volcanoes National Park,vents,NOUN,0.0515132629611
+Hawaii Volcanoes National Park,kona,NOUN,0.0461574416702
+Hawaii Volcanoes National Park,hilo,NOUN,0.0419377036835
+Hawaii Volcanoes National Park,craters,NOUN,0.0408016203794
+Hawaii Volcanoes National Park,caldera,NOUN,0.0391461847077
+Hawaii Volcanoes National Park,crater,NOUN,0.0369389371454
+Hawaii Volcanoes National Park,tube,NOUN,0.0269982082343
+Hawaii Volcanoes National Park,holei,INTJ,0.0268764850232
+Hawaii Volcanoes National Park,steam,NOUN,0.0258110489161
+Hawaii Volcanoes National Park,kīlauea,NOUN,0.0241498850933
+Hawaii Volcanoes National Park,lave,NOUN,0.0214232851634
+Hawaii Volcanoes National Park,halemaumau,PROPN,0.0169438709929
+Hawaii Volcanoes National Park,waikoloa,NOUN,0.016749113855
+Hawaii Volcanoes National Park,pele,NOUN,0.0151910567522
+Hawaii Volcanoes National Park,kalapana,NOUN,0.0148015424765
+Hawaii Volcanoes National Park,tubes,NOUN,0.0147799027945
+Hawaii Volcanoes National Park,island,NOUN,0.0138764460717
+Hawaii Volcanoes National Park,mauna,NOUN,0.0133084044197
+Hawaii Volcanoes National Park,ulu,ADJ,0.012853971098
+Hot Springs National Park,fordyce,NOUN,0.254850189416
+Hot Springs National Park,bathhouses,NOUN,0.160716335668
+Hot Springs National Park,bathhouse,ADP,0.142922741361
+Hot Springs National Park,arlington,PROPN,0.0619905866146
+Hot Springs National Park,promenade,NOUN,0.0535721118892
+Hot Springs National Park,bath,NOUN,0.0474045662347
+Hot Springs National Park,quapaw,ADV,0.0436230053955
+Hot Springs National Park,buckstaff,NOUN,0.0344392147859
+Hot Springs National Park,gulpha,NOUN,0.0298473194811
+Hot Springs National Park,baths,NOUN,0.0275513718287
+Hot Springs National Park,oaklawn,VERB,0.0206635288715
+Hot Springs National Park,ouachita,INTJ,0.0183675812191
+Hot Springs National Park,bathouse,NOUN,0.0160716335668
+Hot Springs National Park,row,NOUN,0.0150347539818
+Hot Springs National Park,spas,NOUN,0.0143496728275
+Hot Springs National Park,tower,NOUN,0.0139287490912
+Hot Springs National Park,great,ADJ,0.0136936877839
+Hot Springs National Park,treatments,NOUN,0.0126277120882
+Hot Springs National Park,spa,NOUN,0.0123407186316
+Hot Springs National Park,water,NOUN,0.0119943472185
+Hot Springs National Park,history,NOUN,0.0115207373272
+Hot Springs National Park,hsnp,NOUN,0.011479738262
+Hot Springs National Park,hamilton,NOUN,0.011479738262
+Hot Springs National Park,clinton,PROPN,0.011479738262
+Hot Springs National Park,trails,NOUN,0.0106338628111
+Indiana Dunes National Park,chesterton,NOUN,0.0583279325988
+Indiana Dunes National Park,beach,NOUN,0.0534394963429
+Indiana Dunes National Park,baldy,NOUN,0.0330524951393
+Indiana Dunes National Park,lakeshore,ADV,0.0244421812795
+Indiana Dunes National Park,michigan,VERB,0.0211924821776
+Indiana Dunes National Park,kemil,NOUN,0.0194426441996
+Indiana Dunes National Park,factories,NOUN,0.0194426441996
+Indiana Dunes National Park,chicago,NOUN,0.0193346295096
+Indiana Dunes National Park,lakefront,NOUN,0.0174983797797
+Indiana Dunes National Park,great,ADJ,0.0166998426072
+Indiana Dunes National Park,sand,NOUN,0.0140959170447
+Indiana Dunes National Park,lifeguards,NOUN,0.0139338950097
+Indiana Dunes National Park,lake,NOUN,0.0129749890883
+Indiana Dunes National Park,state,NOUN,0.0124359554409
+Indiana Dunes National Park,nice,ADJ,0.0120343263236
+Indiana Dunes National Park,dnr,NOUN,0.0106934543098
+Indiana Dunes National Park,beautiful,ADJ,0.0101425793908
+Indiana Dunes National Park,trails,NOUN,0.00996009141454
+Indiana Dunes National Park,water,NOUN,0.00988893110153
+Indiana Dunes National Park,day,NOUN,0.00988609027099
+Indiana Dunes National Park,time,NOUN,0.00931906049568
+Indiana Dunes National Park,beaches,NOUN,0.00912958945025
+Indiana Dunes National Park,place,NOUN,0.00830431582763
+Indiana Dunes National Park,chicagoland,NOUN,0.00777705767984
+Indiana Dunes National Park,clean,ADJ,0.00725627256735
+Isle Royale National Park,tobin,VERB,0.14404432133
+Isle Royale National Park,houghton,NOUN,0.0775623268698
+Isle Royale National Park,harbor,VERB,0.0769105426104
+Isle Royale National Park,greenstone,NOUN,0.0664819944598
+Isle Royale National Park,scoville,INTJ,0.0554016620499
+Isle Royale National Park,iii,PUNCT,0.0443213296399
+Isle Royale National Park,edisen,VERB,0.0443213296399
+Isle Royale National Park,windigo,NOUN,0.0332409972299
+Isle Royale National Park,island,NOUN,0.0249307479224
+Isle Royale National Park,suzy,NOUN,0.0221606648199
+Isle Royale National Park,ste,VERB,0.0221606648199
+Isle Royale National Park,sault,NOUN,0.0221606648199
+Isle Royale National Park,petersen,VERB,0.0221606648199
+Isle Royale National Park,moskey,NOUN,0.0221606648199
+Isle Royale National Park,mackinac,NOUN,0.0221606648199
+Isle Royale National Park,fishery,NOUN,0.0221606648199
+Isle Royale National Park,dna,VERB,0.0221606648199
+Isle Royale National Park,lodge,NOUN,0.017728531856
+Isle Royale National Park,copper,NOUN,0.017728531856
+Isle Royale National Park,rock,NOUN,0.0170466652461
+Isle Royale National Park,secrete,NOUN,0.016620498615
+Isle Royale National Park,moose,VERB,0.0158290463
+Isle Royale National Park,boat,NOUN,0.0153893505694
+Isle Royale National Park,dock,NOUN,0.0125577100646
+Isle Royale National Park,marina,NOUN,0.0118190212373
+Joshua Tree National Park,cholla,NOUN,0.0891886012617
+Joshua Tree National Park,barker,NOUN,0.0435066347618
+Joshua Tree National Park,twentynine,NOUN,0.0391559712856
+Joshua Tree National Park,coachella,NOUN,0.0391559712856
+Joshua Tree National Park,skull,NOUN,0.0311797549126
+Joshua Tree National Park,jumbo,NOUN,0.0304546443333
+Joshua Tree National Park,palm,NOUN,0.0269741135523
+Joshua Tree National Park,salton,NOUN,0.0217533173809
+Joshua Tree National Park,mojave,X,0.0206656515119
+Joshua Tree National Park,cactus,NOUN,0.0195779856428
+Joshua Tree National Park,rock,NOUN,0.0158966550091
+Joshua Tree National Park,cottonwood,NOUN,0.0149856186402
+Joshua Tree National Park,desert,NOUN,0.0149484334823
+Joshua Tree National Park,trees,NOUN,0.0138430201515
+Joshua Tree National Park,andreas,NOUN,0.0130519904285
+Joshua Tree National Park,keys,NOUN,0.0127619461968
+Joshua Tree National Park,day,NOUN,0.0127570301929
+Joshua Tree National Park,palms,NOUN,0.0114699309827
+Joshua Tree National Park,beautiful,ADJ,0.0111667029222
+Joshua Tree National Park,mohave,NOUN,0.0108766586905
+Joshua Tree National Park,jtnp,NOUN,0.0108766586905
+Joshua Tree National Park,drive,VERB,0.0101774449175
+Joshua Tree National Park,cacti,NOUN,0.0090359933736
+Joshua Tree National Park,great,ADJ,0.00893439821001
+Joshua Tree National Park,visit,VERB,0.00891886012617
+Katmai National Park,katmailand,VERB,0.0749024707412
+Katmai National Park,bears,NOUN,0.0653055916775
+Katmai National Park,riffles,NOUN,0.0592977893368
+Katmai National Park,brooks,NOUN,0.0550065019506
+Katmai National Park,salmon,NOUN,0.0489986996099
+Katmai National Park,naknek,X,0.0374512353706
+Katmai National Park,floatplane,NOUN,0.0343302990897
+Katmai National Park,kulik,NOUN,0.0312093628088
+Katmai National Park,falls,VERB,0.0280247339508
+Katmai National Park,platform,NOUN,0.0230303573831
+Katmai National Park,sockeye,NOUN,0.0218465539662
+Katmai National Park,bear,VERB,0.0197867360208
+Katmai National Park,anchorage,NOUN,0.0197659297789
+Katmai National Park,salmons,NOUN,0.0171651495449
+Katmai National Park,cubs,NOUN,0.0167750325098
+Katmai National Park,plane,NOUN,0.0147308192458
+Katmai National Park,day,NOUN,0.0132243062749
+Katmai National Park,lodge,NOUN,0.0119982661465
+Katmai National Park,time,NOUN,0.0119456526613
+Katmai National Park,platforms,NOUN,0.0118595578674
+Katmai National Park,alaska,NOUN,0.0107360208062
+Katmai National Park,float,VERB,0.0102990897269
+Katmai National Park,trip,NOUN,0.00962288686606
+Katmai National Park,explore.org,X,0.00936280884265
+Katmai National Park,grizzlies,NOUN,0.00884265279584
+Kenai Fjords National Park,harding,VERB,0.189315074374
+Kenai Fjords National Park,puffins,NOUN,0.116336474275
+Kenai Fjords National Park,orcas,NOUN,0.106248256026
+Kenai Fjords National Park,seward,NOUN,0.0868016055292
+Kenai Fjords National Park,holgate,NOUN,0.0759836012793
+Kenai Fjords National Park,whales,NOUN,0.0664534546781
+Kenai Fjords National Park,humpback,VERB,0.0637489536157
+Kenai Fjords National Park,aialik,X,0.0618171671425
+Kenai Fjords National Park,seals,NOUN,0.0540900212497
+Kenai Fjords National Park,orca,ADV,0.0534460924253
+Kenai Fjords National Park,calving,VERB,0.0510850200691
+Kenai Fjords National Park,glacier,ADJ,0.0446457318251
+Kenai Fjords National Park,otters,NOUN,0.0426280881753
+Kenai Fjords National Park,glaciers,NOUN,0.0369411799261
+Kenai Fjords National Park,icefield,VERB,0.0313378694542
+Kenai Fjords National Park,humpbacks,NOUN,0.0304792976883
+Kenai Fjords National Park,boat,NOUN,0.0256140576817
+Kenai Fjords National Park,porpoise,NOUN,0.0218935800296
+Kenai Fjords National Park,sea,NOUN,0.0212353416758
+Kenai Fjords National Park,lions,NOUN,0.0199924568338
+Kenai Fjords National Park,porpoises,NOUN,0.0195325076735
+Kenai Fjords National Park,captain,NOUN,0.0189216008401
+Kenai Fjords National Park,resurrection,NOUN,0.0167421494344
+Kenai Fjords National Park,tour,NOUN,0.0162314472633
+Kenai Fjords National Park,alaska,NOUN,0.0144755199725
+Kings Canyon National Park,zumwalt,NOUN,0.0827556938747
+Kings Canyon National Park,sequoia,VERB,0.0513010409992
+Kings Canyon National Park,boyden,VERB,0.0466826991088
+Kings Canyon National Park,hume,NOUN,0.0371339652002
+Kings Canyon National Park,sherman,NOUN,0.032890083463
+Kings Canyon National Park,moro,ADJ,0.0318291130287
+Kings Canyon National Park,grant,VERB,0.0305233032634
+Kings Canyon National Park,grove,VERB,0.0241497079805
+Kings Canyon National Park,sequoias,NOUN,0.0219267223087
+Kings Canyon National Park,drive,VERB,0.019059576016
+Kings Canyon National Park,fresno,NOUN,0.0144291979064
+Kings Canyon National Park,road,NOUN,0.0136031566397
+Kings Canyon National Park,beautiful,ADJ,0.0135804215589
+Kings Canyon National Park,river,NOUN,0.012901400481
+Kings Canyon National Park,yosemite,INTJ,0.0111884154889
+Kings Canyon National Park,visalia,NOUN,0.0106097043429
+Kings Canyon National Park,trees,NOUN,0.0104939621137
+Kings Canyon National Park,grizzly,ADJ,0.0104328759372
+Kings Canyon National Park,time,NOUN,0.0101706820942
+Kings Canyon National Park,great,ADJ,0.00981397651719
+Kings Canyon National Park,cedar,NOUN,0.00931808816203
+Kings Canyon National Park,roaring,VERB,0.00931296270099
+Kings Canyon National Park,views,NOUN,0.00920706546367
+Kings Canyon National Park,wuksachi,PROPN,0.00848776347432
+Kings Canyon National Park,generals,NOUN,0.00848776347432
+Kobuk Valley National Park,bettles,NOUN,1.73553719008
+Kobuk Valley National Park,offerred,VERB,0.247933884298
+Kobuk Valley National Park,us.it,ADJ,0.123966942149
+Kobuk Valley National Park,airplain,VERB,0.123966942149
+Kobuk Valley National Park,nots,NOUN,0.0826446280992
+Kobuk Valley National Park,dunes,NOUN,0.0826446280992
+Kobuk Valley National Park,59th,ADJ,0.0826446280992
+Kobuk Valley National Park,artic,ADJ,0.0619834710744
+Kobuk Valley National Park,spits,VERB,0.0495867768595
+Kobuk Valley National Park,plane,NOUN,0.0495867768595
+Kobuk Valley National Park,fairbanks,NOUN,0.0413223140496
+Kobuk Valley National Park,aviation,NOUN,0.0354191263282
+Kobuk Valley National Park,arctic,ADJ,0.0354191263282
+Kobuk Valley National Park,sahara,ADJ,0.0309917355372
+Kobuk Valley National Park,pilot,NOUN,0.0309917355372
+Kobuk Valley National Park,brooks,NOUN,0.0309917355372
+Kobuk Valley National Park,gears,NOUN,0.0247933884298
+Kobuk Valley National Park,ravine,NOUN,0.022539444027
+Kobuk Valley National Park,bush,NOUN,0.022539444027
+Kobuk Valley National Park,lodge,NOUN,0.0220385674931
+Kobuk Valley National Park,lends,NOUN,0.0206611570248
+Kobuk Valley National Park,differs,NOUN,0.0206611570248
+Kobuk Valley National Park,kevin,X,0.0190718372537
+Kobuk Valley National Park,sand,NOUN,0.0185950413223
+Kobuk Valley National Park,desolation,NOUN,0.0177095631641
+Lake Clark National Park,tanalian,NOUN,0.351906158358
+Lake Clark National Park,kontrashibuna,NOUN,0.351906158358
+Lake Clark National Park,tuffs,NOUN,0.175953079179
+Lake Clark National Park,tlikakila,NOUN,0.175953079179
+Lake Clark National Park,runways,NOUN,0.175953079179
+Lake Clark National Park,proenneke,NOUN,0.175953079179
+Lake Clark National Park,pacrrafts,NOUN,0.175953079179
+Lake Clark National Park,drysuit,NOUN,0.175953079179
+Lake Clark National Park,alsworth,ADV,0.175953079179
+Lake Clark National Park,kenia,NOUN,0.0879765395894
+Lake Clark National Park,populous,ADJ,0.058651026393
+Lake Clark National Park,peninsular,NOUN,0.058651026393
+Lake Clark National Park,teetering,VERB,0.0439882697947
+Lake Clark National Park,exhibiting,VERB,0.0439882697947
+Lake Clark National Park,bears,NOUN,0.0307917888563
+Lake Clark National Park,dick,NOUN,0.0293255131965
+Lake Clark National Park,alaska,NOUN,0.0281524926686
+Lake Clark National Park,float,VERB,0.0263929618768
+Lake Clark National Park,day,NOUN,0.0238580446344
+Lake Clark National Park,beautiful,ADJ,0.0234604105572
+Lake Clark National Park,hike,INTJ,0.0212357164526
+Lake Clark National Park,plane,NOUN,0.0211143695015
+Lake Clark National Park,trip,NOUN,0.0205278592375
+Lake Clark National Park,lots,NOUN,0.0178935334758
+Lake Clark National Park,salmon,NOUN,0.0175953079179
+Lassen Volcanic National Park,bumpass,NOUN,0.146334395827
+Lassen Volcanic National Park,loomis,NOUN,0.0405679513185
+Lassen Volcanic National Park,manzanita,NOUN,0.0295566502463
+Lassen Volcanic National Park,burney,NOUN,0.0260793972762
+Lassen Volcanic National Park,drakesbad,ADJ,0.0231816864677
+Lassen Volcanic National Park,redding,VERB,0.021249879262
+Lassen Volcanic National Park,volcano,NOUN,0.0190420995985
+Lassen Volcanic National Park,sulphur,NOUN,0.0179658070125
+Lassen Volcanic National Park,nee,NOUN,0.0173862648508
+Lassen Volcanic National Park,brokeoff,NOUN,0.0173862648508
+Lassen Volcanic National Park,shasta,ADJ,0.0166618371487
+Lassen Volcanic National Park,hike,INTJ,0.016337093696
+Lassen Volcanic National Park,mudpots,NOUN,0.0159374094465
+Lassen Volcanic National Park,boiling,VERB,0.0154544576451
+Lassen Volcanic National Park,cinder,NOUN,0.0149715058437
+Lassen Volcanic National Park,mah,INTJ,0.0144885540423
+Lassen Volcanic National Park,kohm,NOUN,0.0144885540423
+Lassen Volcanic National Park,trail,NOUN,0.0125900538575
+Lassen Volcanic National Park,geothermal,ADJ,0.0121703853955
+Lassen Volcanic National Park,helen,NOUN,0.0120737950353
+Lassen Volcanic National Park,snow,NOUN,0.0117091171444
+Lassen Volcanic National Park,tortoiseshell,INTJ,0.0115908432338
+Lassen Volcanic National Park,hydrothermal,ADJ,0.0115908432338
+Lassen Volcanic National Park,bumpas,NOUN,0.0115908432338
+Lassen Volcanic National Park,beautiful,ADJ,0.011301072153
+Mammoth Cave National Park,dripstones,NOUN,0.145992321183
+Mammoth Cave National Park,tour,NOUN,0.0566676419102
+Mammoth Cave National Park,domes,NOUN,0.0319160702154
+Mammoth Cave National Park,lantern,NOUN,0.0268600590921
+Mammoth Cave National Park,styx,ADJ,0.0259120570065
+Mammoth Cave National Park,niagra,ADJ,0.0222780490117
+Mammoth Cave National Park,caves,NOUN,0.02102533197
+Mammoth Cave National Park,tours,NOUN,0.0200195734548
+Mammoth Cave National Park,dripstone,NOUN,0.0131140288509
+Mammoth Cave National Park,great,ADJ,0.0116638113747
+Mammoth Cave National Park,stalagmites,NOUN,0.0116017398095
+Mammoth Cave National Park,time,NOUN,0.011599404829
+Mammoth Cave National Park,trog,NOUN,0.0113760250273
+Mammoth Cave National Park,misery,NOUN,0.0111653578971
+Mammoth Cave National Park,niagara,INTJ,0.0108282904889
+Mammoth Cave National Park,historic,ADJ,0.00960104239889
+Mammoth Cave National Park,onyx,NOUN,0.00932202050845
+Mammoth Cave National Park,stalactites,NOUN,0.00857151885734
+Mammoth Cave National Park,cleaveland,NOUN,0.00790001738004
+Mammoth Cave National Park,kentucky,VERB,0.0073733495547
+Mammoth Cave National Park,took,VERB,0.00732899857994
+Mammoth Cave National Park,avenue,VERB,0.00708368225077
+Mammoth Cave National Park,violet,NOUN,0.00682561501635
+Mammoth Cave National Park,drips,NOUN,0.00676241487731
+Mammoth Cave National Park,i-65,PROPN,0.00663601459923
+Mesa Verde National Park,palace,NOUN,0.110700582635
+Mesa Verde National Park,dwellings,NOUN,0.0835583345176
+Mesa Verde National Park,ladders,NOUN,0.0496186822036
+Mesa Verde National Park,tour,NOUN,0.0478015220044
+Mesa Verde National Park,cliff,NOUN,0.0410611579396
+Mesa Verde National Park,dwelling,VERB,0.0279948841836
+Mesa Verde National Park,kivas,NOUN,0.0255790819952
+Mesa Verde National Park,ruins,VERB,0.0150226354575
+Mesa Verde National Park,ranger,NOUN,0.0149718833107
+Mesa Verde National Park,ladder,NOUN,0.0133985667594
+Mesa Verde National Park,tickets,NOUN,0.0123286566373
+Mesa Verde National Park,balcony,NOUN,0.0119098371194
+Mesa Verde National Park,pueblo,NOUN,0.0116842720225
+Mesa Verde National Park,nighteagle,NOUN,0.0113684808867
+Mesa Verde National Park,time,NOUN,0.0107559549769
+Mesa Verde National Park,great,ADJ,0.0105818226111
+Mesa Verde National Park,cortez,VERB,0.0103026858036
+Mesa Verde National Park,amazing,ADJ,0.0102846214802
+Mesa Verde National Park,wetherill,NOUN,0.0099474207759
+Mesa Verde National Park,worth,ADJ,0.00931039382966
+Mesa Verde National Park,people,NOUN,0.00927428703918
+Mesa Verde National Park,climb,NOUN,0.00920846951826
+Mesa Verde National Park,archeologist,NOUN,0.00852636066506
+Mesa Verde National Park,tours,NOUN,0.00847063281757
+Mesa Verde National Park,house,NOUN,0.00846835821155
+Mount Rainier National Park,longmire,NOUN,0.098727103384
+Mount Rainier National Park,nisqually,ADV,0.0940701645452
+Mount Rainier National Park,narada,NOUN,0.0549518782987
+Mount Rainier National Park,stevens,NOUN,0.0465693883887
+Mount Rainier National Park,patriarchs,NOUN,0.0325985718721
+Mount Rainier National Park,ranier,NOUN,0.0270102452654
+Mount Rainier National Park,ohanapecosh,ADP,0.0260788574977
+Mount Rainier National Park,ashford,INTJ,0.0251474697299
+Mount Rainier National Park,mountain,NOUN,0.019833080702
+Mount Rainier National Park,paradise,PROPN,0.0178640173859
+Mount Rainier National Park,seattle,NOUN,0.0161575530149
+Mount Rainier National Park,beautiful,ADJ,0.0150108661906
+Mount Rainier National Park,packwood,NOUN,0.0149022042844
+Mount Rainier National Park,chinook,NOUN,0.0149022042844
+Mount Rainier National Park,tacoma,NOUN,0.0144365104005
+Mount Rainier National Park,day,NOUN,0.0140813201501
+Mount Rainier National Park,tipsoo,NOUN,0.0139708165166
+Mount Rainier National Park,rmi,NOUN,0.0139708165166
+Mount Rainier National Park,rainer,NOUN,0.0130394287488
+Mount Rainier National Park,enumclaw,VERB,0.0121080409811
+Mount Rainier National Park,snow,NOUN,0.0115948273131
+Mount Rainier National Park,emmons,NOUN,0.0111766532133
+Mount Rainier National Park,views,NOUN,0.0110030046464
+Mount Rainier National Park,tatoosh,NOUN,0.0102452654455
+Mount Rainier National Park,mowich,ADJ,0.0102452654455
+North Cascades National Park,diablo,NOUN,0.353581142339
+North Cascades National Park,marblemount,NOUN,0.108794197643
+North Cascades National Park,vharge,NOUN,0.0543970988214
+North Cascades National Park,trashing,VERB,0.0543970988214
+North Cascades National Park,sunney,NOUN,0.0543970988214
+North Cascades National Park,stateroute,VERB,0.0543970988214
+North Cascades National Park,pledged,VERB,0.0543970988214
+North Cascades National Park,newhalem,ADV,0.0543970988214
+North Cascades National Park,free.there,ADV,0.0543970988214
+North Cascades National Park,chelan,VERB,0.0543970988214
+North Cascades National Park,alpes,NOUN,0.0543970988214
+North Cascades National Park,beautiful,ADJ,0.0271985494107
+North Cascades National Park,antiquated,VERB,0.0271985494107
+North Cascades National Park,ross,VERB,0.0241764883651
+North Cascades National Park,washington,NOUN,0.0221617810013
+North Cascades National Park,lake,NOUN,0.0188724628564
+North Cascades National Park,lushness,ADJ,0.0181323662738
+North Cascades National Park,knob,NOUN,0.0181323662738
+North Cascades National Park,cedars,NOUN,0.0155420282347
+North Cascades National Park,seattle,NOUN,0.0141905475186
+North Cascades National Park,worth,ADJ,0.0140682152124
+North Cascades National Park,nra,NOUN,0.0135992747053
+North Cascades National Park,glanced,VERB,0.0135992747053
+North Cascades National Park,blur,VERB,0.0135992747053
+North Cascades National Park,drive,VERB,0.0126278979407
+Olympic National Park,hoh,INTJ,0.341205826031
+Olympic National Park,quinault,NOUN,0.184529681425
+Olympic National Park,duc,INTJ,0.153194452504
+Olympic National Park,kalaloch,NOUN,0.0974873788661
+Olympic National Park,rialto,NOUN,0.087042302559
+Olympic National Park,marymere,NOUN,0.0557070736378
+Olympic National Park,flattery,NOUN,0.0452619973307
+Olympic National Park,sol,X,0.0334242441827
+Olympic National Park,elwha,NOUN,0.0313352289213
+Olympic National Park,rainforest,NOUN,0.0307021939936
+Olympic National Park,forest,NOUN,0.0254034571913
+Olympic National Park,sequim,NOUN,0.0243718447165
+Olympic National Park,cushman,VERB,0.0208901526142
+Olympic National Park,aberdeen,VERB,0.0208901526142
+Olympic National Park,hurricane,NOUN,0.0185079422283
+Olympic National Park,onf,NOUN,0.0174084605118
+Olympic National Park,beautiful,ADJ,0.0161318400743
+Olympic National Park,ruby,VERB,0.0154189221676
+Olympic National Park,crescent,NOUN,0.0146231068299
+Olympic National Park,onp,NOUN,0.0139267684094
+Olympic National Park,mora,NOUN,0.0139267684094
+Olympic National Park,rain,NOUN,0.0137402491897
+Olympic National Park,mosses,NOUN,0.0125340915685
+Olympic National Park,bainbridge,VERB,0.0121859223583
+Olympic National Park,moss,NOUN,0.0116739088138
+Petrified Forest National Park,i-40,NOUN,0.0423632110458
+Petrified Forest National Park,painted,VERB,0.0406653697429
+Petrified Forest National Park,desert,NOUN,0.036888141812
+Petrified Forest National Park,holbrook,VERB,0.0359445427055
+Petrified Forest National Park,puerco,NOUN,0.0273863182518
+Petrified Forest National Park,agate,VERB,0.016260626462
+Petrified Forest National Park,beautiful,ADJ,0.0147914645975
+Petrified Forest National Park,drive,VERB,0.0141822005233
+Petrified Forest National Park,wood,NOUN,0.0140958991002
+Petrified Forest National Park,time,NOUN,0.0133242701408
+Petrified Forest National Park,tepees,NOUN,0.0128373366806
+Petrified Forest National Park,petroglyphs,NOUN,0.0114109659383
+Petrified Forest National Park,i40,PROPN,0.0114109659383
+Petrified Forest National Park,logs,NOUN,0.0109219245409
+Petrified Forest National Park,stop,VERB,0.0104912027355
+Petrified Forest National Park,harvey,NOUN,0.0102698693444
+Petrified Forest National Park,colors,NOUN,0.0100131226108
+Petrified Forest National Park,amazing,ADJ,0.009573607016
+Petrified Forest National Park,flagstaff,VERB,0.00953630724841
+Petrified Forest National Park,mesa,NOUN,0.00921267691192
+Petrified Forest National Park,worth,ADJ,0.00892711343877
+Petrified Forest National Park,kachina,X,0.0085582244537
+Petrified Forest National Park,chinde,NOUN,0.0085582244537
+Petrified Forest National Park,great,ADJ,0.00808446560001
+Petrified Forest National Park,day,NOUN,0.00790547852079
+Pinnacles National Park,balconies,NOUN,0.108911486852
+Pinnacles National Park,soledad,VERB,0.0776219989169
+Pinnacles National Park,condors,NOUN,0.0640832781756
+Pinnacles National Park,gulch,NOUN,0.0582164991877
+Pinnacles National Park,hollister,NOUN,0.0487393946688
+Pinnacles National Park,condor,NOUN,0.0465731993501
+Pinnacles National Park,chaparral,ADJ,0.0451290691377
+Pinnacles National Park,reservoir,VERB,0.0286247238531
+Pinnacles National Park,caves,NOUN,0.0264972105937
+Pinnacles National Park,cave,NOUN,0.0232978819424
+Pinnacles National Park,talus,NOUN,0.0216619531861
+Pinnacles National Park,trail,NOUN,0.0211951007468
+Pinnacles National Park,salinas,NOUN,0.0180516276551
+Pinnacles National Park,moses,NOUN,0.0171490462723
+Pinnacles National Park,hike,INTJ,0.0139744496847
+Pinnacles National Park,chalone,VERB,0.0108309765931
+Pinnacles National Park,andreas,NOUN,0.0108309765931
+Pinnacles National Park,acorn,VERB,0.0108309765931
+Pinnacles National Park,east,ADV,0.00959213940104
+Pinnacles National Park,west,NOUN,0.00886170812159
+Pinnacles National Park,monterey,PROPN,0.00866478127444
+Pinnacles National Park,entrance,NOUN,0.00863196013325
+Pinnacles National Park,day,NOUN,0.00850568218325
+Pinnacles National Park,trails,NOUN,0.00775903293947
+Pinnacles National Park,hiking,VERB,0.0077041768028
+Redwood National Park,drury,NOUN,0.0995881231942
+Redwood National Park,jedediah,PROPN,0.0811458781582
+Redwood National Park,newton,NOUN,0.0756132046474
+Redwood National Park,howland,NOUN,0.0571709596115
+Redwood National Park,orick,VERB,0.0497940615971
+Redwood National Park,humboldt,NOUN,0.0479498370935
+Redwood National Park,redwoods,NOUN,0.0424171635827
+Redwood National Park,kuchel,NOUN,0.0350402655683
+Redwood National Park,jedidiah,NOUN,0.0313518165611
+Redwood National Park,trees,NOUN,0.0309159089512
+Redwood National Park,klamath,X,0.0304297043093
+Redwood National Park,rnp,ADJ,0.018442245036
+Redwood National Park,ladybird,NOUN,0.018442245036
+Redwood National Park,hiouchi,NOUN,0.0165980205324
+Redwood National Park,grove,VERB,0.016334559889
+Redwood National Park,fern,NOUN,0.0143439683613
+Redwood National Park,giants,NOUN,0.0140512343131
+Redwood National Park,johnson,NOUN,0.0134770252186
+Redwood National Park,stout,VERB,0.0132169422758
+Redwood National Park,simpson,NOUN,0.0129095715252
+Redwood National Park,irvine,VERB,0.0129095715252
+Redwood National Park,trinidad,NOUN,0.0119874592734
+Redwood National Park,drive,VERB,0.0117569312104
+Redwood National Park,beautiful,ADJ,0.0115571402225
+Redwood National Park,amazing,ADJ,0.0108465407245
+Rocky Mountain National Park,estes,VERB,0.0792714884696
+Rocky Mountain National Park,rmnp,VERB,0.025269541779
+Rocky Mountain National Park,elk,NOUN,0.0207547169811
+Rocky Mountain National Park,sprague,NOUN,0.0196540880503
+Rocky Mountain National Park,beautiful,ADJ,0.0161818658281
+Rocky Mountain National Park,votes,NOUN,0.0157232704403
+Rocky Mountain National Park,   ,SPACE,0.0157232704403
+Rocky Mountain National Park,lake,NOUN,0.0155628289051
+Rocky Mountain National Park,mountains,NOUN,0.013950548773
+Rocky Mountain National Park,denver,NOUN,0.0121855345912
+Rocky Mountain National Park,road,NOUN,0.012003032345
+Rocky Mountain National Park,trailridge,NOUN,0.0117924528302
+Rocky Mountain National Park,granby,NOUN,0.0117924528302
+Rocky Mountain National Park,moose,VERB,0.0110437256664
+Rocky Mountain National Park,views,NOUN,0.010126852148
+Rocky Mountain National Park,trail,NOUN,0.00962372587291
+Rocky Mountain National Park,drive,VERB,0.00954627133872
+Rocky Mountain National Park,day,NOUN,0.00912749173862
+Rocky Mountain National Park,great,ADJ,0.00877414645103
+Rocky Mountain National Park,time,NOUN,0.0086749078291
+Rocky Mountain National Park,overthere,ADJ,0.00786163522013
+Rocky Mountain National Park,milner,NOUN,0.00786163522013
+Rocky Mountain National Park,marshlands,NOUN,0.00786163522013
+Rocky Mountain National Park,longs,NOUN,0.00786163522013
+Rocky Mountain National Park,hwy-34,NOUN,0.00786163522013
+Saguaro National Park,saguaros,X,0.196721311475
+Saguaro National Park,tucson,NOUN,0.101863911969
+Saguaro National Park,rincon,NOUN,0.0970132494947
+Saguaro National Park,bajada,NOUN,0.0458118122614
+Saguaro National Park,cactus,NOUN,0.0449696833595
+Saguaro National Park,cacti,NOUN,0.042495119971
+Saguaro National Park,tuscon,NOUN,0.0296429373456
+Saguaro National Park,sonoran,NOUN,0.0256007186167
+Saguaro National Park,desert,NOUN,0.0239078235934
+Saguaro National Park,wasson,NOUN,0.0215584998877
+Saguaro National Park,sendero,NOUN,0.0188636874018
+Saguaro National Park,freeman,NOUN,0.0188636874018
+Saguaro National Park,east,ADV,0.0171728246655
+Saguaro National Park,west,NOUN,0.0165118510504
+Saguaro National Park,saquaro,NOUN,0.0161688749158
+Saguaro National Park,sabino,NOUN,0.0161688749158
+Saguaro National Park,loma,NOUN,0.0161688749158
+Saguaro National Park,drive,VERB,0.0155432934458
+Saguaro National Park,cholla,NOUN,0.0148214686728
+Saguaro National Park,petroglyphs,NOUN,0.013698630137
+Saguaro National Park,great,ADJ,0.0135703057329
+Saguaro National Park,wren,NOUN,0.0134740624298
+Saguaro National Park,saguro,VERB,0.0134740624298
+Saguaro National Park,esperanza,PUNCT,0.0134740624298
+Saguaro National Park,beautiful,ADJ,0.0130698405569
+Sequoia National Park,sherman,NOUN,0.156774916013
+Sequoia National Park,moro,ADJ,0.123180291153
+Sequoia National Park,visalia,NOUN,0.115714818962
+Sequoia National Park,sequoias,NOUN,0.0423043424163
+Sequoia National Park,wuksachi,PROPN,0.0261291526689
+Sequoia National Park,trees,NOUN,0.0255183413078
+Sequoia National Park,lodgepole,NOUN,0.0223964165733
+Sequoia National Park,generals,NOUN,0.0223964165733
+Sequoia National Park,scribbled,VERB,0.0149309443822
+Sequoia National Park,hyperion,NOUN,0.0149309443822
+Sequoia National Park,kings,NOUN,0.0114853418325
+Sequoia National Park,hume,NOUN,0.0111982082867
+Sequoia National Park,general,ADJ,0.0111250173828
+Sequoia National Park,beautiful,ADJ,0.0108249346771
+Sequoia National Park,giant,ADJ,0.010801108702
+Sequoia National Park,tree,NOUN,0.010664960273
+Sequoia National Park,fresno,NOUN,0.0104516610676
+Sequoia National Park,place,NOUN,0.0101226741574
+Sequoia National Park,drive,VERB,0.00959846424572
+Sequoia National Park,day,NOUN,0.0091104067417
+Sequoia National Park,whitney,NOUN,0.00895856662934
+Sequoia National Park,shuttle,NOUN,0.00837037791125
+Sequoia National Park,time,NOUN,0.00823776241778
+Sequoia National Park,amazing,ADJ,0.00809813932596
+Sequoia National Park,great,ADJ,0.00759878419453
+Shenandoah National Park,massanutten,VERB,0.0932400932401
+Shenandoah National Park,i-81,PROPN,0.0777000777001
+Shenandoah National Park,harrisonburg,ADV,0.0621600621601
+Shenandoah National Park,bentonville,NOUN,0.0621600621601
+Shenandoah National Park,winchester,NOUN,0.04662004662
+Shenandoah National Park,vmi,X,0.04662004662
+Shenandoah National Park,breadbasket,NOUN,0.04662004662
+Shenandoah National Park,luray,INTJ,0.043512043512
+Shenandoah National Park,confederacy,NOUN,0.03885003885
+Shenandoah National Park,woodstock,NOUN,0.03108003108
+Shenandoah National Park,waynesboro,ADJ,0.03108003108
+Shenandoah National Park,staunton,NOUN,0.03108003108
+Shenandoah National Park,springerville,VERB,0.03108003108
+Shenandoah National Park,roanoke,VERB,0.03108003108
+Shenandoah National Park,potomac,INTJ,0.03108003108
+Shenandoah National Park,orkney,VERB,0.03108003108
+Shenandoah National Park,skyline,NOUN,0.0247227519955
+Shenandoah National Park,skyland,NOUN,0.02331002331
+Shenandoah National Park,hawksbill,VERB,0.02331002331
+Shenandoah National Park,valley,NOUN,0.0229568411387
+Shenandoah National Park,drive,VERB,0.0219225219225
+Shenandoah National Park,appalachian,ADJ,0.019425019425
+Shenandoah National Park,virginia,NOUN,0.017871017871
+Shenandoah National Park,civil,ADJ,0.0172666839334
+Shenandoah National Park,caverns,NOUN,0.0165112665113
+Theodore Roosevelt National Park,medora,NOUN,0.340870465986
+Theodore Roosevelt National Park,trnp,NOUN,0.112652347733
+Theodore Roosevelt National Park,bison,NOUN,0.0614059879554
+Theodore Roosevelt National Park,maltese,VERB,0.0446724827218
+Theodore Roosevelt National Park,unit,NOUN,0.0357703575417
+Theodore Roosevelt National Park,prairie,NOUN,0.0328164705502
+Theodore Roosevelt National Park,dakota,VERB,0.0296197983264
+Theodore Roosevelt National Park,dickinson,NOUN,0.0281630869333
+Theodore Roosevelt National Park,horses,NOUN,0.0267962959966
+Theodore Roosevelt National Park,badlands,NOUN,0.0243807485793
+Theodore Roosevelt National Park,buffalo,NOUN,0.0236873939574
+Theodore Roosevelt National Park,boicourt,NOUN,0.0194228185747
+Theodore Roosevelt National Park,i-94,PROPN,0.0158619685027
+Theodore Roosevelt National Park,elkhorn,VERB,0.0155382548598
+Theodore Roosevelt National Park,north,NOUN,0.0150700261977
+Theodore Roosevelt National Park,south,ADV,0.0148966081747
+Theodore Roosevelt National Park,beautiful,ADJ,0.014340514381
+Theodore Roosevelt National Park,wild,ADJ,0.0139196866452
+Theodore Roosevelt National Park,dogs,NOUN,0.0138185261318
+Theodore Roosevelt National Park,bismarck,NOUN,0.0135959730023
+Theodore Roosevelt National Park,drive,VERB,0.0135612893977
+Theodore Roosevelt National Park,watford,INTJ,0.0126248320735
+Theodore Roosevelt National Park,saw,VERB,0.0123614718217
+Theodore Roosevelt National Park,concretions,NOUN,0.0116536911448
+Theodore Roosevelt National Park,great,ADJ,0.0113935641103
+Virgin Islands National Park,snorkeling,NOUN,0.129984754874
+Virgin Islands National Park,snorkel,NOUN,0.117261379397
+Virgin Islands National Park,snorkelers,NOUN,0.0992939099735
+Virgin Islands National Park,underwater,ADV,0.0772285966461
+Virgin Islands National Park,coral,ADJ,0.0645410414828
+Virgin Islands National Park,trunk,NOUN,0.0514857310974
+Virgin Islands National Park,beach,NOUN,0.0400958265036
+Virgin Islands National Park,trail,NOUN,0.0399458258514
+Virgin Islands National Park,waterlemon,NOUN,0.0397175639894
+Virgin Islands National Park,cay,NOUN,0.0397175639894
+Virgin Islands National Park,fish,VERB,0.0341431690435
+Virgin Islands National Park,snorkeler,NOUN,0.0308914386584
+Virgin Islands National Park,lifeguards,NOUN,0.0308914386584
+Virgin Islands National Park,bay,NOUN,0.0300088261253
+Virgin Islands National Park,stingray,VERB,0.0264783759929
+Virgin Islands National Park,squid,ADJ,0.0264783759929
+Virgin Islands National Park,snorkellers,NOUN,0.0264783759929
+Virgin Islands National Park,readable,ADJ,0.0264783759929
+Virgin Islands National Park,maho,NOUN,0.0264783759929
+Virgin Islands National Park,hawksnest,ADJ,0.0264783759929
+Virgin Islands National Park,christiansted,VERB,0.0264783759929
+Virgin Islands National Park,buoys,NOUN,0.0238305383936
+Virgin Islands National Park,reef,NOUN,0.0218446601942
+Virgin Islands National Park,snorkeled,VERB,0.0211827007944
+Virgin Islands National Park,great,ADJ,0.0177310553524
+Voyageurs National Park,kabetogama,NOUN,0.376884422111
+Voyageurs National Park,ethno,NOUN,0.150753768844
+Voyageurs National Park,walleye,NOUN,0.0753768844221
+Voyageurs National Park,tooled,VERB,0.0753768844221
+Voyageurs National Park,to?if,X,0.0753768844221
+Voyageurs National Park,orr,VERB,0.0753768844221
+Voyageurs National Park,ojibwe,NOUN,0.0753768844221
+Voyageurs National Park,ojibwa,ADV,0.0753768844221
+Voyageurs National Park,oberholtzer,NOUN,0.0753768844221
+Voyageurs National Park,kab,NOUN,0.0753768844221
+Voyageurs National Park,houseboats,NOUN,0.0753768844221
+Voyageurs National Park,houseboat,NOUN,0.0753768844221
+Voyageurs National Park,eveleth,X,0.0753768844221
+Voyageurs National Park,bwca,NOUN,0.0753768844221
+Voyageurs National Park,kettle,NOUN,0.0603015075377
+Voyageurs National Park,chick,NOUN,0.0502512562814
+Voyageurs National Park,portaging,VERB,0.0376884422111
+Voyageurs National Park,locator,NOUN,0.0376884422111
+Voyageurs National Park,furs,NOUN,0.0376884422111
+Voyageurs National Park,behooves,NOUN,0.0376884422111
+Voyageurs National Park,boat,NOUN,0.0314070351759
+Voyageurs National Park,ash,NOUN,0.0301507537688
+Voyageurs National Park,workmen,NOUN,0.0251256281407
+Voyageurs National Park,navigates,NOUN,0.0251256281407
+Voyageurs National Park,midsummer,NOUN,0.0251256281407
+Wind Cave National Park,boxwork,NOUN,0.311660870714
+Wind Cave National Park,tour,NOUN,0.05300602769
+Wind Cave National Park,fairgrounds,NOUN,0.0528238763921
+Wind Cave National Park,custer,NOUN,0.0279966544878
+Wind Cave National Park,rankin,INTJ,0.0264119381961
+Wind Cave National Park,elevator,NOUN,0.0261184722161
+Wind Cave National Park,bison,NOUN,0.0245834193979
+Wind Cave National Park,caves,NOUN,0.0212238789076
+Wind Cave National Park,fairground,NOUN,0.0211295505569
+Wind Cave National Park,honeycomb,VERB,0.0184883567372
+Wind Cave National Park,stalagmites,NOUN,0.015092536112
+Wind Cave National Park,prairie,NOUN,0.0145265660078
+Wind Cave National Park,candlelight,INTJ,0.013205969098
+Wind Cave National Park,sheena,NOUN,0.013205969098
+Wind Cave National Park,meredith,NOUN,0.013205969098
+Wind Cave National Park,tours,NOUN,0.0126362998428
+Wind Cave National Park,great,ADJ,0.0114137304347
+Wind Cave National Park,stalactites,NOUN,0.0108949245059
+Wind Cave National Park,frostwork,NOUN,0.0105647752784
+Wind Cave National Park,guide,NOUN,0.0100845582203
+Wind Cave National Park,time,NOUN,0.00988170791129
+Wind Cave National Park,lakota,NOUN,0.00968437733856
+Wind Cave National Park,ranger,NOUN,0.00938567089467
+Wind Cave National Park,calcite,NOUN,0.00924417836862
+Wind Cave National Park,interesting,ADJ,0.0089893263334
+Wrangell - St Elias National Park,kennicott,X,0.219321148825
+Wrangell - St Elias National Park,mccarthy,ADJ,0.193211488251
+Wrangell - St Elias National Park,ahtna,ADV,0.156657963446
+Wrangell - St Elias National Park,kennecott,NOUN,0.109660574413
+Wrangell - St Elias National Park,chitina,VERB,0.0939947780679
+Wrangell - St Elias National Park,nabesna,NOUN,0.0783289817232
+Wrangell - St Elias National Park,valdez,NOUN,0.0731070496084
+Wrangell - St Elias National Park,glenallen,VERB,0.0469973890339
+Wrangell - St Elias National Park,center,NOUN,0.0369075541001
+Wrangell - St Elias National Park,kluane,NOUN,0.0313315926893
+Wrangell - St Elias National Park,kennekott,NOUN,0.0313315926893
+Wrangell - St Elias National Park,edgerton,NOUN,0.0313315926893
+Wrangell - St Elias National Park,copper,NOUN,0.0266318537859
+Wrangell - St Elias National Park,richardson,NOUN,0.023498694517
+Wrangell - St Elias National Park,visitor,NOUN,0.023365933531
+Wrangell - St Elias National Park,boreal,ADJ,0.0208877284595
+Wrangell - St Elias National Park,alaska,NOUN,0.0206788511749
+Wrangell - St Elias National Park,wrangells,NOUN,0.0156657963446
+Wrangell - St Elias National Park,we´ll,PROPN,0.0156657963446
+Wrangell - St Elias National Park,uncared,VERB,0.0156657963446
+Wrangell - St Elias National Park,trailsyou,NOUN,0.0156657963446
+Wrangell - St Elias National Park,townsin,NOUN,0.0156657963446
+Wrangell - St Elias National Park,tok,NOUN,0.0156657963446
+Wrangell - St Elias National Park,subsistence,NOUN,0.0156657963446
+Wrangell - St Elias National Park,studyto,NOUN,0.0156657963446
+Yellowstone National Park,faithful,ADJ,0.0542188350572
+Yellowstone National Park,geyser,NOUN,0.0500816548721
+Yellowstone National Park,geysers,NOUN,0.045590636908
+Yellowstone National Park,prismatic,ADJ,0.0359281437126
+Yellowstone National Park,bison,NOUN,0.0293120053599
+Yellowstone National Park,lamar,NOUN,0.0266739248775
+Yellowstone National Park,norris,ADV,0.0214117220105
+Yellowstone National Park,gardiner,NOUN,0.0212302667392
+Yellowstone National Park,firehole,INTJ,0.0206859009254
+Yellowstone National Park,hayden,VERB,0.0163309744148
+Yellowstone National Park,geothermal,ADJ,0.0121937942297
+Yellowstone National Park,time,NOUN,0.0118446492595
+Yellowstone National Park,elk,NOUN,0.0111486118672
+Yellowstone National Park,old,ADJ,0.0108477260355
+Yellowstone National Park,day,NOUN,0.00989085004106
+Yellowstone National Park,thermal,ADJ,0.00931470392548
+Yellowstone National Park,days,NOUN,0.00878493796107
+Yellowstone National Park,teton,INTJ,0.00870985302123
+Yellowstone National Park,wildlife,NOUN,0.00869108178627
+Yellowstone National Park,mammoth,NOUN,0.00828382760171
+Yellowstone National Park,springs,NOUN,0.00823905015522
+Yellowstone National Park,beautiful,ADJ,0.00800217746326
+Yellowstone National Park,visit,VERB,0.00792959535475
+Yellowstone National Park,saw,VERB,0.00756576215827
+Yellowstone National Park,grand,ADJ,0.00755707835666
+Yosemite National Park,bridalveil,NOUN,0.0431413014841
+Yosemite National Park,ahwahnee,NOUN,0.0378721348907
+Yosemite National Park,valley,NOUN,0.0318395379101
+Yosemite National Park,wawona,NOUN,0.02832177044
+Yosemite National Park,tuolumne,ADV,0.0260165100553
+Yosemite National Park,vernal,ADJ,0.0255774128392
+Yosemite National Park,capitan,NOUN,0.0241503468868
+Yosemite National Park,merced,VERB,0.0207473434618
+Yosemite National Park,curry,VERB,0.0201710283657
+Yosemite National Park,mariposa,NOUN,0.0167954685167
+Yosemite National Park,hetch,NOUN,0.0151488539563
+Yosemite National Park,hetchy,INTJ,0.0144902081321
+Yosemite National Park,beautiful,ADJ,0.0123605866339
+Yosemite National Park,tenaya,NOUN,0.0115263019232
+Yosemite National Park,falls,VERB,0.0115128601717
+Yosemite National Park,tioga,NOUN,0.0113945727584
+Yosemite National Park,place,NOUN,0.0110797623814
+Yosemite National Park,time,NOUN,0.0105780790557
+Yosemite National Park,dome,NOUN,0.009999441149
+Yosemite National Park,day,NOUN,0.00978479771015
+Yosemite National Park,yarts,NOUN,0.0088917186265
+Yosemite National Park,waterfalls,NOUN,0.0083885863997
+Yosemite National Park,shuttle,NOUN,0.00801352419426
+Yosemite National Park,visit,VERB,0.00773359971898
+Yosemite National Park,great,ADJ,0.00737448092436
+Zion National Park,springdale,NOUN,0.0412831643221
+Zion National Park,canyon,NOUN,0.0285405978952
+Zion National Park,shuttle,NOUN,0.0271160241621
+Zion National Park,weeping,NOUN,0.02323528882
+Zion National Park,sinawava,NOUN,0.0205335110503
+Zion National Park,kolob,X,0.0201732740143
+Zion National Park,narrows,NOUN,0.0196554332751
+Zion National Park,watchman,NOUN,0.0108071110791
+Zion National Park,beautiful,ADJ,0.0101406725625
+Zion National Park,hike,INTJ,0.00994999537282
+Zion National Park,time,NOUN,0.00989409652241
+Zion National Park,angels,NOUN,0.0094562221942
+Zion National Park,great,ADJ,0.009359730131
+Zion National Park,day,NOUN,0.00919520298594
+Zion National Park,emerald,PROPN,0.00869972441867
+Zion National Park,riverwalk,NOUN,0.00810533330932
+Zion National Park,landing,NOUN,0.00806376749747
+Zion National Park,virgin,ADJ,0.00785316738414
+Zion National Park,bus,NOUN,0.00769363383964
+Zion National Park,carmel,VERB,0.00756497775536
+Zion National Park,trail,NOUN,0.00739728120414
+Zion National Park,river,NOUN,0.00721915020083
+Zion National Park,trails,NOUN,0.00718578087539
+Zion National Park,place,NOUN,0.0071803178695
+Zion National Park,hiking,VERB,0.00712111426461

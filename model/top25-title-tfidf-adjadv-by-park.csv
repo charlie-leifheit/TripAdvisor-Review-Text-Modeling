@@ -1,0 +1,1416 @@
+park,word,pos,tfidf
+Acadia National Park,beautiful,ADJ,0.28946166044
+Acadia National Park,great,ADJ,0.100458993678
+Acadia National Park,amazing,ADJ,0.0743235719853
+Acadia National Park,unlikely,ADJ,0.0467653936087
+Acadia National Park,slouch,ADV,0.0467653936087
+Acadia National Park,northeastern,ADJ,0.0467653936087
+Acadia National Park,interist,ADJ,0.0467653936087
+Acadia National Park,immaculately,ADV,0.0467653936087
+Acadia National Park,haiku,ADJ,0.0467653936087
+Acadia National Park,everwhere,ADV,0.0467653936087
+Acadia National Park,ellsworth,ADV,0.0467653936087
+Acadia National Park,don’t,ADV,0.0467653936087
+Acadia National Park,auspicious,ADJ,0.0467653936087
+Acadia National Park,acessible,ADJ,0.0467653936087
+Acadia National Park,gorgeous,ADJ,0.0458830276916
+Acadia National Park,wonderful,ADJ,0.0407032129557
+Acadia National Park,stunning,ADJ,0.0386713831764
+Acadia National Park,best,ADJ,0.0384144304643
+Acadia National Park,east,ADV,0.0323760417291
+Acadia National Park,awesome,ADJ,0.0317336599488
+Acadia National Park,perfectly,ADV,0.0233826968044
+Acadia National Park,panaramic,ADJ,0.0233826968044
+Acadia National Park,northeast,ADV,0.0233826968044
+Acadia National Park,lofty,ADJ,0.0233826968044
+Acadia National Park,insightful,ADJ,0.0233826968044
+American Samoa National Park,pago,ADJ,2.82352941176
+American Samoa National Park,tropical,ADJ,0.235294117647
+American Samoa National Park,fave,ADJ,0.235294117647
+American Samoa National Park,beautiful,ADJ,0.182555780933
+American Samoa National Park,great,ADJ,0.104575163399
+American Samoa National Park,volcanic,ADJ,0.100840336134
+American Samoa National Park,pacific,ADJ,0.100840336134
+American Samoa National Park,junior,ADJ,0.0882352941176
+American Samoa National Park,untouched,ADJ,0.078431372549
+American Samoa National Park,indescribably,ADV,0.078431372549
+American Samoa National Park,nice,ADJ,0.0770053475936
+American Samoa National Park,helpful,ADJ,0.0672268907563
+American Samoa National Park,abundant,ADJ,0.0641711229947
+American Samoa National Park,south,ADV,0.0504201680672
+American Samoa National Park,central,ADJ,0.0504201680672
+American Samoa National Park,amazing,ADJ,0.0504201680672
+American Samoa National Park,unique,ADJ,0.0432172869148
+American Samoa National Park,decent,ADJ,0.0415224913495
+American Samoa National Park,small,ADJ,0.0361990950226
+American Samoa National Park,remarkable,ADJ,0.0352941176471
+American Samoa National Park,hard,ADJ,0.0352941176471
+American Samoa National Park,different,ADJ,0.0336134453782
+American Samoa National Park,clean,ADJ,0.0336134453782
+American Samoa National Park,truly,ADV,0.0328317373461
+American Samoa National Park,stunningly,ADV,0.0282352941176
+Arches National Park,delicate,ADJ,0.776875699888
+Arches National Park,utah,ADJ,0.146376579747
+Arches National Park,beautiful,ADJ,0.14074989381
+Arches National Park,amazing,ADJ,0.133928571429
+Arches National Park,fiery,ADV,0.10078387458
+Arches National Park,great,ADJ,0.0861639915391
+Arches National Park,awesome,ADJ,0.0439429691249
+Arches National Park,stunning,ADJ,0.0386015160651
+Arches National Park,spectacular,ADJ,0.0342167475426
+Arches National Park,navtec,ADJ,0.03359462486
+Arches National Park,red,ADJ,0.0329947208447
+Arches National Park,early,ADV,0.0300951847704
+Arches National Park,best,ADJ,0.028045512718
+Arches National Park,worth,ADJ,0.0254906583368
+Arches National Park,favorite,ADJ,0.021521556551
+Arches National Park,wonderful,ADJ,0.0192858031604
+Arches National Park,natural,ADJ,0.017482917019
+Arches National Park,fantastic,ADJ,0.0172554209508
+Arches National Park,hot,ADJ,0.0170518171638
+Arches National Park,ultimately,ADV,0.01679731243
+Arches National Park,geomorphological,ADJ,0.01679731243
+Arches National Park,gorgeous,ADJ,0.0161634515836
+Arches National Park,mighty,ADJ,0.0160974244121
+Arches National Park,busy,ADJ,0.0155052114739
+Arches National Park,incredible,ADJ,0.0153151966274
+Badlands National Park,amazing,ADJ,0.156352863726
+Badlands National Park,beautiful,ADJ,0.149372318449
+Badlands National Park,upside,ADV,0.0921658986175
+Badlands National Park,unexpectadly,ADV,0.0921658986175
+Badlands National Park,undecided,ADJ,0.0921658986175
+Badlands National Park,starkly,ADV,0.0921658986175
+Badlands National Park,nimble,ADJ,0.0921658986175
+Badlands National Park,colorfull,ADJ,0.0921658986175
+Badlands National Park,anotherworldly,ADV,0.0921658986175
+Badlands National Park,absoutely,ADV,0.0921658986175
+Badlands National Park,great,ADJ,0.0853387950162
+Badlands National Park,awesome,ADJ,0.0658327847268
+Badlands National Park,stark,ADJ,0.0645161290323
+Badlands National Park,south,ADV,0.0460829493088
+Badlands National Park,impressively,ADV,0.0460829493088
+Badlands National Park,harsh,ADJ,0.0460829493088
+Badlands National Park,desolate,ADJ,0.0394996708361
+Badlands National Park,spectacular,ADJ,0.0341355180065
+Badlands National Park,worth,ADJ,0.0307219662058
+Badlands National Park,preferably,ADV,0.0307219662058
+Badlands National Park,eerily,ADV,0.0307219662058
+Badlands National Park,dont,ADV,0.0307219662058
+Badlands National Park,underrated,ADJ,0.0276497695853
+Badlands National Park,stunning,ADJ,0.0265863169089
+Badlands National Park,unique,ADJ,0.0263331138907
+Big Bend National Park,thorough,ADJ,0.252100840336
+Big Bend National Park,goregous,ADJ,0.252100840336
+Big Bend National Park,dual,ADJ,0.252100840336
+Big Bend National Park,cenrtal,ADJ,0.252100840336
+Big Bend National Park,afterward,ADV,0.252100840336
+Big Bend National Park,beautiful,ADJ,0.208635178209
+Big Bend National Park,mountainous,ADJ,0.126050420168
+Big Bend National Park,harsh,ADJ,0.126050420168
+Big Bend National Park,great,ADJ,0.116713352007
+Big Bend National Park,wildest,ADJ,0.0840336134454
+Big Bend National Park,pro,ADJ,0.0840336134454
+Big Bend National Park,seldom,ADV,0.0504201680672
+Big Bend National Park,global,ADJ,0.0504201680672
+Big Bend National Park,gorgeous,ADJ,0.0475661962898
+Big Bend National Park,best,ADJ,0.0450180072029
+Big Bend National Park,amazing,ADJ,0.0450180072029
+Big Bend National Park,lower,ADJ,0.0387847446671
+Big Bend National Park,stunning,ADJ,0.0339366515837
+Big Bend National Park,nice,ADJ,0.0320855614973
+Big Bend National Park,nicest,ADJ,0.031512605042
+Big Bend National Park,wild,ADJ,0.0280112044818
+Big Bend National Park,spectacular,ADJ,0.0280112044818
+Big Bend National Park,lush,ADJ,0.0280112044818
+Big Bend National Park,charming,ADJ,0.0252100840336
+Big Bend National Park,secret,ADJ,0.0240096038415
+Biscayne National Park,underwater,ADV,0.260416666667
+Biscayne National Park,offshore,ADV,0.208333333333
+Biscayne National Park,beautiful,ADJ,0.172413793103
+Biscayne National Park,great,ADJ,0.146604938272
+Biscayne National Park,marine,ADJ,0.138888888889
+Biscayne National Park,billy,ADV,0.104166666667
+Biscayne National Park,atlantic,ADJ,0.104166666667
+Biscayne National Park,nice,ADJ,0.0757575757576
+Biscayne National Park,sanctuary,ADJ,0.0694444444444
+Biscayne National Park,coral,ADJ,0.0520833333333
+Biscayne National Park,ahead,ADV,0.0416666666667
+Biscayne National Park,specific,ADJ,0.0347222222222
+Biscayne National Park,8th,ADJ,0.0347222222222
+Biscayne National Park,local,ADJ,0.0320512820513
+Biscayne National Park,south,ADV,0.0297619047619
+Biscayne National Park,worth,ADJ,0.0292397660819
+Biscayne National Park,excellent,ADJ,0.0285947712418
+Biscayne National Park,best,ADJ,0.0260416666667
+Biscayne National Park,somewhat,ADV,0.0260416666667
+Biscayne National Park,informative,ADJ,0.025
+Biscayne National Park,pretty,ADV,0.0242248062016
+Biscayne National Park,new,ADJ,0.0238095238095
+Biscayne National Park,wonderfull,ADJ,0.0231481481481
+Biscayne National Park,fair,ADJ,0.0231481481481
+Biscayne National Park,educational,ADJ,0.0231481481481
+Black Canyon Of The Gunnison National Park,beautiful,ADJ,0.104788595102
+Black Canyon Of The Gunnison National Park,deep,ADJ,0.103928497194
+Black Canyon Of The Gunnison National Park,amazing,ADJ,0.0933871781928
+Black Canyon Of The Gunnison National Park,great,ADJ,0.0732888365397
+Black Canyon Of The Gunnison National Park,grand,ADJ,0.0706713780919
+Black Canyon Of The Gunnison National Park,uplift,ADJ,0.0706713780919
+Black Canyon Of The Gunnison National Park,unheard,ADJ,0.0706713780919
+Black Canyon Of The Gunnison National Park,ridgway,ADV,0.0706713780919
+Black Canyon Of The Gunnison National Park,previously,ADV,0.0706713780919
+Black Canyon Of The Gunnison National Park,jokie,ADV,0.0706713780919
+Black Canyon Of The Gunnison National Park,intelligible,ADJ,0.0706713780919
+Black Canyon Of The Gunnison National Park,instant,ADJ,0.0706713780919
+Black Canyon Of The Gunnison National Park,impreessive,ADJ,0.0706713780919
+Black Canyon Of The Gunnison National Park,geologically,ADV,0.0706713780919
+Black Canyon Of The Gunnison National Park,earh,ADJ,0.0706713780919
+Black Canyon Of The Gunnison National Park,approptiate,ADJ,0.0706713780919
+Black Canyon Of The Gunnison National Park,stunning,ADJ,0.0570807284588
+Black Canyon Of The Gunnison National Park,narrow,ADJ,0.0565371024735
+Black Canyon Of The Gunnison National Park,worth,ADJ,0.0495939495382
+Black Canyon Of The Gunnison National Park,deepest,ADJ,0.0471142520612
+Black Canyon Of The Gunnison National Park,awesome,ADJ,0.0391216557294
+Black Canyon Of The Gunnison National Park,impressive,ADJ,0.0379212272688
+Black Canyon Of The Gunnison National Park,spectacular,ADJ,0.0353356890459
+Black Canyon Of The Gunnison National Park,vertical,ADJ,0.0353356890459
+Black Canyon Of The Gunnison National Park,twin,ADJ,0.0353356890459
+Bryce Canyon National Park,hoodoo,ADJ,0.559766763848
+Bryce Canyon National Park,utah,ADJ,0.198250728863
+Bryce Canyon National Park,beautiful,ADJ,0.135116115412
+Bryce Canyon National Park,amazing,ADJ,0.118492294877
+Bryce Canyon National Park,stunning,ADJ,0.0569634447185
+Bryce Canyon National Park,great,ADJ,0.0567973221034
+Bryce Canyon National Park,spectacular,ADJ,0.0548536875067
+Bryce Canyon National Park,awesome,ADJ,0.0399833402749
+Bryce Canyon National Park,best,ADJ,0.0341524364848
+Bryce Canyon National Park,grand,ADJ,0.0334806733753
+Bryce Canyon National Park,favorite,ADJ,0.0332847424684
+Bryce Canyon National Park,unique,ADJ,0.0299875052062
+Bryce Canyon National Park,wifes,ADJ,0.0233236151603
+Bryce Canyon National Park,red,ADJ,0.0216576426489
+Bryce Canyon National Park,mule,ADJ,0.0204081632653
+Bryce Canyon National Park,absolutely,ADV,0.0201838977349
+Bryce Canyon National Park,incredible,ADJ,0.0198936717544
+Bryce Canyon National Park,natural,ADJ,0.0171357172607
+Bryce Canyon National Park,mighty,ADJ,0.0165208940719
+Bryce Canyon National Park,wonderful,ADJ,0.0164129143721
+Bryce Canyon National Park,gorgeous,ADJ,0.0162825237912
+Bryce Canyon National Park,worth,ADJ,0.0159582630044
+Bryce Canyon National Park,fantastic,ADJ,0.015690432017
+Bryce Canyon National Park,magnificent,ADJ,0.0149162655095
+Bryce Canyon National Park,colorful,ADJ,0.0143529939448
+Canyonlands National Park,utah,ADJ,0.202008475068
+Canyonlands National Park,beautiful,ADJ,0.126105171713
+Canyonlands National Park,grand,ADJ,0.0896567091793
+Canyonlands National Park,great,ADJ,0.0893945550589
+Canyonlands National Park,amazing,ADJ,0.0805421721716
+Canyonlands National Park,spacious,ADJ,0.0365704997968
+Canyonlands National Park,awesome,ADJ,0.0352644105184
+Canyonlands National Park,stunning,ADJ,0.0351639421123
+Canyonlands National Park,spectacular,ADJ,0.0307011603233
+Canyonlands National Park,nice,ADJ,0.026596727125
+Canyonlands National Park,expansive,ADJ,0.026596727125
+Canyonlands National Park,wonderful,ADJ,0.0257347961533
+Canyonlands National Park,void,ADJ,0.0243803331979
+Canyonlands National Park,unprecedented,ADJ,0.0243803331979
+Canyonlands National Park,unobtrusive,ADJ,0.0243803331979
+Canyonlands National Park,unbeleievable,ADJ,0.0243803331979
+Canyonlands National Park,square,ADJ,0.0243803331979
+Canyonlands National Park,skye,ADJ,0.0243803331979
+Canyonlands National Park,shallow,ADJ,0.0243803331979
+Canyonlands National Park,separate,ADJ,0.0243803331979
+Canyonlands National Park,sectional,ADJ,0.0243803331979
+Canyonlands National Park,rival,ADJ,0.0243803331979
+Canyonlands National Park,reminiscent,ADJ,0.0243803331979
+Canyonlands National Park,primitive,ADJ,0.0243803331979
+Canyonlands National Park,navtec,ADJ,0.0243803331979
+Capitol Reef National Park,utah,ADJ,0.455176835132
+Capitol Reef National Park,beautiful,ADJ,0.116833879246
+Capitol Reef National Park,great,ADJ,0.0864289869525
+Capitol Reef National Park,worth,ADJ,0.0535369838208
+Capitol Reef National Park,amazing,ADJ,0.0496847953841
+Capitol Reef National Park,underrated,ADJ,0.0493642483171
+Capitol Reef National Park,scenic,ADJ,0.0458115183246
+Capitol Reef National Park,wrongly,ADV,0.0448765893792
+Capitol Reef National Park,unvisited,ADJ,0.0448765893792
+Capitol Reef National Park,unused,ADJ,0.0448765893792
+Capitol Reef National Park,untarred,ADJ,0.0448765893792
+Capitol Reef National Park,unpublicized,ADJ,0.0448765893792
+Capitol Reef National Park,tectonic,ADJ,0.0448765893792
+Capitol Reef National Park,sparsely,ADV,0.0448765893792
+Capitol Reef National Park,serendipitous,ADJ,0.0448765893792
+Capitol Reef National Park,redder,ADJ,0.0448765893792
+Capitol Reef National Park,outsdide,ADJ,0.0448765893792
+Capitol Reef National Park,natonal,ADJ,0.0448765893792
+Capitol Reef National Park,mightly,ADV,0.0448765893792
+Capitol Reef National Park,littlest,ADJ,0.0448765893792
+Capitol Reef National Park,driveway,ADV,0.0448765893792
+Capitol Reef National Park,beuautiful,ADJ,0.0448765893792
+Capitol Reef National Park,red,ADJ,0.0384656480393
+Capitol Reef National Park,nice,ADJ,0.0375331474808
+Capitol Reef National Park,favorite,ADJ,0.0317875841436
+Carlsbad Caverns National Park,big,ADJ,0.174198656852
+Carlsbad Caverns National Park,amazing,ADJ,0.127004143398
+Carlsbad Caverns National Park,underground,ADV,0.113493064313
+Carlsbad Caverns National Park,awesome,ADJ,0.0770131507836
+Carlsbad Caverns National Park,undergound,ADJ,0.0756620428752
+Carlsbad Caverns National Park,unbelieavable,ADJ,0.0756620428752
+Carlsbad Caverns National Park,homogous,ADJ,0.0756620428752
+Carlsbad Caverns National Park,drier,ADJ,0.0756620428752
+Carlsbad Caverns National Park,cavernous,ADJ,0.0756620428752
+Carlsbad Caverns National Park,carlsawesome,ADJ,0.0756620428752
+Carlsbad Caverns National Park,brutal,ADJ,0.0756620428752
+Carlsbad Caverns National Park,audacious,ADJ,0.0756620428752
+Carlsbad Caverns National Park,-definitly,ADV,0.0756620428752
+Carlsbad Caverns National Park,beautiful,ADJ,0.0560942731661
+Carlsbad Caverns National Park,great,ADJ,0.0504413619168
+Carlsbad Caverns National Park,huge,ADJ,0.0387537292775
+Carlsbad Caverns National Park,unexplainable,ADJ,0.0378310214376
+Carlsbad Caverns National Park,strenous,ADJ,0.0378310214376
+Carlsbad Caverns National Park,mexican,ADJ,0.0378310214376
+Carlsbad Caverns National Park,incrediable,ADJ,0.0378310214376
+Carlsbad Caverns National Park,natural,ADJ,0.0339707131276
+Carlsbad Caverns National Park,wonderous,ADJ,0.0324265898036
+Carlsbad Caverns National Park,best,ADJ,0.0310754818952
+Carlsbad Caverns National Park,incredible,ADJ,0.0281878198947
+Carlsbad Caverns National Park,worth,ADJ,0.0278754894803
+Channel Islands National Park,superquick,ADJ,0.239043824701
+Channel Islands National Park,prehistoric,ADJ,0.239043824701
+Channel Islands National Park,endemic,ADJ,0.239043824701
+Channel Islands National Park,bare,ADJ,0.239043824701
+Channel Islands National Park,beautiful,ADJ,0.160736364885
+Channel Islands National Park,great,ADJ,0.132802124834
+Channel Islands National Park,rigorous,ADJ,0.119521912351
+Channel Islands National Park,perfectly,ADV,0.119521912351
+Channel Islands National Park,iceberg,ADJ,0.119521912351
+Channel Islands National Park,delicious,ADJ,0.119521912351
+Channel Islands National Park,coastal,ADJ,0.119521912351
+Channel Islands National Park,separate,ADJ,0.0796812749004
+Channel Islands National Park,conveniently,ADV,0.0796812749004
+Channel Islands National Park,barely,ADV,0.0796812749004
+Channel Islands National Park,underwater,ADV,0.0597609561753
+Channel Islands National Park,common,ADJ,0.0597609561753
+Channel Islands National Park,actual,ADJ,0.0597609561753
+Channel Islands National Park,unmatched,ADJ,0.0478087649402
+Channel Islands National Park,oldest,ADJ,0.0478087649402
+Channel Islands National Park,amazing,ADJ,0.0469550369949
+Channel Islands National Park,best,ADJ,0.0426863972681
+Channel Islands National Park,nice,ADJ,0.0391162622238
+Channel Islands National Park,unique,ADJ,0.0341491178145
+Channel Islands National Park,priceless,ADJ,0.0298804780876
+Channel Islands National Park,awesome,ADJ,0.0298804780876
+Congaree National Park,great,ADJ,0.154449054864
+Congaree National Park,usc,ADJ,0.124481327801
+Congaree National Park,synchronous,ADJ,0.124481327801
+Congaree National Park,newish,ADJ,0.124481327801
+Congaree National Park,incrediblly,ADV,0.124481327801
+Congaree National Park,fanatic,ADJ,0.124481327801
+Congaree National Park,eclectic,ADJ,0.124481327801
+Congaree National Park,beautiful,ADJ,0.0987265703248
+Congaree National Park,southeastern,ADJ,0.0829875518672
+Congaree National Park,portal,ADJ,0.0622406639004
+Congaree National Park,gourgeous,ADJ,0.0622406639004
+Congaree National Park,direct,ADJ,0.0622406639004
+Congaree National Park,current,ADJ,0.0622406639004
+Congaree National Park,appropriately,ADV,0.0622406639004
+Congaree National Park,nice,ADJ,0.0588457185968
+Congaree National Park,interesting,ADJ,0.0541223164351
+Congaree National Park,free,ADJ,0.0475958018062
+Congaree National Park,old,ADJ,0.0449515905947
+Congaree National Park,peaceful,ADJ,0.0444576170717
+Congaree National Park,amazing,ADJ,0.0444576170717
+Congaree National Park,virgin,ADJ,0.0414937759336
+Congaree National Park,unpleasant,ADJ,0.0414937759336
+Congaree National Park,strangely,ADV,0.0414937759336
+Congaree National Park,newer,ADV,0.0414937759336
+Congaree National Park,eerily,ADV,0.0414937759336
+Crater Lake National Park,blue,ADJ,0.28372859497
+Crater Lake National Park,bluest,ADJ,0.235485180674
+Crater Lake National Park,beautiful,ADJ,0.188164139611
+Crater Lake National Park,wizard,ADJ,0.121802679659
+Crater Lake National Park,deepest,ADJ,0.0974421437272
+Crater Lake National Park,amazing,ADJ,0.0778667130677
+Crater Lake National Park,stunning,ADJ,0.0576220369156
+Crater Lake National Park,worth,ADJ,0.0388913819262
+Crater Lake National Park,great,ADJ,0.0360896828619
+Crater Lake National Park,deep,ADJ,0.0358243175468
+Crater Lake National Park,spectacular,ADJ,0.0351874407904
+Crater Lake National Park,awesome,ADJ,0.0326257177658
+Crater Lake National Park,gorgeous,ADJ,0.0321742927401
+Crater Lake National Park,absolutely,ADV,0.026702895156
+Crater Lake National Park,wver,ADV,0.0243605359318
+Crater Lake National Park,weekendca,ADJ,0.0243605359318
+Crater Lake National Park,visceral,ADJ,0.0243605359318
+Crater Lake National Park,unrestrained,ADJ,0.0243605359318
+Crater Lake National Park,unremarkable,ADJ,0.0243605359318
+Crater Lake National Park,undescribeable,ADJ,0.0243605359318
+Crater Lake National Park,tidy,ADJ,0.0243605359318
+Crater Lake National Park,sinatra,ADJ,0.0243605359318
+Crater Lake National Park,recreative,ADJ,0.0243605359318
+Crater Lake National Park,peerless,ADJ,0.0243605359318
+Crater Lake National Park,passive,ADJ,0.0243605359318
+Cuyahoga Valley National Park,suburban,ADJ,0.192926045016
+Cuyahoga Valley National Park,recreational,ADJ,0.192926045016
+Cuyahoga Valley National Park,northeast,ADV,0.192926045016
+Cuyahoga Valley National Park,urban,ADJ,0.176848874598
+Cuyahoga Valley National Park,great,ADJ,0.175062522329
+Cuyahoga Valley National Park,beautiful,ADJ,0.146357689323
+Cuyahoga Valley National Park,nice,ADJ,0.106986261327
+Cuyahoga Valley National Park,uggghhhhhh,ADJ,0.096463022508
+Cuyahoga Valley National Park,token,ADJ,0.096463022508
+Cuyahoga Valley National Park,sunnier,ADJ,0.096463022508
+Cuyahoga Valley National Park,regularly,ADV,0.096463022508
+Cuyahoga Valley National Park,readily,ADV,0.096463022508
+Cuyahoga Valley National Park,quaintly,ADV,0.096463022508
+Cuyahoga Valley National Park,navigate-,ADJ,0.096463022508
+Cuyahoga Valley National Park,hile,ADJ,0.096463022508
+Cuyahoga Valley National Park,fabuslous,ADJ,0.096463022508
+Cuyahoga Valley National Park,desperate,ADJ,0.096463022508
+Cuyahoga Valley National Park,aesthetically,ADV,0.096463022508
+Cuyahoga Valley National Park,polar,ADJ,0.048231511254
+Cuyahoga Valley National Park,pleasing,ADJ,0.048231511254
+Cuyahoga Valley National Park,lowest,ADJ,0.048231511254
+Cuyahoga Valley National Park,joint,ADJ,0.048231511254
+Cuyahoga Valley National Park,informational,ADJ,0.048231511254
+Cuyahoga Valley National Park,forward,ADV,0.048231511254
+Cuyahoga Valley National Park,outdoor,ADJ,0.0333910462528
+Death Valley National Park,lowest,ADJ,0.136239782016
+Death Valley National Park,great,ADJ,0.118074477748
+Death Valley National Park,breezy,ADV,0.108991825613
+Death Valley National Park,amazing,ADJ,0.101206695212
+Death Valley National Park,worth,ADJ,0.0956068645729
+Death Valley National Park,panoramic,ADJ,0.0708446866485
+Death Valley National Park,best,ADJ,0.0671467497081
+Death Valley National Park,beautiful,ADJ,0.0667105139528
+Death Valley National Park,spectacular,ADJ,0.0544959128065
+Death Valley National Park,vuew,ADJ,0.0544959128065
+Death Valley National Park,viewtiful,ADJ,0.0544959128065
+Death Valley National Park,stat,ADJ,0.0544959128065
+Death Valley National Park,specttular,ADJ,0.0544959128065
+Death Valley National Park,salty,ADJ,0.0544959128065
+Death Valley National Park,panpramic,ADJ,0.0544959128065
+Death Valley National Park,mainly,ADV,0.0544959128065
+Death Valley National Park,infernal,ADJ,0.0544959128065
+Death Valley National Park,happily,ADV,0.0544959128065
+Death Valley National Park,futher,ADV,0.0544959128065
+Death Valley National Park,biblical,ADJ,0.0544959128065
+Death Valley National Park,additional,ADJ,0.0544959128065
+Death Valley National Park,stunning,ADJ,0.0471599245441
+Death Valley National Park,awesome,ADJ,0.0408719346049
+Death Valley National Park,uphill,ADJ,0.0363306085377
+Death Valley National Park,fantastic,ADJ,0.0307158781273
+Denali National Park,beautiful,ADJ,0.129310344828
+Denali National Park,amazing,ADJ,0.103021978022
+Denali National Park,great,ADJ,0.0872507122507
+Denali National Park,visible,ADJ,0.0721153846154
+Denali National Park,lucky,ADJ,0.0717338217338
+Denali National Park,mckinely,ADV,0.0641025641026
+Denali National Park,danali,ADJ,0.0641025641026
+Denali National Park,cloudless,ADJ,0.0641025641026
+Denali National Park,glacier,ADJ,0.0576923076923
+Denali National Park,awesome,ADJ,0.0549450549451
+Denali National Park,spectacular,ADJ,0.0498575498575
+Denali National Park,majestic,ADJ,0.04851004851
+Denali National Park,clear,ADJ,0.0358974358974
+Denali National Park,whittier,ADJ,0.0320512820513
+Denali National Park,untouched,ADJ,0.0320512820513
+Denali National Park,unobstructed,ADJ,0.0320512820513
+Denali National Park,smoothest,ADJ,0.0320512820513
+Denali National Park,slim,ADJ,0.0320512820513
+Denali National Park,shuutle,ADJ,0.0320512820513
+Denali National Park,schoolbus,ADJ,0.0320512820513
+Denali National Park,scarce,ADJ,0.0320512820513
+Denali National Park,reluctant,ADJ,0.0320512820513
+Denali National Park,prestigious,ADJ,0.0320512820513
+Denali National Park,momountainous,ADJ,0.0320512820513
+Denali National Park,modest,ADJ,0.0320512820513
+Dry Tortugas National Park,key,ADJ,0.186338654802
+Dry Tortugas National Park,great,ADJ,0.155573002995
+Dry Tortugas National Park,amazing,ADJ,0.0958986054511
+Dry Tortugas National Park,worth,ADJ,0.0933897161118
+Dry Tortugas National Park,beautiful,ADJ,0.0836574646464
+Dry Tortugas National Park,historical,ADJ,0.0414999813063
+Dry Tortugas National Park,awesome,ADJ,0.0384155232363
+Dry Tortugas National Park,historic,ADJ,0.0348948791765
+Dry Tortugas National Park,best,ADJ,0.0344898493289
+Dry Tortugas National Park,interesting,ADJ,0.0324294801042
+Dry Tortugas National Park,historically,ADV,0.0314053912588
+Dry Tortugas National Park,exotic,ADJ,0.0314053912588
+Dry Tortugas National Park,civil,ADJ,0.0314053912588
+Dry Tortugas National Park,wonderful,ADJ,0.0290790659804
+Dry Tortugas National Park,long,ADV,0.0272180057577
+Dry Tortugas National Park,unique,ADJ,0.0246756645605
+Dry Tortugas National Park,nice,ADJ,0.0222692774381
+Dry Tortugas National Park,fantastic,ADJ,0.0205562560967
+Dry Tortugas National Park,remote,ADJ,0.0199303444527
+Dry Tortugas National Park,excellent,ADJ,0.0193974475422
+Dry Tortugas National Park,expensive,ADJ,0.0191921835471
+Dry Tortugas National Park,middle,ADJ,0.0171302134139
+Dry Tortugas National Park,woethwhike,ADJ,0.0157026956294
+Dry Tortugas National Park,wirth,ADJ,0.0157026956294
+Dry Tortugas National Park,windly,ADV,0.0157026956294
+Everglades National Park,truelly,ADV,0.178837555887
+Everglades National Park,great,ADJ,0.137439973506
+Everglades National Park,subtropical,ADJ,0.0894187779434
+Everglades National Park,royal,ADJ,0.0894187779434
+Everglades National Park,nahinga,ADJ,0.0894187779434
+Everglades National Park,irma,ADV,0.0894187779434
+Everglades National Park,everglades-,ADJ,0.0894187779434
+Everglades National Park,earnest,ADJ,0.0894187779434
+Everglades National Park,buzz,ADJ,0.0894187779434
+Everglades National Park,17th,ADJ,0.0894187779434
+Everglades National Park,beautiful,ADJ,0.0832519656714
+Everglades National Park,amazing,ADJ,0.0606770278901
+Everglades National Park,wonderful,ADJ,0.0529889054479
+Everglades National Park,sparse,ADJ,0.0447093889717
+Everglades National Park,mexican,ADJ,0.0447093889717
+Everglades National Park,contiguous,ADJ,0.0447093889717
+Everglades National Park,coastal,ADJ,0.0447093889717
+Everglades National Park,nice,ADJ,0.0438964909904
+Everglades National Park,awesome,ADJ,0.0431126250798
+Everglades National Park,unique,ADJ,0.0401472064236
+Everglades National Park,interesting,ADJ,0.0349899565865
+Everglades National Park,worth,ADJ,0.0345125107852
+Everglades National Park,patient,ADJ,0.0298062593145
+Everglades National Park,nationalpark,ADJ,0.0298062593145
+Everglades National Park,mystic,ADJ,0.0298062593145
+Gates Of The Arctic National Park,fast,ADV,6.0
+Glacier Bay National Park,uncruise,ADJ,0.30612244898
+Glacier Bay National Park,westerdam,ADJ,0.183673469388
+Glacier Bay National Park,beautiful,ADJ,0.124560168895
+Glacier Bay National Park,amazing,ADJ,0.103862973761
+Glacier Bay National Park,alaskan,ADJ,0.0979591836735
+Glacier Bay National Park,southeast,ADV,0.0918367346939
+Glacier Bay National Park,norwegian,ADJ,0.0918367346939
+Glacier Bay National Park,awesome,ADJ,0.0634110787172
+Glacier Bay National Park,unesco,ADJ,0.0612244897959
+Glacier Bay National Park,statendam,ADJ,0.0612244897959
+Glacier Bay National Park,spectacular,ADJ,0.0612244897959
+Glacier Bay National Park,simly,ADV,0.0612244897959
+Glacier Bay National Park,perilous,ADJ,0.0612244897959
+Glacier Bay National Park,necessarily,ADV,0.0612244897959
+Glacier Bay National Park,nautral,ADJ,0.0612244897959
+Glacier Bay National Park,micky,ADJ,0.0612244897959
+Glacier Bay National Park,loud,ADJ,0.0612244897959
+Glacier Bay National Park,lately,ADV,0.0612244897959
+Glacier Bay National Park,exotically,ADV,0.0612244897959
+Glacier Bay National Park,arctic,ADJ,0.0612244897959
+Glacier Bay National Park,amust,ADJ,0.0612244897959
+Glacier Bay National Park,albiet,ADV,0.0612244897959
+Glacier Bay National Park,stunning,ADJ,0.0600470957614
+Glacier Bay National Park,majestic,ADJ,0.0413678985108
+Glacier Bay National Park,global,ADJ,0.0367346938776
+Glacier National Park,beautiful,ADJ,0.149955646921
+Glacier National Park,amazing,ADJ,0.101936650528
+Glacier National Park,red,ADJ,0.0892492562562
+Glacier National Park,scary,ADJ,0.068905675786
+Glacier National Park,great,ADJ,0.0653327888934
+Glacier National Park,narrow,ADJ,0.0636994691711
+Glacier National Park,spectacular,ADJ,0.0576198902046
+Glacier National Park,awesome,ADJ,0.0503120807327
+Glacier National Park,best,ADJ,0.0428746427113
+Glacier National Park,stunning,ADJ,0.039576593272
+Glacier National Park,scenic,ADJ,0.0393017558187
+Glacier National Park,faint,ADJ,0.0376919935924
+Glacier National Park,scariest,ADJ,0.0367496937526
+Glacier National Park,canadian,ADJ,0.0367496937526
+Glacier National Park,open,ADJ,0.0326663944467
+Glacier National Park,gorgeous,ADJ,0.028660138524
+Glacier National Park,early,ADV,0.0258608956036
+Glacier National Park,unbevebable,ADJ,0.024499795835
+Glacier National Park,timid,ADJ,0.024499795835
+Glacier National Park,terrifyingly,ADV,0.024499795835
+Glacier National Park,startlingly,ADV,0.024499795835
+Glacier National Park,squeamish,ADJ,0.024499795835
+Glacier National Park,slowly,ADV,0.024499795835
+Glacier National Park,sharp,ADJ,0.024499795835
+Glacier National Park,quintessentially,ADV,0.024499795835
+Grand Canyon National Park,amazing,ADJ,0.154243846739
+Grand Canyon National Park,south,ADV,0.115326059376
+Grand Canyon National Park,beautiful,ADJ,0.0794695902493
+Grand Canyon National Park,awesome,ADJ,0.071269982238
+Grand Canyon National Park,great,ADJ,0.062364318137
+Grand Canyon National Park,bright,ADJ,0.0546181172291
+Grand Canyon National Park,spectacular,ADJ,0.0479573712256
+Grand Canyon National Park,adequately,ADV,0.0373001776199
+Grand Canyon National Park,stunning,ADJ,0.0343284601722
+Grand Canyon National Park,mule,ADJ,0.0333037300178
+Grand Canyon National Park,natural,ADJ,0.0288179214848
+Grand Canyon National Park,best,ADJ,0.0282605937579
+Grand Canyon National Park,seventh,ADJ,0.0266429840142
+Grand Canyon National Park,worth,ADJ,0.0247733009255
+Grand Canyon National Park,wonderful,ADJ,0.0207223208999
+Grand Canyon National Park,truly,ADV,0.0200751786526
+Grand Canyon National Park,absolutely,ADV,0.0197772919798
+Grand Canyon National Park,majestic,ADJ,0.0197302097835
+Grand Canyon National Park,simply,ADV,0.0197034160849
+Grand Canyon National Park,magnificent,ADJ,0.019579495229
+Grand Canyon National Park,fantastic,ADJ,0.0169546261909
+Grand Canyon National Park,incredible,ADJ,0.0168216487305
+Grand Canyon National Park,schallau,ADV,0.0159857904085
+Grand Canyon National Park,unbelievable,ADJ,0.0153937240971
+Grand Canyon National Park,big,ADJ,0.0132595315792
+Grand Teton National Park,beautiful,ADJ,0.218769467551
+Grand Teton National Park,amazing,ADJ,0.0797024442083
+Grand Teton National Park,great,ADJ,0.0684850631716
+Grand Teton National Park,majestic,ADJ,0.0611770112301
+Grand Teton National Park,spectacular,ADJ,0.0572676821348
+Grand Teton National Park,stunning,ADJ,0.0459821793509
+Grand Teton National Park,awesome,ADJ,0.0455442538333
+Grand Teton National Park,best,ADJ,0.0335888872021
+Grand Teton National Park,utmost,ADJ,0.0318809776833
+Grand Teton National Park,untold,ADJ,0.0318809776833
+Grand Teton National Park,undervisited,ADJ,0.0318809776833
+Grand Teton National Park,unbielivably,ADV,0.0318809776833
+Grand Teton National Park,tramway,ADV,0.0318809776833
+Grand Teton National Park,siiiick,ADJ,0.0318809776833
+Grand Teton National Park,sawtooth,ADJ,0.0318809776833
+Grand Teton National Park,photographable,ADJ,0.0318809776833
+Grand Teton National Park,nordic,ADJ,0.0318809776833
+Grand Teton National Park,natiomnal,ADJ,0.0318809776833
+Grand Teton National Park,managable,ADJ,0.0318809776833
+Grand Teton National Park,impeccable,ADJ,0.0318809776833
+Grand Teton National Park,hedrick,ADJ,0.0318809776833
+Grand Teton National Park,french,ADJ,0.0318809776833
+Grand Teton National Park,exum,ADJ,0.0318809776833
+Grand Teton National Park,beautilful,ADJ,0.0318809776833
+Grand Teton National Park,arial,ADJ,0.0318809776833
+Great Basin National Park,bristlecone,ADV,1.06060606061
+Great Basin National Park,nevada,ADJ,0.606060606061
+Great Basin National Park,pleasently,ADV,0.151515151515
+Great Basin National Park,oft,ADV,0.151515151515
+Great Basin National Park,lonliest,ADJ,0.151515151515
+Great Basin National Park,loneliest,ADJ,0.151515151515
+Great Basin National Park,knowedgeable,ADJ,0.151515151515
+Great Basin National Park,hilarious,ADJ,0.151515151515
+Great Basin National Park,comparatively,ADV,0.151515151515
+Great Basin National Park,beautiful,ADJ,0.133228840125
+Great Basin National Park,worth,ADJ,0.0956937799043
+Great Basin National Park,oldest,ADJ,0.0909090909091
+Great Basin National Park,seasonal,ADJ,0.0757575757576
+Great Basin National Park,ruggedly,ADV,0.0757575757576
+Great Basin National Park,natinal,ADJ,0.0757575757576
+Great Basin National Park,largely,ADV,0.0757575757576
+Great Basin National Park,enthusiastic,ADJ,0.0757575757576
+Great Basin National Park,remote,ADJ,0.0641025641026
+Great Basin National Park,glacier,ADJ,0.0606060606061
+Great Basin National Park,unknown,ADJ,0.0505050505051
+Great Basin National Park,uncrowned,ADJ,0.0505050505051
+Great Basin National Park,ugly,ADJ,0.0505050505051
+Great Basin National Park,hectic,ADJ,0.0505050505051
+Great Basin National Park,middle,ADJ,0.0482093663912
+Great Basin National Park,nice,ADJ,0.0440771349862
+Great Sand Dunes National Park,sandy,ADJ,0.302013422819
+Great Sand Dunes National Park,sahara,ADJ,0.302013422819
+Great Sand Dunes National Park,amazing,ADJ,0.170781399808
+Great Sand Dunes National Park,tallest,ADJ,0.120805369128
+Great Sand Dunes National Park,wholly,ADV,0.10067114094
+Great Sand Dunes National Park,weatern,ADJ,0.10067114094
+Great Sand Dunes National Park,superbly,ADV,0.10067114094
+Great Sand Dunes National Park,steady,ADJ,0.10067114094
+Great Sand Dunes National Park,seasonally,ADV,0.10067114094
+Great Sand Dunes National Park,intoxicatingly,ADV,0.10067114094
+Great Sand Dunes National Park,intercontinental,ADJ,0.10067114094
+Great Sand Dunes National Park,incongruous,ADJ,0.10067114094
+Great Sand Dunes National Park,hermetically,ADV,0.10067114094
+Great Sand Dunes National Park,gorgeously,ADV,0.10067114094
+Great Sand Dunes National Park,foad,ADV,0.10067114094
+Great Sand Dunes National Park,environmental,ADJ,0.10067114094
+Great Sand Dunes National Park,differeent,ADJ,0.10067114094
+Great Sand Dunes National Park,delightfully,ADV,0.10067114094
+Great Sand Dunes National Park,albuguerque,ADJ,0.10067114094
+Great Sand Dunes National Park,beautiful,ADJ,0.0676926637352
+Great Sand Dunes National Park,pile,ADJ,0.0671140939597
+Great Sand Dunes National Park,unique,ADJ,0.0595808793316
+Great Sand Dunes National Park,watery,ADJ,0.0503355704698
+Great Sand Dunes National Park,unhelpful,ADJ,0.0503355704698
+Great Sand Dunes National Park,southeast,ADV,0.0503355704698
+Great Smoky Mountains National Park,beautiful,ADJ,0.362010387785
+Great Smoky Mountains National Park,appalachian,ADJ,0.135900339751
+Great Smoky Mountains National Park,amazing,ADJ,0.0691635657661
+Great Smoky Mountains National Park,wonerful,ADJ,0.0679501698754
+Great Smoky Mountains National Park,sevierville,ADJ,0.0679501698754
+Great Smoky Mountains National Park,drunk,ADJ,0.0679501698754
+Great Smoky Mountains National Park,dearly,ADV,0.0679501698754
+Great Smoky Mountains National Park,breathaway,ADV,0.0679501698754
+Great Smoky Mountains National Park,bountiful,ADJ,0.0679501698754
+Great Smoky Mountains National Park,amok,ADV,0.0679501698754
+Great Smoky Mountains National Park,best,ADJ,0.0436822520628
+Great Smoky Mountains National Park,gorgeous,ADJ,0.0423085963375
+Great Smoky Mountains National Park,awesome,ADJ,0.0412554602815
+Great Smoky Mountains National Park,wonderful,ADJ,0.0352334214169
+Great Smoky Mountains National Park,pregnant,ADJ,0.0339750849377
+Great Smoky Mountains National Park,peacful,ADJ,0.0339750849377
+Great Smoky Mountains National Park,mtns,ADJ,0.0339750849377
+Great Smoky Mountains National Park,comprehensive,ADJ,0.0339750849377
+Great Smoky Mountains National Park,favorite,ADJ,0.0297281993205
+Great Smoky Mountains National Park,free,ADJ,0.0279794817134
+Great Smoky Mountains National Park,hangout,ADJ,0.0226500566251
+Great Smoky Mountains National Park,fave,ADJ,0.0226500566251
+Great Smoky Mountains National Park,daily,ADV,0.0226500566251
+Great Smoky Mountains National Park,beauitful,ADJ,0.0226500566251
+Great Smoky Mountains National Park,nice,ADJ,0.0222382374138
+Guadalupe Mountains National Park,tougher,ADJ,0.545454545455
+Guadalupe Mountains National Park,ultrarunning,ADJ,0.272727272727
+Guadalupe Mountains National Park,texan,ADJ,0.272727272727
+Guadalupe Mountains National Park,hostile,ADJ,0.272727272727
+Guadalupe Mountains National Park,accomplishment,ADJ,0.272727272727
+Guadalupe Mountains National Park,highest,ADJ,0.198347107438
+Guadalupe Mountains National Park,great,ADJ,0.166666666667
+Guadalupe Mountains National Park,rewarding,ADJ,0.119318181818
+Guadalupe Mountains National Park,worth,ADJ,0.11004784689
+Guadalupe Mountains National Park,hardest,ADV,0.0909090909091
+Guadalupe Mountains National Park,beauiful,ADJ,0.0909090909091
+Guadalupe Mountains National Park,steep,ADJ,0.0743801652893
+Guadalupe Mountains National Park,senic,ADJ,0.0681818181818
+Guadalupe Mountains National Park,moderately,ADV,0.0681818181818
+Guadalupe Mountains National Park,harder,ADV,0.0681818181818
+Guadalupe Mountains National Park,difficult,ADJ,0.0681818181818
+Guadalupe Mountains National Park,beautiful,ADJ,0.0564263322884
+Guadalupe Mountains National Park,tough,ADJ,0.0545454545455
+Guadalupe Mountains National Park,tallest,ADJ,0.0545454545455
+Guadalupe Mountains National Park,amazing,ADJ,0.0535714285714
+Guadalupe Mountains National Park,strenuous,ADJ,0.0454545454545
+Guadalupe Mountains National Park,intense,ADJ,0.0454545454545
+Guadalupe Mountains National Park,nice,ADJ,0.0446280991736
+Guadalupe Mountains National Park,straight,ADV,0.038961038961
+Guadalupe Mountains National Park,awesome,ADJ,0.038961038961
+Haleakala National Park,amazing,ADJ,0.134431365907
+Haleakala National Park,worth,ADJ,0.10877816949
+Haleakala National Park,beautiful,ADJ,0.101997015719
+Haleakala National Park,cold,ADJ,0.0804102987036
+Haleakala National Park,great,ADJ,0.0673999429186
+Haleakala National Park,early,ADV,0.0619113482184
+Haleakala National Park,awesome,ADJ,0.0433991023795
+Haleakala National Park,spectacular,ADJ,0.0414937759336
+Haleakala National Park,leleiwi,ADJ,0.0355660936574
+Haleakala National Park,warm,ADJ,0.0347192819036
+Haleakala National Park,stunning,ADJ,0.0323742647394
+Haleakala National Park,warmly,ADV,0.026674570243
+Haleakala National Park,thin,ADJ,0.0237107291049
+Haleakala National Park,strong,ADJ,0.0237107291049
+Haleakala National Park,lunar,ADJ,0.0237107291049
+Haleakala National Park,dependant,ADJ,0.0237107291049
+Haleakala National Park,cruiser,ADJ,0.0237107291049
+Haleakala National Park,brrrrr,ADJ,0.0237107291049
+Haleakala National Park,cloudy,ADJ,0.0229697688204
+Haleakala National Park,best,ADJ,0.0215936997206
+Haleakala National Park,long,ADV,0.0189685832839
+Haleakala National Park,incredible,ADJ,0.0181317340214
+Haleakala National Park,stressful,ADJ,0.0177830468287
+Haleakala National Park,clear,ADJ,0.0170717249555
+Haleakala National Park,surreal,ADJ,0.0156490812092
+Hawaii Volcanoes National Park,active,ADJ,0.135036291003
+Hawaii Volcanoes National Park,molten,ADJ,0.129972430091
+Hawaii Volcanoes National Park,amazing,ADJ,0.126174534406
+Hawaii Volcanoes National Park,great,ADJ,0.0967134917509
+Hawaii Volcanoes National Park,big,ADJ,0.0923271384999
+Hawaii Volcanoes National Park,volcanic,ADJ,0.0675181455016
+Hawaii Volcanoes National Park,awesome,ADJ,0.0592893715186
+Hawaii Volcanoes National Park,hvnp,ADV,0.0590783773139
+Hawaii Volcanoes National Park,worth,ADJ,0.0559689890342
+Hawaii Volcanoes National Park,interesting,ADJ,0.038272513999
+Hawaii Volcanoes National Park,explosive,ADJ,0.0354470263883
+Hawaii Volcanoes National Park,destructive,ADJ,0.0354470263883
+Hawaii Volcanoes National Park,aloha,ADJ,0.0354470263883
+Hawaii Volcanoes National Park,unique,ADJ,0.0284540756042
+Hawaii Volcanoes National Park,educational,ADJ,0.0282263358278
+Hawaii Volcanoes National Park,cool,ADJ,0.0256425297277
+Hawaii Volcanoes National Park,beautiful,ADJ,0.023835069468
+Hawaii Volcanoes National Park,variable,ADJ,0.0236313509256
+Hawaii Volcanoes National Park,primal,ADJ,0.0236313509256
+Hawaii Volcanoes National Park,nonetheless,ADV,0.0236313509256
+Hawaii Volcanoes National Park,hottest,ADJ,0.0236313509256
+Hawaii Volcanoes National Park,wonderful,ADJ,0.021224454072
+Hawaii Volcanoes National Park,fascinating,ADJ,0.0205036721266
+Hawaii Volcanoes National Park,best,ADJ,0.0204664378552
+Hawaii Volcanoes National Park,spectacular,ADJ,0.0194739836331
+Hot Springs National Park,smallest,ADJ,0.21216407355
+Hot Springs National Park,great,ADJ,0.11786892975
+Hot Springs National Park,beautiful,ADJ,0.108276837536
+Hot Springs National Park,interesting,ADJ,0.0977799643318
+Hot Springs National Park,uncapped,ADJ,0.0848656294201
+Hot Springs National Park,seedy,ADJ,0.0848656294201
+Hot Springs National Park,oddest,ADJ,0.0848656294201
+Hot Springs National Park,meth,ADJ,0.0848656294201
+Hot Springs National Park,lovingly,ADV,0.0848656294201
+Hot Springs National Park,lively,ADJ,0.0848656294201
+Hot Springs National Park,beautimous,ADJ,0.0848656294201
+Hot Springs National Park,avaiable,ADJ,0.0848656294201
+Hot Springs National Park,atypical,ADJ,0.0848656294201
+Hot Springs National Park,urban,ADJ,0.0707213578501
+Hot Springs National Park,historic,ADJ,0.0707213578501
+Hot Springs National Park,oldest,ADJ,0.0678925035361
+Hot Springs National Park,nice,ADJ,0.0648064806481
+Hot Springs National Park,odd,ADJ,0.0636492220651
+Hot Springs National Park,normal,ADJ,0.0565770862801
+Hot Springs National Park,typical,ADJ,0.0545564760558
+Hot Springs National Park,historical,ADJ,0.0545564760558
+Hot Springs National Park,different,ADJ,0.0484946453829
+Hot Springs National Park,negative,ADJ,0.04243281471
+Hot Springs National Park,hospitable,ADJ,0.04243281471
+Hot Springs National Park,worth,ADJ,0.0416883793643
+Indiana Dunes National Park,lakeshore,ADV,0.785597381342
+Indiana Dunes National Park,great,ADJ,0.200036370249
+Indiana Dunes National Park,beautiful,ADJ,0.147299509002
+Indiana Dunes National Park,sandy,ADJ,0.147299509002
+Indiana Dunes National Park,nice,ADJ,0.107126915638
+Indiana Dunes National Park,unkempt,ADJ,0.0981996726678
+Indiana Dunes National Park,unfulfilling,ADJ,0.0981996726678
+Indiana Dunes National Park,northcoast,ADV,0.0981996726678
+Indiana Dunes National Park,non-500,ADJ,0.0981996726678
+Indiana Dunes National Park,newest,ADJ,0.0981996726678
+Indiana Dunes National Park,indianapolis-,ADJ,0.0981996726678
+Indiana Dunes National Park,dunetaztic,ADJ,0.0981996726678
+Indiana Dunes National Park,midwest,ADJ,0.0589198036007
+Indiana Dunes National Park,soft,ADJ,0.0490998363339
+Indiana Dunes National Park,positively,ADV,0.0490998363339
+Indiana Dunes National Park,ouch,ADJ,0.0490998363339
+Indiana Dunes National Park,odd,ADJ,0.0490998363339
+Indiana Dunes National Park,mildly,ADV,0.0490998363339
+Indiana Dunes National Park,insufficient,ADJ,0.0490998363339
+Indiana Dunes National Park,cheap,ADJ,0.0490998363339
+Indiana Dunes National Park,clean,ADJ,0.0374093991115
+Indiana Dunes National Park,triple,ADJ,0.0327332242226
+Indiana Dunes National Park,reasonable,ADJ,0.0327332242226
+Indiana Dunes National Park,pile,ADJ,0.0327332242226
+Indiana Dunes National Park,noisy,ADJ,0.0327332242226
+Isle Royale National Park,50th,ADJ,0.31746031746
+Isle Royale National Park,stellar,ADJ,0.272108843537
+Isle Royale National Park,harder,ADV,0.238095238095
+Isle Royale National Park,remote,ADJ,0.18315018315
+Isle Royale National Park,great,ADJ,0.176366843034
+Isle Royale National Park,important,ADJ,0.10582010582
+Isle Royale National Park,eastern,ADJ,0.10582010582
+Isle Royale National Park,nice,ADJ,0.0692640692641
+Isle Royale National Park,beautiful,ADJ,0.0656814449918
+Isle Royale National Park,best,ADJ,0.0510204081633
+Isle Royale National Park,helpful,ADJ,0.0453514739229
+Isle Royale National Park,beatiful,ADJ,0.0453514739229
+Isle Royale National Park,unforgettable,ADJ,0.03663003663
+Isle Royale National Park,stunning,ADJ,0.03663003663
+Isle Royale National Park,memorable,ADJ,0.03663003663
+Isle Royale National Park,gorgeous,ADJ,0.0359389038634
+Isle Royale National Park,good,ADJ,0.034632034632
+Isle Royale National Park,fantastic,ADJ,0.034632034632
+Isle Royale National Park,entire,ADJ,0.0340136054422
+Isle Royale National Park,serene,ADJ,0.031746031746
+Isle Royale National Park,disappointing,ADJ,0.0297619047619
+Isle Royale National Park,hot,ADJ,0.02886002886
+Isle Royale National Park,unbelievable,ADJ,0.026455026455
+Isle Royale National Park,hard,ADJ,0.0238095238095
+Isle Royale National Park,short,ADJ,0.0226757369615
+Joshua Tree National Park,weirdly,ADV,0.201342281879
+Joshua Tree National Park,ominous,ADJ,0.201342281879
+Joshua Tree National Park,jolly,ADV,0.201342281879
+Joshua Tree National Park,beautiful,ADJ,0.131913908817
+Joshua Tree National Park,usually,ADV,0.10067114094
+Joshua Tree National Park,unexplainable,ADJ,0.10067114094
+Joshua Tree National Park,natiional,ADJ,0.10067114094
+Joshua Tree National Park,earthly,ADV,0.10067114094
+Joshua Tree National Park,amazing,ADJ,0.0898849472675
+Joshua Tree National Park,great,ADJ,0.0820283370619
+Joshua Tree National Park,strangely,ADV,0.0671140939597
+Joshua Tree National Park,shy,ADJ,0.0671140939597
+Joshua Tree National Park,stunning,ADJ,0.0580795043882
+Joshua Tree National Park,warmly,ADV,0.0503355704698
+Joshua Tree National Park,unique,ADJ,0.0451992877688
+Joshua Tree National Park,5th,ADJ,0.0402684563758
+Joshua Tree National Park,visually,ADV,0.0366076876144
+Joshua Tree National Park,wonderful,ADJ,0.0335570469799
+Joshua Tree National Park,weird,ADJ,0.0335570469799
+Joshua Tree National Park,unusual,ADJ,0.0335570469799
+Joshua Tree National Park,single,ADJ,0.0335570469799
+Joshua Tree National Park,private,ADJ,0.0335570469799
+Joshua Tree National Park,clearly,ADV,0.0335570469799
+Joshua Tree National Park,wonderous,ADJ,0.0287631831256
+Joshua Tree National Park,interesting,ADJ,0.0262620367669
+Katmai National Park,unfair,ADJ,0.333333333333
+Katmai National Park,shameful,ADJ,0.333333333333
+Katmai National Park,safely,ADV,0.333333333333
+Katmai National Park,elemental,ADJ,0.333333333333
+Katmai National Park,dubious,ADJ,0.333333333333
+Katmai National Park,brown,ADJ,0.333333333333
+Katmai National Park,amazing,ADJ,0.178571428571
+Katmai National Park,fake,ADJ,0.166666666667
+Katmai National Park,geographic,ADJ,0.166666666667
+Katmai National Park,best,ADJ,0.125
+Katmai National Park,patient,ADJ,0.111111111111
+Katmai National Park,directly,ADV,0.111111111111
+Katmai National Park,great,ADJ,0.0987654320988
+Katmai National Park,aplenty,ADJ,0.0833333333333
+Katmai National Park,grizzly,ADJ,0.0666666666667
+Katmai National Park,specific,ADJ,0.0555555555556
+Katmai National Park,absolutly,ADV,0.047619047619
+Katmai National Park,cheap,ADJ,0.0416666666667
+Katmai National Park,unforgettable,ADJ,0.0384615384615
+Katmai National Park,favourite,ADJ,0.0350877192982
+Katmai National Park,close,ADJ,0.0333333333333
+Katmai National Park,incredible,ADJ,0.0326797385621
+Katmai National Park,wonderful,ADJ,0.0308641975309
+Katmai National Park,steep,ADJ,0.030303030303
+Katmai National Park,safe,ADJ,0.030303030303
+Kenai Fjords National Park,glacier,ADJ,1.28925619835
+Kenai Fjords National Park,marine,ADJ,0.285499624343
+Kenai Fjords National Park,northwestern,ADJ,0.270473328325
+Kenai Fjords National Park,tidal,ADJ,0.180315552216
+Kenai Fjords National Park,beautiful,ADJ,0.154667219358
+Kenai Fjords National Park,alaskan,ADJ,0.117205108941
+Kenai Fjords National Park,great,ADJ,0.108523249019
+Kenai Fjords National Park,aquatic,ADJ,0.0901577761082
+Kenai Fjords National Park,amazing,ADJ,0.0748631533756
+Kenai Fjords National Park,upto,ADJ,0.0450788880541
+Kenai Fjords National Park,unsure,ADJ,0.0450788880541
+Kenai Fjords National Park,spectectualr,ADJ,0.0450788880541
+Kenai Fjords National Park,somber,ADJ,0.0450788880541
+Kenai Fjords National Park,soecial,ADJ,0.0450788880541
+Kenai Fjords National Park,nationla,ADJ,0.0450788880541
+Kenai Fjords National Park,kenal,ADJ,0.0450788880541
+Kenai Fjords National Park,indiscribable,ADJ,0.0450788880541
+Kenai Fjords National Park,incredibally,ADV,0.0450788880541
+Kenai Fjords National Park,glacier--,ADJ,0.0450788880541
+Kenai Fjords National Park,easly,ADV,0.0450788880541
+Kenai Fjords National Park,deeply,ADV,0.0450788880541
+Kenai Fjords National Park,ashore,ADV,0.0450788880541
+Kenai Fjords National Park,aglacier,ADJ,0.0450788880541
+Kenai Fjords National Park,16th,ADJ,0.0450788880541
+Kenai Fjords National Park,major,ADJ,0.0416112812807
+Kings Canyon National Park,deeper,ADJ,0.18320610687
+Kings Canyon National Park,beautiful,ADJ,0.137404580153
+Kings Canyon National Park,great,ADJ,0.0949957591179
+Kings Canyon National Park,yosemiteish,ADJ,0.0916030534351
+Kings Canyon National Park,uninteresting,ADJ,0.0916030534351
+Kings Canyon National Park,regenerative,ADJ,0.0916030534351
+Kings Canyon National Park,handsome,ADJ,0.0916030534351
+Kings Canyon National Park,energetic,ADJ,0.0916030534351
+Kings Canyon National Park,careless,ADJ,0.0916030534351
+Kings Canyon National Park,beautil,ADJ,0.0916030534351
+Kings Canyon National Park,azalea,ADV,0.0916030534351
+Kings Canyon National Park,accesible,ADJ,0.0916030534351
+Kings Canyon National Park,3hr,ADJ,0.0916030534351
+Kings Canyon National Park,amazing,ADJ,0.0703380588877
+Kings Canyon National Park,giant,ADJ,0.0646609788954
+Kings Canyon National Park,worth,ADJ,0.0546404178385
+Kings Canyon National Park,wondeful,ADJ,0.0458015267176
+Kings Canyon National Park,wicked,ADJ,0.0458015267176
+Kings Canyon National Park,twin,ADJ,0.0458015267176
+Kings Canyon National Park,tedious,ADJ,0.0458015267176
+Kings Canyon National Park,scenic,ADJ,0.0458015267176
+Kings Canyon National Park,rive,ADJ,0.0458015267176
+Kings Canyon National Park,quietly,ADV,0.0458015267176
+Kings Canyon National Park,iceberg,ADJ,0.0458015267176
+Kings Canyon National Park,general,ADJ,0.0458015267176
+Kobuk Valley National Park,quiet,ADJ,0.384615384615
+Kobuk Valley National Park,awesome,ADJ,0.267857142857
+Kobuk Valley National Park,worth,ADJ,0.263157894737
+Kobuk Valley National Park,beautiful,ADJ,0.258620689655
+Lake Clark National Park,remote,ADJ,0.865384615385
+Lake Clark National Park,beautiful,ADJ,0.258620689655
+Lake Clark National Park,incredible,ADJ,0.147058823529
+Lake Clark National Park,wonderful,ADJ,0.138888888889
+Lake Clark National Park,awesome,ADJ,0.133928571429
+Lassen Volcanic National Park,stately,ADJ,0.147058823529
+Lassen Volcanic National Park,spectaclar,ADJ,0.147058823529
+Lassen Volcanic National Park,lessan,ADJ,0.147058823529
+Lassen Volcanic National Park,comparible,ADJ,0.147058823529
+Lassen Volcanic National Park,beautiful,ADJ,0.129310344828
+Lassen Volcanic National Park,great,ADJ,0.125272331155
+Lassen Volcanic National Park,strenous,ADJ,0.0735294117647
+Lassen Volcanic National Park,silly,ADJ,0.0735294117647
+Lassen Volcanic National Park,polar,ADJ,0.0735294117647
+Lassen Volcanic National Park,dormant,ADJ,0.0735294117647
+Lassen Volcanic National Park,cant,ADV,0.0735294117647
+Lassen Volcanic National Park,amazing,ADJ,0.0525210084034
+Lassen Volcanic National Park,active,ADJ,0.0525210084034
+Lassen Volcanic National Park,worldwide,ADV,0.0490196078431
+Lassen Volcanic National Park,uphill,ADJ,0.0490196078431
+Lassen Volcanic National Park,prior,ADV,0.0490196078431
+Lassen Volcanic National Park,northern,ADJ,0.0490196078431
+Lassen Volcanic National Park,miniature,ADJ,0.0490196078431
+Lassen Volcanic National Park,fiery,ADV,0.0490196078431
+Lassen Volcanic National Park,wonderful,ADJ,0.0381263616558
+Lassen Volcanic National Park,precious,ADJ,0.0367647058824
+Lassen Volcanic National Park,nevada,ADJ,0.0367647058824
+Lassen Volcanic National Park,anymore,ADV,0.0367647058824
+Lassen Volcanic National Park,worth,ADJ,0.0361197110423
+Lassen Volcanic National Park,nice,ADJ,0.0347593582888
+Mammoth Cave National Park,niagra,ADJ,0.23218316672
+Mammoth Cave National Park,styx,ADJ,0.212834569494
+Mammoth Cave National Park,longest,ADJ,0.187036439858
+Mammoth Cave National Park,underground,ADV,0.17413737504
+Mammoth Cave National Park,historic,ADJ,0.169837686768
+Mammoth Cave National Park,great,ADJ,0.168404457344
+Mammoth Cave National Park,amazing,ADJ,0.0656470263049
+Mammoth Cave National Park,online,ADV,0.064495324089
+Mammoth Cave National Park,louisville,ADJ,0.0580457916801
+Mammoth Cave National Park,gothic,ADJ,0.0580457916801
+Mammoth Cave National Park,awesome,ADJ,0.0476804717372
+Mammoth Cave National Park,historical,ADJ,0.0428433224306
+Mammoth Cave National Park,spontaneous,ADJ,0.0386971944534
+Mammoth Cave National Park,knowledgable,ADJ,0.0386971944534
+Mammoth Cave National Park,fat,ADJ,0.0386971944534
+Mammoth Cave National Park,disrespectful,ADJ,0.0386971944534
+Mammoth Cave National Park,ahead,ADV,0.0386971944534
+Mammoth Cave National Park,interesting,ADJ,0.0378559510957
+Mammoth Cave National Park,worth,ADJ,0.0349632546377
+Mammoth Cave National Park,beautiful,ADJ,0.0313580713674
+Mammoth Cave National Park,cool,ADJ,0.0312870933879
+Mammoth Cave National Park,wonderful,ADJ,0.0297395105522
+Mammoth Cave National Park,unesco,ADJ,0.0290228958401
+Mammoth Cave National Park,grand,ADJ,0.0287108216912
+Mammoth Cave National Park,good,ADJ,0.0281434141479
+Mesa Verde National Park,physically,ADV,0.172579098754
+Mesa Verde National Park,anasazi,ADJ,0.172579098754
+Mesa Verde National Park,amazing,ADJ,0.158197507191
+Mesa Verde National Park,politically,ADV,0.115052732502
+Mesa Verde National Park,archeological,ADJ,0.115052732502
+Mesa Verde National Park,archaeological,ADJ,0.115052732502
+Mesa Verde National Park,great,ADJ,0.0884201555342
+Mesa Verde National Park,worth,ADJ,0.0686279457032
+Mesa Verde National Park,ancient,ADJ,0.0671140939597
+Mesa Verde National Park,wonderul,ADJ,0.0575263662512
+Mesa Verde National Park,verda,ADJ,0.0575263662512
+Mesa Verde National Park,successful,ADJ,0.0575263662512
+Mesa Verde National Park,scholarly,ADJ,0.0575263662512
+Mesa Verde National Park,medieval,ADJ,0.0575263662512
+Mesa Verde National Park,ignorant,ADJ,0.0575263662512
+Mesa Verde National Park,forego,ADJ,0.0575263662512
+Mesa Verde National Park,fabolous,ADJ,0.0575263662512
+Mesa Verde National Park,enlightening,ADJ,0.0575263662512
+Mesa Verde National Park,correct,ADJ,0.0575263662512
+Mesa Verde National Park,architectural,ADJ,0.0575263662512
+Mesa Verde National Park,archaeologically,ADV,0.0575263662512
+Mesa Verde National Park,anastazi,ADJ,0.0575263662512
+Mesa Verde National Park,adverturous,ADJ,0.0575263662512
+Mesa Verde National Park,awesome,ADJ,0.041090261608
+Mesa Verde National Park,ancestral,ADJ,0.0383509108341
+Mount Rainier National Park,beautiful,ADJ,0.19862717544
+Mount Rainier National Park,amazing,ADJ,0.0881661442006
+Mount Rainier National Park,northwest,ADV,0.073145245559
+Mount Rainier National Park,great,ADJ,0.073145245559
+Mount Rainier National Park,stunning,ADJ,0.0551603568845
+Mount Rainier National Park,majestic,ADJ,0.0508345335932
+Mount Rainier National Park,spectacular,ADJ,0.0478927203065
+Mount Rainier National Park,unspeakably,ADV,0.0470219435737
+Mount Rainier National Park,treacherous,ADJ,0.0470219435737
+Mount Rainier National Park,subsequent,ADJ,0.0470219435737
+Mount Rainier National Park,rant,ADJ,0.0470219435737
+Mount Rainier National Park,prominent,ADJ,0.0470219435737
+Mount Rainier National Park,perennial,ADJ,0.0470219435737
+Mount Rainier National Park,oresome,ADJ,0.0470219435737
+Mount Rainier National Park,ordinarily,ADV,0.0470219435737
+Mount Rainier National Park,nisqually,ADV,0.0470219435737
+Mount Rainier National Park,mowich,ADJ,0.0470219435737
+Mount Rainier National Park,minivan,ADJ,0.0470219435737
+Mount Rainier National Park,loveliest,ADJ,0.0470219435737
+Mount Rainier National Park,invisible,ADJ,0.0470219435737
+Mount Rainier National Park,fest,ADJ,0.0470219435737
+Mount Rainier National Park,everest,ADJ,0.0470219435737
+Mount Rainier National Park,eventually,ADV,0.0470219435737
+Mount Rainier National Park,besutiful,ADJ,0.0470219435737
+Mount Rainier National Park,beautifous,ADJ,0.0470219435737
+North Cascades National Park,bluest,ADJ,0.645161290323
+North Cascades National Park,beautiful,ADJ,0.266963292547
+North Cascades National Park,hwy,ADJ,0.14888337469
+North Cascades National Park,deep,ADJ,0.11385199241
+North Cascades National Park,blue,ADJ,0.11385199241
+North Cascades National Park,amazing,ADJ,0.103686635945
+North Cascades National Park,favourite,ADJ,0.101867572156
+North Cascades National Park,underrated,ADJ,0.0967741935484
+North Cascades National Park,informative,ADJ,0.0774193548387
+North Cascades National Park,glorious,ADJ,0.0716845878136
+North Cascades National Park,american,ADJ,0.0645161290323
+North Cascades National Park,majestic,ADJ,0.052310374891
+North Cascades National Park,simply,ADV,0.0450112528132
+North Cascades National Park,scenic,ADJ,0.0403225806452
+North Cascades National Park,absolutely,ADV,0.0372208436725
+North Cascades National Park,gorgeous,ADJ,0.0365185636032
+North Cascades National Park,spectacular,ADJ,0.0358422939068
+North Cascades National Park,great,ADJ,0.0358422939068
+North Cascades National Park,good,ADJ,0.0351906158358
+North Cascades National Park,fantastic,ADJ,0.0351906158358
+North Cascades National Park,best,ADJ,0.0345622119816
+North Cascades National Park,worth,ADJ,0.0339558573854
+Olympic National Park,beautiful,ADJ,0.177874863473
+Olympic National Park,pocho,ADJ,0.135746606335
+Olympic National Park,overload-,ADJ,0.135746606335
+Olympic National Park,olympus,ADV,0.135746606335
+Olympic National Park,mysteriously,ADV,0.135746606335
+Olympic National Park,fprest,ADJ,0.135746606335
+Olympic National Park,ellinor,ADJ,0.135746606335
+Olympic National Park,couldn’t,ADV,0.135746606335
+Olympic National Park,costal,ADJ,0.135746606335
+Olympic National Park,boundary,ADJ,0.135746606335
+Olympic National Park,atmospheric,ADJ,0.135746606335
+Olympic National Park,great,ADJ,0.0904977375566
+Olympic National Park,lush,ADJ,0.0754147812971
+Olympic National Park,amazing,ADJ,0.0751454427925
+Olympic National Park,suprisingly,ADV,0.0678733031674
+Olympic National Park,list-,ADJ,0.0678733031674
+Olympic National Park,dense,ADJ,0.0678733031674
+Olympic National Park,northwest,ADV,0.0603318250377
+Olympic National Park,pacific,ADJ,0.0581771170006
+Olympic National Park,green,ADJ,0.0565610859729
+Olympic National Park,pro,ADJ,0.0452488687783
+Olympic National Park,farther,ADV,0.0452488687783
+Olympic National Park,diverse,ADJ,0.039592760181
+Olympic National Park,wonderful,ADJ,0.0351935646053
+Olympic National Park,sensory,ADJ,0.0339366515837
+Petrified Forest National Park,beautiful,ADJ,0.182621283546
+Petrified Forest National Park,amazing,ADJ,0.0963017069045
+Petrified Forest National Park,colorful,ADJ,0.0670696364991
+Petrified Forest National Park,great,ADJ,0.0621935175218
+Petrified Forest National Park,worth,ADJ,0.0594867146337
+Petrified Forest National Park,vivid,ADJ,0.048439181916
+Petrified Forest National Park,interesting,ADJ,0.0428230448823
+Petrified Forest National Park,stunning,ADJ,0.0329138030968
+Petrified Forest National Park,waaay,ADV,0.032292787944
+Petrified Forest National Park,simpy,ADJ,0.032292787944
+Petrified Forest National Park,practical,ADJ,0.032292787944
+Petrified Forest National Park,naitonal,ADJ,0.032292787944
+Petrified Forest National Park,mesas,ADJ,0.032292787944
+Petrified Forest National Park,interestimg,ADJ,0.032292787944
+Petrified Forest National Park,incredibile,ADJ,0.032292787944
+Petrified Forest National Park,hypnotic,ADJ,0.032292787944
+Petrified Forest National Park,froest,ADJ,0.032292787944
+Petrified Forest National Park,fodrest,ADJ,0.032292787944
+Petrified Forest National Park,disply,ADV,0.032292787944
+Petrified Forest National Park,basically,ADV,0.032292787944
+Petrified Forest National Park,anne,ADJ,0.032292787944
+Petrified Forest National Park,amazinga,ADJ,0.032292787944
+Petrified Forest National Park,alburquerque,ADJ,0.032292787944
+Petrified Forest National Park,awesome,ADJ,0.0299861602337
+Petrified Forest National Park,nice,ADJ,0.0246599471573
+Pinnacles National Park,newest,ADJ,0.320641282565
+Pinnacles National Park,great,ADJ,0.140280561122
+Pinnacles National Park,whim,ADV,0.120240480962
+Pinnacles National Park,random,ADJ,0.120240480962
+Pinnacles National Park,perth,ADJ,0.120240480962
+Pinnacles National Park,cashier,ADJ,0.120240480962
+Pinnacles National Park,beautiful,ADJ,0.0953631400732
+Pinnacles National Park,messy,ADJ,0.060120240481
+Pinnacles National Park,cooperative,ADJ,0.060120240481
+Pinnacles National Park,busier,ADJ,0.060120240481
+Pinnacles National Park,ashamed,ADJ,0.060120240481
+Pinnacles National Park,nice,ADJ,0.0590271451995
+Pinnacles National Park,worth,ADJ,0.0485180888092
+Pinnacles National Park,small,ADJ,0.0462463388315
+Pinnacles National Park,east,ADV,0.0416217049484
+Pinnacles National Park,unsung,ADJ,0.0400801603206
+Pinnacles National Park,miniature,ADJ,0.0400801603206
+Pinnacles National Park,amazing,ADJ,0.0386487260235
+Pinnacles National Park,volcanic,ADJ,0.034354423132
+Pinnacles National Park,understatment,ADJ,0.0300601202405
+Pinnacles National Park,definitly,ADV,0.0300601202405
+Pinnacles National Park,high,ADJ,0.0282918778734
+Pinnacles National Park,surprisingly,ADV,0.0267201068804
+Pinnacles National Park,little,ADJ,0.0261392349917
+Pinnacles National Park,hot,ADJ,0.0255055565677
+Redwood National Park,tall,ADJ,0.161596958175
+Redwood National Park,amazing,ADJ,0.131721890277
+Redwood National Park,beautiful,ADJ,0.102268257506
+Redwood National Park,undeveloped,ADJ,0.0760456273764
+Redwood National Park,tallest,ADJ,0.0760456273764
+Redwood National Park,shady,ADJ,0.0760456273764
+Redwood National Park,scant,ADJ,0.0760456273764
+Redwood National Park,rural,ADJ,0.0760456273764
+Redwood National Park,mendous,ADJ,0.0760456273764
+Redwood National Park,magnanimous,ADJ,0.0760456273764
+Redwood National Park,intensely,ADV,0.0760456273764
+Redwood National Park,inland,ADV,0.0760456273764
+Redwood National Park,humongous,ADJ,0.0760456273764
+Redwood National Park,duffle,ADJ,0.0760456273764
+Redwood National Park,celestial,ADJ,0.0760456273764
+Redwood National Park,beautiiiiful,ADJ,0.0760456273764
+Redwood National Park,anni,ADJ,0.0760456273764
+Redwood National Park,amazingingly,ADV,0.0760456273764
+Redwood National Park,big,ADJ,0.0672031125652
+Redwood National Park,majestic,ADJ,0.0657691912445
+Redwood National Park,coastal,ADJ,0.0570342205323
+Redwood National Park,great,ADJ,0.0506970849176
+Redwood National Park,jurassic,ADJ,0.0506970849176
+Redwood National Park,awesome,ADJ,0.0420966865834
+Redwood National Park,whimsical,ADJ,0.0380228136882
+Rocky Mountain National Park,beautiful,ADJ,0.228779840849
+Rocky Mountain National Park,nostalgic,ADJ,0.192307692308
+Rocky Mountain National Park,47th,ADJ,0.192307692308
+Rocky Mountain National Park,continental,ADJ,0.0961538461538
+Rocky Mountain National Park,great,ADJ,0.0925925925926
+Rocky Mountain National Park,amazing,ADJ,0.0824175824176
+Rocky Mountain National Park,purple,ADJ,0.0641025641026
+Rocky Mountain National Park,dizzy,ADJ,0.0641025641026
+Rocky Mountain National Park,awesome,ADJ,0.051510989011
+Rocky Mountain National Park,senic,ADJ,0.0480769230769
+Rocky Mountain National Park,mtns,ADJ,0.0480769230769
+Rocky Mountain National Park,gorgous,ADJ,0.0480769230769
+Rocky Mountain National Park,100th,ADJ,0.0480769230769
+Rocky Mountain National Park,stunning,ADJ,0.0443786982249
+Rocky Mountain National Park,high,ADJ,0.039592760181
+Rocky Mountain National Park,narrow,ADJ,0.0384615384615
+Rocky Mountain National Park,best,ADJ,0.0377747252747
+Rocky Mountain National Park,spetacular,ADJ,0.0320512820513
+Rocky Mountain National Park,spectacular,ADJ,0.02849002849
+Rocky Mountain National Park,beautful,ADJ,0.0274725274725
+Rocky Mountain National Park,wonderful,ADJ,0.0249287749288
+Rocky Mountain National Park,incredible,ADJ,0.0226244343891
+Rocky Mountain National Park,magnificent,ADJ,0.0223613595707
+Rocky Mountain National Park,fantastic,ADJ,0.020979020979
+Rocky Mountain National Park,majestic,ADJ,0.02079002079
+Saguaro National Park,bridal,ADJ,0.18320610687
+Saguaro National Park,beautiful,ADJ,0.146880758094
+Saguaro National Park,east,ADV,0.140927774516
+Saguaro National Park,great,ADJ,0.11026293469
+Saguaro National Park,wowsa,ADJ,0.0916030534351
+Saguaro National Park,unuasual,ADJ,0.0916030534351
+Saguaro National Park,stickery,ADV,0.0916030534351
+Saguaro National Park,political,ADJ,0.0916030534351
+Saguaro National Park,lovefest,ADJ,0.0916030534351
+Saguaro National Park,embraceable,ADJ,0.0916030534351
+Saguaro National Park,densly,ADV,0.0916030534351
+Saguaro National Park,dense,ADJ,0.0916030534351
+Saguaro National Park,angry,ADJ,0.0916030534351
+Saguaro National Park,nice,ADJ,0.0599583622484
+Saguaro National Park,amazing,ADJ,0.0523446019629
+Saguaro National Park,strikingly,ADV,0.0458015267176
+Saguaro National Park,ouch,ADJ,0.0458015267176
+Saguaro National Park,opposite,ADJ,0.0458015267176
+Saguaro National Park,distinctly,ADV,0.0458015267176
+Saguaro National Park,interesting,ADJ,0.0338533023565
+Saguaro National Park,rude,ADJ,0.0333102012491
+Saguaro National Park,obnoxious,ADJ,0.030534351145
+Saguaro National Park,bumpy,ADJ,0.030534351145
+Saguaro National Park,gorgeous,ADJ,0.0276537519804
+Saguaro National Park,worth,ADJ,0.0273202089192
+Sequoia National Park,integral,ADJ,0.32967032967
+Sequoia National Park,azalea,ADV,0.164835164835
+Sequoia National Park,appropriate,ADJ,0.164835164835
+Sequoia National Park,giant,ADJ,0.116354234001
+Sequoia National Park,big,ADJ,0.107334525939
+Sequoia National Park,amazing,ADJ,0.105965463108
+Sequoia National Park,beautiful,ADJ,0.102311481622
+Sequoia National Park,overwhelmingly,ADV,0.0824175824176
+Sequoia National Park,common,ADJ,0.0824175824176
+Sequoia National Park,biggest,ADJ,0.0706436420722
+Sequoia National Park,great,ADJ,0.0671550671551
+Sequoia National Park,largest,ADJ,0.0549450549451
+Sequoia National Park,general,ADJ,0.0549450549451
+Sequoia National Park,bliss,ADV,0.0470957613815
+Sequoia National Park,awesome,ADJ,0.0470957613815
+Sequoia National Park,majestic,ADJ,0.04455004455
+Sequoia National Park,wonderful,ADJ,0.042735042735
+Sequoia National Park,human,ADJ,0.0412087912088
+Sequoia National Park,greater,ADJ,0.0412087912088
+Sequoia National Park,forrest,ADJ,0.0412087912088
+Sequoia National Park,utterly,ADV,0.03663003663
+Sequoia National Park,closer,ADJ,0.03663003663
+Sequoia National Park,carefully,ADV,0.03663003663
+Sequoia National Park,favourite,ADJ,0.0347021399653
+Sequoia National Park,sublime,ADJ,0.032967032967
+Shenandoah National Park,hollow,ADJ,0.779220779221
+Shenandoah National Park,beautiful,ADJ,0.268696820421
+Shenandoah National Park,marvellous,ADJ,0.0974025974026
+Shenandoah National Park,blue,ADJ,0.0916730328495
+Shenandoah National Park,multi,ADJ,0.0779220779221
+Shenandoah National Park,gorgeous,ADJ,0.0735113942661
+Shenandoah National Park,wonderful,ADJ,0.0721500721501
+Shenandoah National Park,spectacular,ADJ,0.0577200577201
+Shenandoah National Park,historical,ADJ,0.0556586270872
+Shenandoah National Park,friendly,ADJ,0.0519480519481
+Shenandoah National Park,scenic,ADJ,0.0487012987013
+Shenandoah National Park,rare,ADJ,0.0487012987013
+Shenandoah National Park,great,ADJ,0.04329004329
+Shenandoah National Park,nice,ADJ,0.0425029515939
+Shenandoah National Park,peaceful,ADJ,0.0371057513915
+Shenandoah National Park,outstanding,ADJ,0.0354191263282
+Shenandoah National Park,green,ADJ,0.0324675324675
+Shenandoah National Park,east,ADV,0.02997002997
+Shenandoah National Park,absolutely,ADV,0.02997002997
+Shenandoah National Park,good,ADJ,0.0283353010626
+Shenandoah National Park,best,ADJ,0.0278293135436
+Shenandoah National Park,highly,ADV,0.0236127508855
+Shenandoah National Park,bad,ADJ,0.0222634508349
+Shenandoah National Park,old,ADJ,0.021645021645
+Shenandoah National Park,magical,ADJ,0.021645021645
+Theodore Roosevelt National Park,bully,ADV,0.224550898204
+Theodore Roosevelt National Park,beautiful,ADJ,0.195901300847
+Theodore Roosevelt National Park,buffalos,ADV,0.157185628743
+Theodore Roosevelt National Park,great,ADJ,0.141383898869
+Theodore Roosevelt National Park,wild,ADJ,0.063622754491
+Theodore Roosevelt National Park,unadvertised,ADJ,0.0449101796407
+Theodore Roosevelt National Park,thankfully,ADV,0.0449101796407
+Theodore Roosevelt National Park,symbolic,ADJ,0.0449101796407
+Theodore Roosevelt National Park,reflective,ADJ,0.0449101796407
+Theodore Roosevelt National Park,presidential,ADJ,0.0449101796407
+Theodore Roosevelt National Park,pleasurable,ADJ,0.0449101796407
+Theodore Roosevelt National Park,navigable,ADJ,0.0449101796407
+Theodore Roosevelt National Park,individual,ADJ,0.0449101796407
+Theodore Roosevelt National Park,independent,ADJ,0.0449101796407
+Theodore Roosevelt National Park,i90,ADJ,0.0449101796407
+Theodore Roosevelt National Park,delighted,ADJ,0.0449101796407
+Theodore Roosevelt National Park,charismatic,ADJ,0.0449101796407
+Theodore Roosevelt National Park,awedome,ADJ,0.0449101796407
+Theodore Roosevelt National Park,south,ADV,0.0433062446536
+Theodore Roosevelt National Park,wonderful,ADJ,0.0424151696607
+Theodore Roosevelt National Park,worth,ADJ,0.0378190986448
+Theodore Roosevelt National Park,amazing,ADJ,0.0368905047049
+Theodore Roosevelt National Park,nice,ADJ,0.0351115949918
+Theodore Roosevelt National Park,similar,ADJ,0.0336826347305
+Theodore Roosevelt National Park,awesome,ADJ,0.028870829769
+Virgin Islands National Park,underwater,ADV,1.25874125874
+Virgin Islands National Park,squid,ADJ,0.41958041958
+Virgin Islands National Park,coral,ADJ,0.41958041958
+Virgin Islands National Park,great,ADJ,0.17871017871
+Virgin Islands National Park,unnecessary,ADJ,0.13986013986
+Virgin Islands National Park,lame,ADJ,0.13986013986
+Virgin Islands National Park,aplenty,ADJ,0.104895104895
+Virgin Islands National Park,nice,ADJ,0.099173553719
+Virgin Islands National Park,excellant,ADJ,0.0839160839161
+Virgin Islands National Park,better,ADV,0.0770657913515
+Virgin Islands National Park,beautiful,ADJ,0.0651073064866
+Virgin Islands National Park,good,ADJ,0.0534011443102
+Virgin Islands National Park,dead,ADJ,0.0524475524476
+Virgin Islands National Park,safe,ADJ,0.0381436745073
+Virgin Islands National Park,rude,ADJ,0.0381436745073
+Virgin Islands National Park,interesting,ADJ,0.0364852538766
+Virgin Islands National Park,cool,ADJ,0.0357089718792
+Virgin Islands National Park,slightly,ADV,0.034965034965
+Virgin Islands National Park,informative,ADJ,0.0335664335664
+Virgin Islands National Park,colorful,ADJ,0.0322754168908
+Virgin Islands National Park,short,ADJ,0.02997002997
+Virgin Islands National Park,best,ADJ,0.02997002997
+Virgin Islands National Park,cloudy,ADJ,0.0262237762238
+Virgin Islands National Park,decent,ADJ,0.0246812011518
+Virgin Islands National Park,completely,ADV,0.0246812011518
+Voyageurs National Park,beautiful,ADJ,0.310344827586
+Voyageurs National Park,vast,ADJ,0.206896551724
+Voyageurs National Park,quiet,ADJ,0.153846153846
+Voyageurs National Park,unique,ADJ,0.122448979592
+Voyageurs National Park,great,ADJ,0.111111111111
+Voyageurs National Park,best,ADJ,0.107142857143
+Voyageurs National Park,awesome,ADJ,0.107142857143
+Voyageurs National Park,amazing,ADJ,0.107142857143
+Wind Cave National Park,underneath,ADV,0.224299065421
+Wind Cave National Park,underground,ADV,0.168224299065
+Wind Cave National Park,great,ADJ,0.130841121495
+Wind Cave National Park,interesting,ADJ,0.11702559935
+Wind Cave National Park,uninspired,ADJ,0.11214953271
+Wind Cave National Park,traditional,ADJ,0.11214953271
+Wind Cave National Park,surprizingly,ADV,0.11214953271
+Wind Cave National Park,justin,ADJ,0.11214953271
+Wind Cave National Park,flashy,ADJ,0.11214953271
+Wind Cave National Park,complex,ADJ,0.11214953271
+Wind Cave National Park,dry,ADJ,0.0872274143302
+Wind Cave National Park,unimpressive,ADJ,0.0560747663551
+Wind Cave National Park,mildly,ADV,0.0560747663551
+Wind Cave National Park,cool,ADJ,0.0524955259495
+Wind Cave National Park,early,ADV,0.0498442367601
+Wind Cave National Park,beautiful,ADJ,0.0483403158234
+Wind Cave National Park,dirty,ADJ,0.0448598130841
+Wind Cave National Park,good,ADJ,0.0407816482583
+Wind Cave National Park,longest,ADJ,0.0373831775701
+Wind Cave National Park,immensely,ADV,0.0373831775701
+Wind Cave National Park,extraordinarily,ADV,0.0373831775701
+Wind Cave National Park,creepy,ADJ,0.0373831775701
+Wind Cave National Park,astoundingly,ADV,0.0373831775701
+Wind Cave National Park,worth,ADJ,0.0354156419085
+Wind Cave National Park,amazing,ADJ,0.0340453938585
+Wrangell - St Elias National Park,valuable,ADJ,0.6
+Wrangell - St Elias National Park,mccarthy,ADJ,0.6
+Wrangell - St Elias National Park,astonish,ADJ,0.6
+Wrangell - St Elias National Park,ahtna,ADV,0.6
+Wrangell - St Elias National Park,accidental,ADJ,0.6
+Wrangell - St Elias National Park,denali,ADJ,0.3
+Wrangell - St Elias National Park,great,ADJ,0.188888888889
+Wrangell - St Elias National Park,cultural,ADJ,0.12
+Wrangell - St Elias National Park,30th,ADJ,0.12
+Wrangell - St Elias National Park,fewer,ADJ,0.1
+Wrangell - St Elias National Park,nice,ADJ,0.0981818181818
+Wrangell - St Elias National Park,informative,ADJ,0.096
+Wrangell - St Elias National Park,huge,ADJ,0.0878048780488
+Wrangell - St Elias National Park,unbeatable,ADJ,0.0857142857143
+Wrangell - St Elias National Park,easier,ADJ,0.0857142857143
+Wrangell - St Elias National Park,rich,ADJ,0.075
+Wrangell - St Elias National Park,native,ADJ,0.075
+Wrangell - St Elias National Park,untouched,ADJ,0.0666666666667
+Wrangell - St Elias National Park,largest,ADJ,0.0666666666667
+Wrangell - St Elias National Park,tiny,ADJ,0.06
+Wrangell - St Elias National Park,helpful,ADJ,0.0571428571429
+Wrangell - St Elias National Park,beautiful,ADJ,0.051724137931
+Wrangell - St Elias National Park,private,ADJ,0.05
+Wrangell - St Elias National Park,remote,ADJ,0.0461538461538
+Wrangell - St Elias National Park,biggest,ADJ,0.0428571428571
+Yellowstone National Park,faithful,ADJ,0.639053254438
+Yellowstone National Park,thermal,ADJ,0.213017751479
+Yellowstone National Park,amazing,ADJ,0.128064243449
+Yellowstone National Park,beautiful,ADJ,0.127320954907
+Yellowstone National Park,geothermal,ADJ,0.10650887574
+Yellowstone National Park,best,ADJ,0.074809805579
+Yellowstone National Park,unruly,ADJ,0.0710059171598
+Yellowstone National Park,tickle,ADJ,0.0710059171598
+Yellowstone National Park,spellbindingly,ADV,0.0710059171598
+Yellowstone National Park,reliable,ADJ,0.0710059171598
+Yellowstone National Park,prismatic,ADJ,0.0710059171598
+Yellowstone National Park,megincal,ADJ,0.0710059171598
+Yellowstone National Park,incredlble,ADJ,0.0710059171598
+Yellowstone National Park,illusive,ADJ,0.0710059171598
+Yellowstone National Park,hydrothermal,ADJ,0.0710059171598
+Yellowstone National Park,horrendous,ADJ,0.0710059171598
+Yellowstone National Park,everywhere-,ADV,0.0710059171598
+Yellowstone National Park,great,ADJ,0.0473372781065
+Yellowstone National Park,awesome,ADJ,0.0456466610313
+Yellowstone National Park,oldest,ADJ,0.0426035502959
+Yellowstone National Park,volatile,ADJ,0.0355029585799
+Yellowstone National Park,staggeringly,ADV,0.0355029585799
+Yellowstone National Park,spectatcular,ADJ,0.0355029585799
+Yellowstone National Park,smelly,ADV,0.0355029585799
+Yellowstone National Park,original,ADJ,0.0355029585799
+Yosemite National Park,beautiful,ADJ,0.180013027259
+Yosemite National Park,amazing,ADJ,0.0916877913157
+Yosemite National Park,vally,ADV,0.0686891814539
+Yosemite National Park,stunning,ADJ,0.0607635066708
+Yosemite National Park,great,ADJ,0.0556509571965
+Yosemite National Park,awesome,ADJ,0.0456905715921
+Yosemite National Park,busy,ADJ,0.0396283739157
+Yosemite National Park,spectacular,ADJ,0.038478661833
+Yosemite National Park,best,ADJ,0.0358778313844
+Yosemite National Park,horribly,ADV,0.034344590727
+Yosemite National Park,badly,ADV,0.034344590727
+Yosemite National Park,wonderful,ADJ,0.0267124594543
+Yosemite National Park,glacier,ADJ,0.0240412135089
+Yosemite National Park,gorgeous,ADJ,0.0223563845298
+Yosemite National Park,fantastic,ADJ,0.0190456366759
+Yosemite National Park,worth,ADJ,0.018678637062
+Yosemite National Park,natural,ADJ,0.0182236603857
+Yosemite National Park,early,ADV,0.017649303568
+Yosemite National Park,majestic,ADJ,0.0171722953635
+Yosemite National Park,youngest,ADJ,0.0171722953635
+Yosemite National Park,wonderville,ADV,0.0171722953635
+Yosemite National Park,woefully,ADV,0.0171722953635
+Yosemite National Park,wapama,ADV,0.0171722953635
+Yosemite National Park,verdant,ADJ,0.0171722953635
+Yosemite National Park,unspeakable,ADJ,0.0171722953635
+Zion National Park,utah,ADJ,0.148494431459
+Zion National Park,beautiful,ADJ,0.137400019913
+Zion National Park,great,ADJ,0.0812747299754
+Zion National Park,amazing,ADJ,0.0804344837069
+Zion National Park,ziontastic,ADJ,0.0577478344562
+Zion National Park,worshipful,ADJ,0.0577478344562
+Zion National Park,uncomplicate,ADJ,0.0577478344562
+Zion National Park,outing-,ADJ,0.0577478344562
+Zion National Park,nuttin,ADJ,0.0577478344562
+Zion National Park,nowadays,ADV,0.0577478344562
+Zion National Park,hikeable,ADJ,0.0577478344562
+Zion National Park,fatal,ADJ,0.0577478344562
+Zion National Park,fanstastic,ADJ,0.0577478344562
+Zion National Park,extradordinary,ADJ,0.0577478344562
+Zion National Park,enjoable,ADJ,0.0577478344562
+Zion National Park,beautuful,ADJ,0.0577478344562
+Zion National Park,beautiuful,ADJ,0.0577478344562
+Zion National Park,spectacular,ADJ,0.0556090257726
+Zion National Park,best,ADJ,0.0433108758422
+Zion National Park,awesome,ADJ,0.0391860305239
+Zion National Park,stunning,ADJ,0.0377581994521
+Zion National Park,spectcular,ADJ,0.0288739172281
+Zion National Park,specatular,ADJ,0.0288739172281
+Zion National Park,serenely,ADV,0.0288739172281
+Zion National Park,restful,ADJ,0.0288739172281
